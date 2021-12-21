@@ -1,7 +1,7 @@
 import {hierarchy, scaleLinear, select, tree} from "d3"
-import React, {useEffect}                     from "react"
-import Data                                   from "./json/all.json"
-import {Genome}                               from "./Genome"
+import React, {useEffect} from "react"
+import {Genome} from "./Genome"
+import Data from "./json/all.json"
 
 type Domain = {
   name: string
@@ -119,6 +119,7 @@ export const FusionAllChart = () => {
     const root = tree().size([380, 300])(hierarchy(bubbles))
 
     svg.selectAll(".circle")
+        // @ts-ignore
       .data(root.children)
       .join("circle")
       .attr("class", "circle")
@@ -130,6 +131,7 @@ export const FusionAllChart = () => {
       .attr("fill", "#57d7ec")
 
     svg.selectAll(".line")
+        // @ts-ignore
       .data(root.children)
       .join("polyline")
       .attr("class", "line")
