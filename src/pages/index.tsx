@@ -22,7 +22,8 @@ const Home = () => {
             </div>
         </div>
 
-        <div className="relative pt-6 lg:pt-8 flex items-center justify-between text-gray-700 font-semibold text-sm leading-6 dark:text-gray-200">
+        <div
+            className="relative pt-6 lg:pt-8 flex items-center justify-between text-gray-700 font-semibold text-sm leading-6 dark:text-gray-200">
             <Navigation/>
         </div>
 
