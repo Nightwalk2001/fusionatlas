@@ -1,0 +1,92 @@
+{
+    "domains": [
+        {
+            "name": "Pseudokinase domain",
+            "start": 560,
+            "end": 805
+        },
+        {
+            "name": "Tyrosine kinase domain",
+            "start": 835,
+            "end": 1125
+        }
+    ],
+    "mutations": [
+        {
+            "name": "V617F",
+            "position": 620
+        },
+        {
+            "name": "L681",
+            "position": 679
+        },
+        {
+            "name": "L682F",
+            "position": 682
+        },
+        {
+            "name": "R683G",
+            "position": 684
+        },
+        {
+            "name": "R683S",
+            "position": 684
+        },
+        {
+            "name": "T875N",
+            "position": 880
+        }
+    ],
+    "fusions": [
+        {
+            "name": "TPR",
+            "position": 658,
+            "apex": "N"
+        },
+        {
+            "name": "TPR",
+            "position": 660,
+            "apex": "C"
+        },
+        {
+            "name": "ATF7IP",
+            "position": 710,
+            "apex": "C"
+        },
+        {
+            "name": "EBF1",
+            "position": 710,
+            "apex": "C"
+        },
+        {
+            "name": "EBF1",
+            "position": 710,
+            "apex": "N"
+        },
+        {
+            "name": "SSBP2",
+            "position": 755,
+            "apex": "C"
+        },
+        {
+            "name": "PAX5",
+            "position": 810,
+            "apex": "C"
+        },
+        {
+            "name": "TERF2",
+            "position": 810,
+            "apex": "C"
+        },
+        {
+            "name": "BCR",
+            "position": 810,
+            "apex": "C"
+        },
+        {
+            "name": "PPFIBP1",
+            "position": 810,
+            "apex": "N"
+        }
+    ]
+}
