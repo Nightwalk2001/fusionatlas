@@ -2,15 +2,17 @@ const path = require("path")
 
 const resolvePath = url => path.join(__dirname, url)
 
-// @ts-check
-
 /**
  * @type {import("next").NextConfig}
  **/
 const nextConfig = {
     reactStrictMode: true,
     swcMinify: true,
-    webpack5: true,
+    i18n: {
+        locales: ["en-US", "zh-CN"],
+        defaultLocale: "en-US",
+        localeDetection: false
+    },
     images: {
         disableStaticImages: true,
     },
@@ -37,7 +39,7 @@ const nextConfig = {
                     loader: "file-loader",
                     options: {
                         publicPath: "/_next",
-                        name: "static/media/[name].[hash].[ext]",
+                        name: "static/media/[name].[hash].[ext]"
                     },
                 },
             ],

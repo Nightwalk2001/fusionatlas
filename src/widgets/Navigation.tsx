@@ -5,20 +5,19 @@ import React from "react"
 
 export const Navigation: React.FC = () => {
 
-  const linkClass = ({isActive}: { isActive: boolean; }) => `hover:text-indigo-200 ${isActive && "text-indigo-400 font-semibold"}`
-
   return <div className={"flex justify-between items-center w-10/12 mx-auto pt-4"}>
 
     <div className={"flex items-center space-x-2 cursor-pointer"}>
       <img
-        src={"/wish.svg"}
+        src={"/matlab.svg"}
         alt={"back to home"}
+        width={32}
         height={32}
       />
-      <span className={"font-ff font-semibold text-2xl text-[#0f172a]"}>fusion atlas</span>
+      <span className={"font-semibold text-2xl bg-gradient-to-r from-purple-500 to-light-blue-500 gradient"}>fusion atlas</span>
     </div>
 
-    <div className={"flex justify-between items-center w-[380px] text-md font-semibold text-gray-600"}>
+    <div className={"flex justify-between items-center space-x-3 w-[430px] text-md font-semibold text-gray-600"}>
 
       <div>Fusion paint</div>
 

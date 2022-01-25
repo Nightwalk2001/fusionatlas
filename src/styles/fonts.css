@@ -17,15 +17,6 @@
 }
 
 @font-face {
-    font-family: 'FF Mark';
-    src: local('FF Mark Regular'), local('FF-Mark-Regular'),
-    url("/fonts/Mark-Regular.woff2") format('woff2'),
-    url("/fonts/Mark-Regular.woff") format('woff');
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
     font-family: 'Fira Code VF';
     font-weight: 300 700;
     font-style: normal;

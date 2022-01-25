@@ -250,7 +250,6 @@ module.exports = {
             }),
             fontFamily: {
                 sans: ["Inter var", ...defaultTheme.fontFamily.sans],
-                ff: ["FF Mark"],
                 mono: ["Fira Code VF", ...defaultTheme.fontFamily.mono],
                 source: ["Source Sans Pro", ...defaultTheme.fontFamily.sans],
                 "ubuntu-mono": ["Ubuntu Mono", ...defaultTheme.fontFamily.mono],
@@ -296,7 +295,7 @@ module.exports = {
             },
             backgroundImage: (theme) => ({
                 squiggle: `url("${svgToDataUri(
-                    `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6 3" enable-background="new 0 0 6 3" width="6" height="3" fill="${theme(
+                    `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6 3" width="6" height="3" fill="${theme(
                         "colors.yellow.400"
                     )}"><polygon points="5.5,0 2.5,3 1.1,3 4.1,0"/><polygon points="4,0 6,2 6,0.6 5.4,0"/><polygon points="0,2 1,3 2.4,3 0,0.6"/></svg>`
                 )}")`,

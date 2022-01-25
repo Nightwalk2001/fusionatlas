@@ -1,8 +1,8 @@
 [
     {
-        "gene": "CDK14",
-        "geneId": "ENST00000265741.7",
-        "chr": "chr7",
+        "name": "CDK14",
+        "id": "ENST00000265741.7",
+        "chrom": "chr7",
         "breakpoint1": 90709816,
         "breakpoint2": 91045960,
         "exons": [
@@ -73,25 +73,15 @@
         ]
     },
     {
-        "gene": "DDX11L1",
-        "geneId": "ENST00000450305.2",
-        "chr": "chr1",
+        "name": "DDX11L1",
+        "id": "ENST00000450305.2",
+        "chrom": "chr1",
+        "breakpoint1": 12179,
+        "breakpoint2": 14670,
         "exons": [
             {
                 "start": 11869,
                 "end": 12227
-            },
-            {
-                "start": 12613,
-                "end": 12721
-            },
-            {
-                "start": 13221,
-                "end": 14409
-            },
-            {
-                "start": 12010,
-                "end": 12057
             },
             {
                 "start": 12179,
@@ -112,6 +102,22 @@
             {
                 "start": 13453,
                 "end": 13670
+            },
+            {
+                "start": 13695,
+                "end": 13770
+            },
+            {
+                "start": 13853,
+                "end": 14070
+            },
+            {
+                "start": 14453,
+                "end": 14670
+            },
+            {
+                "start": 15453,
+                "end": 15670
             }
         ]
     }

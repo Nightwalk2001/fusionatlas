@@ -1,10 +1,35 @@
-@import "tailwind.css";
-@import "docsearch.css";
+@import "base.css";
+@import "prism.css";
+@import "progress.css";
 @import "fonts.css";
+@import "docsearch.css";
+@import "utilties.css";
+
+@tailwind components;
 
 body {
     overflow-x: hidden;
     overflow-y: overlay;
+}
+
+.gradient {
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.x-center {
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.y-center {
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+div::selection, h1::selection, p::selection, span::selection {
+    background: #79ffe1;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -19,3 +44,4 @@ body {
     width: 9px;
     height: 8px;
 }
+
