@@ -12,8 +12,8 @@ type BoxData = {
 
 type BoxChartProps = {
   data?: {
-    "c-MPL-p": number[]
-    "c-MPL-del": number[]
+    "Fusion+": number[]
+    "Fusion-": number[]
   }
 }
 
@@ -25,10 +25,10 @@ export const BoxChart = ({data = raw}: BoxChartProps) => {
 
   const ordinal = scaleOrdinal<number, string>()
     .domain([0, 1])
-    .range(["c-MPL-p", "c-MPL-del"])
+    .range(["Fusion+", "Fusion-"])
 
   const x = scaleBand<string>()
-    .domain(["c-MPL-p", "c-MPL-del"])
+    .domain(["Fusion+", "Fusion-"])
     .range([0, width])
     .paddingInner(4)
     .paddingOuter(.5)
@@ -36,7 +36,7 @@ export const BoxChart = ({data = raw}: BoxChartProps) => {
 
   const xPos = (i: number) => x(ordinal(i))
 
-  const numbers = [...data["c-MPL-p"], ...data["c-MPL-del"]]
+  const numbers = [...data["Fusion+"], ...data["Fusion-"]]
 
   const y = scaleLinear()
     // .domain(extent(numbers) as [number, number])
@@ -50,7 +50,7 @@ export const BoxChart = ({data = raw}: BoxChartProps) => {
         stroke = scaleOrdinal<number, string>()
           .domain([0, 1])
           .range(["#53dfec", "#9a60d9"])
-  const dataArray = [data["c-MPL-p"], data["c-MPL-del"]],
+  const dataArray = [data["Fusion+"], data["Fusion-"]],
         count     = dataArray.map(d => d.length),
         dataReady = dataArray.map(stat)
 
@@ -132,8 +132,9 @@ export const BoxChart = ({data = raw}: BoxChartProps) => {
             <polyline points={`${xPos(0)},110 ${xPos(0)},17 ${xPos(1)},17 ${xPos(1)},60`}
                       className={"fill-transparent stroke-indigo-200 stroke-[1.2]"}/>
 
-            <text transform={"translate(213,34)scale(0.8)"} textAnchor={"middle"} alignmentBaseline={"middle"}
-                  fontFamily={"Times New Roman"} className={"fill-gray-600 text-xl"}>ks-test, pvalue=5.1e-10
+            <text transform={"translate(216,34)scale(0.8)"} textAnchor={"middle"} alignmentBaseline={"middle"}
+                  fontFamily={"Times New Roman"} className={"fill-gray-600 text-xl"}>
+              pvalue=4.1e-10
             </text>
             {/*<path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className={"fill-orange-300"}*/}
             {/*      transform={"translate(210,14)scale(0.8)"}*/}
@@ -143,9 +144,9 @@ export const BoxChart = ({data = raw}: BoxChartProps) => {
       </g>
     </svg>
 
-    <div className={"absolute top-3 left-[240px] text-xl text-gray-700 font-medium font-roma"}
+    <div className={"absolute top-3 left-[262px] text-xl text-gray-700 font-medium font-roma"}
          style={{fontFamily: "Times New Roman"}}>
-      TCGA-LAML
+      AUC
     </div>
   </div>
 }
