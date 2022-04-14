@@ -1,0 +1,1352 @@
+[
+    {
+        "sample": "SRR1068687",
+        "gene": "A1BG",
+        "value": 7.051076,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068687",
+        "gene": "A1BG-AS1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068687",
+        "gene": "A1CF",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068687",
+        "gene": "A2M",
+        "value": 1020.569641,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068687",
+        "gene": "A2ML1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068687",
+        "gene": "A2ML1-AS1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068687",
+        "gene": "A2ML1-AS2",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068687",
+        "gene": "A3GALT2",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068687",
+        "gene": "A4GALT",
+        "value": 76.227456,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068687",
+        "gene": "A4GNT",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068687",
+        "gene": "AAAS",
+        "value": 160.390025,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068687",
+        "gene": "AACS",
+        "value": 0.4475,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068687",
+        "gene": "AADAC",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068687",
+        "gene": "AADACL2",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068687",
+        "gene": "AADACL2-AS1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068788",
+        "gene": "A1BG",
+        "value": 3.172304,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068788",
+        "gene": "A1BG-AS1",
+        "value": 0.948347,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068788",
+        "gene": "A1CF",
+        "value": 0.151659,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068788",
+        "gene": "A2M",
+        "value": 32.465039,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068788",
+        "gene": "A2ML1",
+        "value": 8.600608,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068788",
+        "gene": "A2ML1-AS1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068788",
+        "gene": "A2ML1-AS2",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068788",
+        "gene": "A3GALT2",
+        "value": 0.125574,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068788",
+        "gene": "A4GALT",
+        "value": 8.012244,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068788",
+        "gene": "A4GNT",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068788",
+        "gene": "AAAS",
+        "value": 78.568791,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068788",
+        "gene": "AACS",
+        "value": 31.420271,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068788",
+        "gene": "AADAC",
+        "value": 0.217848,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068788",
+        "gene": "AADACL2",
+        "value": 0.040465,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068788",
+        "gene": "AADACL2-AS1",
+        "value": 11.26428,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068832",
+        "gene": "A1BG",
+        "value": 59.997541,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068832",
+        "gene": "A1BG-AS1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068832",
+        "gene": "A1CF",
+        "value": 0.099813,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068832",
+        "gene": "A2M",
+        "value": 1309.335403,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068832",
+        "gene": "A2ML1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068832",
+        "gene": "A2ML1-AS1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068832",
+        "gene": "A2ML1-AS2",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068832",
+        "gene": "A3GALT2",
+        "value": 0.363172,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068832",
+        "gene": "A4GALT",
+        "value": 60.141461,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068832",
+        "gene": "A4GNT",
+        "value": 0.365969,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068832",
+        "gene": "AAAS",
+        "value": 116.044214,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068832",
+        "gene": "AACS",
+        "value": 0.6656,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068832",
+        "gene": "AADAC",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068832",
+        "gene": "AADACL2",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068832",
+        "gene": "AADACL2-AS1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068855",
+        "gene": "A1BG",
+        "value": 2.683609,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068855",
+        "gene": "A1BG-AS1",
+        "value": 0.26254,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068855",
+        "gene": "A1CF",
+        "value": 0.009416,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068855",
+        "gene": "A2M",
+        "value": 31.517042,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068855",
+        "gene": "A2ML1",
+        "value": 0.573516,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068855",
+        "gene": "A2ML1-AS1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068855",
+        "gene": "A2ML1-AS2",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068855",
+        "gene": "A3GALT2",
+        "value": 0.089175,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068855",
+        "gene": "A4GALT",
+        "value": 8.731043,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068855",
+        "gene": "A4GNT",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068855",
+        "gene": "AAAS",
+        "value": 17.074153,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068855",
+        "gene": "AACS",
+        "value": 3.680514,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068855",
+        "gene": "AADAC",
+        "value": 0.067303,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068855",
+        "gene": "AADACL2",
+        "value": 0.065698,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068855",
+        "gene": "AADACL2-AS1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068905",
+        "gene": "A1BG",
+        "value": 6.355537,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068905",
+        "gene": "A1BG-AS1",
+        "value": 0.489583,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068905",
+        "gene": "A1CF",
+        "value": 0.146822,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068905",
+        "gene": "A2M",
+        "value": 15.530794,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068905",
+        "gene": "A2ML1",
+        "value": 13.220367,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068905",
+        "gene": "A2ML1-AS1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068905",
+        "gene": "A2ML1-AS2",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068905",
+        "gene": "A3GALT2",
+        "value": 0.271671,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068905",
+        "gene": "A4GALT",
+        "value": 5.813495,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068905",
+        "gene": "A4GNT",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068905",
+        "gene": "AAAS",
+        "value": 79.048912,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068905",
+        "gene": "AACS",
+        "value": 27.441355,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068905",
+        "gene": "AADAC",
+        "value": 0.323522,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068905",
+        "gene": "AADACL2",
+        "value": 0.028955,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068905",
+        "gene": "AADACL2-AS1",
+        "value": 8.242672,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068953",
+        "gene": "A1BG",
+        "value": 1.883433,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068953",
+        "gene": "A1BG-AS1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068953",
+        "gene": "A1CF",
+        "value": 0.284934,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068953",
+        "gene": "A2M",
+        "value": 51.369315,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068953",
+        "gene": "A2ML1",
+        "value": 1.193924,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068953",
+        "gene": "A2ML1-AS1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068953",
+        "gene": "A2ML1-AS2",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068953",
+        "gene": "A3GALT2",
+        "value": 0.046167,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068953",
+        "gene": "A4GALT",
+        "value": 12.127367,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068953",
+        "gene": "A4GNT",
+        "value": 6.371848,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068953",
+        "gene": "AAAS",
+        "value": 30.932549,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068953",
+        "gene": "AACS",
+        "value": 20.964345,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068953",
+        "gene": "AADAC",
+        "value": 29.765396,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068953",
+        "gene": "AADACL2",
+        "value": 0.150459,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068953",
+        "gene": "AADACL2-AS1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068999",
+        "gene": "A1BG",
+        "value": 12.840023,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068999",
+        "gene": "A1BG-AS1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068999",
+        "gene": "A1CF",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068999",
+        "gene": "A2M",
+        "value": 322.688313,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068999",
+        "gene": "A2ML1",
+        "value": 0.086132,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068999",
+        "gene": "A2ML1-AS1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068999",
+        "gene": "A2ML1-AS2",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068999",
+        "gene": "A3GALT2",
+        "value": 0.199932,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068999",
+        "gene": "A4GALT",
+        "value": 156.428152,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068999",
+        "gene": "A4GNT",
+        "value": 0.033386,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068999",
+        "gene": "AAAS",
+        "value": 45.17358,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068999",
+        "gene": "AACS",
+        "value": 1.690029,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068999",
+        "gene": "AADAC",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068999",
+        "gene": "AADACL2",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "SRR1068999",
+        "gene": "AADACL2-AS1",
+        "value": 0,
+        "type": "normal"
+    },
+    {
+        "sample": "TCGA-CN-4727-01A",
+        "gene": "A1BG",
+        "value": 22.992459,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CN-4727-01A",
+        "gene": "A1BG-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CN-4727-01A",
+        "gene": "A1CF",
+        "value": 0.183828,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CN-4727-01A",
+        "gene": "A2M",
+        "value": 82.665704,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CN-4727-01A",
+        "gene": "A2ML1",
+        "value": 0.044553,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CN-4727-01A",
+        "gene": "A2ML1-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CN-4727-01A",
+        "gene": "A2ML1-AS2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CN-4727-01A",
+        "gene": "A3GALT2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CN-4727-01A",
+        "gene": "A4GALT",
+        "value": 128.39766,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CN-4727-01A",
+        "gene": "A4GNT",
+        "value": 0.026286,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CN-4727-01A",
+        "gene": "AAAS",
+        "value": 37.213251,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CN-4727-01A",
+        "gene": "AACS",
+        "value": 0.092014,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CN-4727-01A",
+        "gene": "AADAC",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CN-4727-01A",
+        "gene": "AADACL2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CN-4727-01A",
+        "gene": "AADACL2-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-KN-8428-01A",
+        "gene": "A1BG",
+        "value": 3.361351,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-KN-8428-01A",
+        "gene": "A1BG-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-KN-8428-01A",
+        "gene": "A1CF",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-KN-8428-01A",
+        "gene": "A2M",
+        "value": 78.160462,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-KN-8428-01A",
+        "gene": "A2ML1",
+        "value": 0.0076,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-KN-8428-01A",
+        "gene": "A2ML1-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-KN-8428-01A",
+        "gene": "A2ML1-AS2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-KN-8428-01A",
+        "gene": "A3GALT2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-KN-8428-01A",
+        "gene": "A4GALT",
+        "value": 4.760934,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-KN-8428-01A",
+        "gene": "A4GNT",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-KN-8428-01A",
+        "gene": "AAAS",
+        "value": 79.757783,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-KN-8428-01A",
+        "gene": "AACS",
+        "value": 0.257697,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-KN-8428-01A",
+        "gene": "AADAC",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-KN-8428-01A",
+        "gene": "AADACL2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-KN-8428-01A",
+        "gene": "AADACL2-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-B0-5692-01A",
+        "gene": "A1BG",
+        "value": 32.695261,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-B0-5692-01A",
+        "gene": "A1BG-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-B0-5692-01A",
+        "gene": "A1CF",
+        "value": 10.696666,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-B0-5692-01A",
+        "gene": "A2M",
+        "value": 470.536471,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-B0-5692-01A",
+        "gene": "A2ML1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-B0-5692-01A",
+        "gene": "A2ML1-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-B0-5692-01A",
+        "gene": "A2ML1-AS2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-B0-5692-01A",
+        "gene": "A3GALT2",
+        "value": 0.039831,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-B0-5692-01A",
+        "gene": "A4GALT",
+        "value": 66.702966,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-B0-5692-01A",
+        "gene": "A4GNT",
+        "value": 0.443474,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-B0-5692-01A",
+        "gene": "AAAS",
+        "value": 38.447709,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-B0-5692-01A",
+        "gene": "AACS",
+        "value": 0.06204,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-B0-5692-01A",
+        "gene": "AADAC",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-B0-5692-01A",
+        "gene": "AADACL2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-B0-5692-01A",
+        "gene": "AADACL2-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-D8-A1JB-01A",
+        "gene": "A1BG",
+        "value": 51.570788,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-D8-A1JB-01A",
+        "gene": "A1BG-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-D8-A1JB-01A",
+        "gene": "A1CF",
+        "value": 0.177339,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-D8-A1JB-01A",
+        "gene": "A2M",
+        "value": 490.049541,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-D8-A1JB-01A",
+        "gene": "A2ML1",
+        "value": 0.015585,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-D8-A1JB-01A",
+        "gene": "A2ML1-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-D8-A1JB-01A",
+        "gene": "A2ML1-AS2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-D8-A1JB-01A",
+        "gene": "A3GALT2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-D8-A1JB-01A",
+        "gene": "A4GALT",
+        "value": 7.455533,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-D8-A1JB-01A",
+        "gene": "A4GNT",
+        "value": 0.028937,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-D8-A1JB-01A",
+        "gene": "AAAS",
+        "value": 44.372838,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-D8-A1JB-01A",
+        "gene": "AACS",
+        "value": 0.495794,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-D8-A1JB-01A",
+        "gene": "AADAC",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-D8-A1JB-01A",
+        "gene": "AADACL2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-D8-A1JB-01A",
+        "gene": "AADACL2-AS1",
+        "value": 1.147033,
+        "type": "tumor"
+    },
+    {
+        "sample": "unknown-1",
+        "gene": "A1BG",
+        "value": 1.39301,
+        "type": "tumor"
+    },
+    {
+        "sample": "unknown-1",
+        "gene": "A1BG-AS1",
+        "value": 0.038314,
+        "type": "tumor"
+    },
+    {
+        "sample": "unknown-1",
+        "gene": "A1CF",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "unknown-1",
+        "gene": "A2M",
+        "value": 13.323995,
+        "type": "tumor"
+    },
+    {
+        "sample": "unknown-1",
+        "gene": "A2ML1",
+        "value": 64.587488,
+        "type": "tumor"
+    },
+    {
+        "sample": "unknown-1",
+        "gene": "A2ML1-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "unknown-1",
+        "gene": "A2ML1-AS2",
+        "value": 0.199164,
+        "type": "tumor"
+    },
+    {
+        "sample": "unknown-1",
+        "gene": "A3GALT2",
+        "value": 0.021264,
+        "type": "tumor"
+    },
+    {
+        "sample": "unknown-1",
+        "gene": "A4GALT",
+        "value": 21.208424,
+        "type": "tumor"
+    },
+    {
+        "sample": "unknown-1",
+        "gene": "A4GNT",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "unknown-1",
+        "gene": "AAAS",
+        "value": 26.745222,
+        "type": "tumor"
+    },
+    {
+        "sample": "unknown-1",
+        "gene": "AACS",
+        "value": 23.71069,
+        "type": "tumor"
+    },
+    {
+        "sample": "unknown-1",
+        "gene": "AADAC",
+        "value": 0.300982,
+        "type": "tumor"
+    },
+    {
+        "sample": "unknown-1",
+        "gene": "AADACL2",
+        "value": 0.454597,
+        "type": "tumor"
+    },
+    {
+        "sample": "unknown-1",
+        "gene": "AADACL2-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-61-1736-01B",
+        "gene": "A1BG",
+        "value": 2.845632,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-61-1736-01B",
+        "gene": "A1BG-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-61-1736-01B",
+        "gene": "A1CF",
+        "value": 0.037914,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-61-1736-01B",
+        "gene": "A2M",
+        "value": 262.607614,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-61-1736-01B",
+        "gene": "A2ML1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-61-1736-01B",
+        "gene": "A2ML1-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-61-1736-01B",
+        "gene": "A2ML1-AS2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-61-1736-01B",
+        "gene": "A3GALT2",
+        "value": 0.043154,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-61-1736-01B",
+        "gene": "A4GALT",
+        "value": 2.71024,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-61-1736-01B",
+        "gene": "A4GNT",
+        "value": 0.018316,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-61-1736-01B",
+        "gene": "AAAS",
+        "value": 81.207305,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-61-1736-01B",
+        "gene": "AACS",
+        "value": 0.1902,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-61-1736-01B",
+        "gene": "AADAC",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-61-1736-01B",
+        "gene": "AADACL2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-61-1736-01B",
+        "gene": "AADACL2-AS1",
+        "value": 0.060062,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-DD-AAW3-01A",
+        "gene": "A1BG",
+        "value": 2766.971506,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-DD-AAW3-01A",
+        "gene": "A1BG-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-DD-AAW3-01A",
+        "gene": "A1CF",
+        "value": 80.448535,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-DD-AAW3-01A",
+        "gene": "A2M",
+        "value": 637.910182,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-DD-AAW3-01A",
+        "gene": "A2ML1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-DD-AAW3-01A",
+        "gene": "A2ML1-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-DD-AAW3-01A",
+        "gene": "A2ML1-AS2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-DD-AAW3-01A",
+        "gene": "A3GALT2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-DD-AAW3-01A",
+        "gene": "A4GALT",
+        "value": 2.016205,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-DD-AAW3-01A",
+        "gene": "A4GNT",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-DD-AAW3-01A",
+        "gene": "AAAS",
+        "value": 41.51314,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-DD-AAW3-01A",
+        "gene": "AACS",
+        "value": 0.192652,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-DD-AAW3-01A",
+        "gene": "AADAC",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-DD-AAW3-01A",
+        "gene": "AADACL2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-DD-AAW3-01A",
+        "gene": "AADACL2-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CD-8525-01A",
+        "gene": "A1BG",
+        "value": 4.208167,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CD-8525-01A",
+        "gene": "A1BG-AS1",
+        "value": 0.238398,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CD-8525-01A",
+        "gene": "A1CF",
+        "value": 0.402292,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CD-8525-01A",
+        "gene": "A2M",
+        "value": 78.108749,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CD-8525-01A",
+        "gene": "A2ML1",
+        "value": 0.024105,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CD-8525-01A",
+        "gene": "A2ML1-AS1",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CD-8525-01A",
+        "gene": "A2ML1-AS2",
+        "value": 0,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CD-8525-01A",
+        "gene": "A3GALT2",
+        "value": 0.023188,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CD-8525-01A",
+        "gene": "A4GALT",
+        "value": 17.975966,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CD-8525-01A",
+        "gene": "A4GNT",
+        "value": 0.625693,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CD-8525-01A",
+        "gene": "AAAS",
+        "value": 29.027305,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CD-8525-01A",
+        "gene": "AACS",
+        "value": 6.49299,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CD-8525-01A",
+        "gene": "AADAC",
+        "value": 3.061431,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CD-8525-01A",
+        "gene": "AADACL2",
+        "value": 0.014289,
+        "type": "tumor"
+    },
+    {
+        "sample": "TCGA-CD-8525-01A",
+        "gene": "AADACL2-AS1",
+        "value": 0,
+        "type": "tumor"
+    }
+]

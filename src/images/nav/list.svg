@@ -1,0 +1,26 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" id="SvgjsSvg1046" width="288" height="288"
+     xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <defs id="SvgjsDefs1047"></defs>
+    <g id="SvgjsG1048">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="288" height="288"
+             viewBox="0 0 32 32">
+            <defs>
+                <linearGradient id="a">
+                    <stop offset="0" stop-color="#f469a9" class="stopColor24f7bc svgShape"></stop>
+                    <stop offset="1" stop-color="#88bef5" class="stopColor24c4fc svgShape"></stop>
+                </linearGradient>
+                <linearGradient id="b" x1="949.87" x2="974.39" y1="518.014" y2="544.657"
+                                gradientTransform="translate(-969.568 491.682) scale(1.02524)"
+                                gradientUnits="userSpaceOnUse" xlink:href="#a"></linearGradient>
+            </defs>
+            <g transform="translate(0 -1020.362)" fill="#ba53de" class="color000 svgShape">
+                <rect width="32" height="32" y="1020.362" fill="url(#b)" rx="6.763" ry="6.763"></rect>
+                <path fill="#f4fa9c"
+                      d="M 10 12 L 10 14 L 12 14 L 12 12 L 10 12 z M 13 12 L 13 14 L 22 14 L 22 12 L 13 12 z M 10 15 L 10 17 L 12 17 L 12 15 L 10 15 z M 13 15 L 13 17 L 22 17 L 22 15 L 13 15 z M 10 18 L 10 20 L 12 20 L 12 18 L 10 18 z M 13 18 L 13 20 L 22 20 L 22 18 L 13 18 z "
+                      color="#000" overflow="visible" transform="translate(0 1020.362)"
+                      class="colorfff svgShape"></path>
+            </g>
+        </svg>
+    </g>
+</svg>

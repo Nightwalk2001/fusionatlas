@@ -1,0 +1,23 @@
+<svg id="SvgjsSvg1018" width="288" height="288" xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <defs id="SvgjsDefs1019"></defs>
+    <g id="SvgjsG1020">
+        <svg xmlns="http://www.w3.org/2000/svg" width="288" height="288" viewBox="0 0 512 512">
+            <defs>
+                <linearGradient id="a" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+                    <stop offset="0" stop-color="#2f89fc" class="stopColorfeae07 svgShape"></stop>
+                    <stop offset="1" stop-color="#30e3ca" class="stopColorfd2959 svgShape"></stop>
+                </linearGradient>
+            </defs>
+            <g transform="translate(15522 21737)" fill="#40514e" class="color000 svgShape">
+                <rect width="512" height="512" fill="url(#a)" data-name="RECTANGLE ALBUM COVER" rx="100"
+                      transform="translate(-15522 -21737)"></rect>
+                <g data-name="magnifying-glass (1)" fill="#40514e" class="color000 svgShape">
+                    <path fill="#f5f5f5"
+                          d="M205.153,35.15A120.219,120.219,0,0,0,35.143,205.17c41.735,41.725,106.736,46.2,153.572,13.614a25.309,25.309,0,0,0,6.868,12.74l68.252,68.252a25.4,25.4,0,0,0,35.914-35.914L231.5,195.59a25.393,25.393,0,0,0-12.73-6.848C251.369,141.9,246.9,76.906,205.153,35.15ZM183.6,183.622a89.741,89.741,0,1,1,0-126.913A89.844,89.844,0,0,1,183.6,183.622Z"
+                          data-name="Path 14616" transform="translate(-15419.601 -21634.598)"
+                          class="colorfff svgShape"></path>
+                </g>
+            </g>
+        </svg>
+    </g>
+</svg>

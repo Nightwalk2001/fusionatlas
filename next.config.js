@@ -1,7 +1,3 @@
-const path = require("path")
-
-const resolvePath = url => path.join(__dirname, url)
-
 /**
  * @type {import("next").NextConfig}
  **/
@@ -14,9 +10,13 @@ const nextConfig = {
         localeDetection: false
     },
     images: {
-        disableStaticImages: true,
+        disableStaticImages: true
     },
-    webpack: (config, options) => {
+    experimental: {
+        optimizeCss: true,
+        workerThreads: true
+    },
+    webpack: (config) => {
         config.module.rules.push({
             test: /\.(png|jpe?g|gif|webp|avif|mp4)$/i,
             issuer: /\.(jsx?|tsx?|mdx)$/,
@@ -34,7 +34,7 @@ const nextConfig = {
         config.module.rules.push({
             test: /\.svg$/,
             use: [
-                {loader: "@svgr/webpack", options: {svgoConfig: {plugins: {removeViewBox: false}}}},
+                {loader: "@svgr/webpack"},
                 {
                     loader: "file-loader",
                     options: {

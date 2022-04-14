@@ -1,8 +1,7 @@
 @import "base.css";
-@import "prism.css";
-@import "progress.css";
 @import "fonts.css";
 @import "docsearch.css";
+@import "@docsearch/css";
 @import "utilties.css";
 
 @tailwind components;
@@ -28,8 +27,18 @@ body {
     transform: translateY(-50%);
 }
 
+.title {
+    border-bottom: 1px solid #d8dee4;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
 div::selection, h1::selection, p::selection, span::selection {
     background: #79ffe1;
+}
+
+svg text {
+    alignment-baseline: middle;
 }
 
 ::-webkit-scrollbar-thumb:hover {

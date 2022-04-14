@@ -1,8 +1,8 @@
-import {AxisBottom} from "@visx/axis"
-import {Grid} from "@visx/grid"
+import {AxisBottom}                                  from "@visx/axis"
+import {Grid}                                        from "@visx/grid"
 import {scaleBand, scaleLinear, scaleOrdinal, stack} from "d3"
-import {motion} from "framer-motion"
-import {useInView} from "react-intersection-observer"
+import {motion}                                      from "framer-motion"
+import {useInView}                                   from "react-intersection-observer"
 
 
 type Data = {

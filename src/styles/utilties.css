@@ -1,32 +1,33 @@
 @tailwind utilities;
 
-.bg-checkered {
-    background-image: url("data:image/svg+xml,%0A%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='%23F0F0F0' d='M0 0h8v8H0zm8 8h8v8H8z'/%3E%3C/svg%3E");
-    background-size: 16px 16px;
+.table-container {
+    @apply w-[900px] lg:w-[1000px] xl:w-[1200px] mx-auto mb-8 shadow overflow-x-scroll border-b border-gray-200 sm:rounded-lg
 }
 
-.code-highlight {
-    border-radius: 0.25rem;
-    padding: 0.125rem 0.1875rem;
-    margin: 0 -0.1875rem;
+.table {
+    @apply min-w-full divide-y divide-gray-200
 }
 
-.dragging-ew,
-.dragging-ew * {
-    cursor: ew-resize !important;
-    user-select: none !important;
+.th {
+    @apply px-6 py-3 text-xs font-medium text-gray-500 uppercase tracking-wider
 }
 
-.mono-active > div:not(.not-mono) > span {
-    color: theme('colors.gray.600');
+.tbody {
+    @apply bg-white divide-y divide-gray-200
 }
 
-.mono > div > span {
-    transition-duration: 0.5s;
-    transition-property: background-color, border-color, color, fill, stroke;
+.tr > td {
+    @apply whitespace-nowrap px-5 py-3
 }
 
-.changing-theme,
-.changing-theme * {
-    transition: none !important;
+.long-interact {
+    @apply text-left cursor-pointer
+}
+
+.tooltip {
+    @apply fixed invisible
+}
+
+.tooltip-kv {
+    @apply flex justify-between space-x-3 px-3 py-2.5 rounded-md bg-gray-50
 }

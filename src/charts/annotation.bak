@@ -1,0 +1,7 @@
+  <text x={0} y={30} alignmentBaseline={"middle"}>Cnv</text>
+
+   <text x={0} y={75} alignmentBaseline={"middle"}>Snv</text>
+
+       <text x={0} y={125} alignmentBaseline={"middle"}>ecDNA</text>
+
+          <text x={0} y={175} alignmentBaseline={"middle"}>m6A</text>

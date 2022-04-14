@@ -1,0 +1,1 @@
+export const CSR = typeof window !== "undefined"

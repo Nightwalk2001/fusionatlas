@@ -1,0 +1,21 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 288">
+    <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 42">
+        <defs>
+            <linearGradient id="b" x1="1073.403" x2="1097.116" y1="516.451" y2="544.308"
+                            gradientTransform="translate(-1438.388 316.47) scale(1.34562)"
+                            gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+            <linearGradient id="a">
+                <stop offset="0" stop-color="#e2434b" class="stopColor16ff6a svgShape"/>
+                <stop offset="1" stop-color="#f9bf8f" class="stopColor0090a5 svgShape"/>
+            </linearGradient>
+        </defs>
+        <g transform="translate(0 -1010.362)" fill="#34222e" class="color000 svgShape">
+            <rect width="42" height="42" y="1010.362" fill="url(#b)" rx="8.876" ry="8.876"/>
+            <path
+                style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal"
+                fill="#fee9d7"
+                d="M9.5 1017.37a.5.5 0 0 0-.5.5v27.003a.5.5 0 0 0 .5.5h19a.5.5 0 0 0 .5-.5v-3.002a.5.5 0 1 0-1 0v2.502H10v-26.002h14v3.502a.5.5 0 0 0 .5.5H28v6.498a.5.5 0 1 0 1 0V1021.904a.5.5 0 0 0 0-.024.5.5 0 0 0-.146-.361l-4-4a.5.5 0 0 0-.362-.147.5.5 0 0 0-.064 0 .5.5 0 0 0-.084-.01H9.5zm15.5 1.71 2.293 2.293H25v-2.293zm-12.55 1.29a.5.5 0 0 0 .05 1h1a.5.5 0 1 0 0-1h-1a.5.5 0 0 0-.05 0zm3.015 0a.5.5 0 0 0 .05 1h3.977a.5.5 0 1 0 0-1h-3.976a.5.5 0 0 0-.051 0zm-3.016 2a.5.5 0 0 0 .051 1h1a.5.5 0 1 0 0-1h-1a.5.5 0 0 0-.05 0zm3.016 0a.5.5 0 0 0 .05 1h3.977a.5.5 0 1 0 0-1h-3.976a.5.5 0 0 0-.051 0zm1.027 1.995a.5.5 0 0 0-.492.506v13a.5.5 0 0 0 .5.5h17a.5.5 0 1 0 0-1H33v-11.5a.5.5 0 0 0-.5-.5h-2a.5.5 0 0 0-.5.5v11.5h-1v-6.5a.5.5 0 0 0-.5-.5h-2a.5.5 0 0 0-.5.5v6.5h-1v-8.5a.5.5 0 0 0-.5-.5h-2a.5.5 0 0 0-.5.5v8.5h-1v-3.514a.5.5 0 0 0-.5-.5h-2a.5.5 0 0 0-.5.5v3.514h-1v-12.5a.5.5 0 0 0-.508-.506zM31 1026.37h1v10.986h-1v-10.986zm-8 3h1v7.986h-1v-7.986zm4 2h1v5.986h-1v-5.986zm-8 2.986h1v3h-1v-3zm.45 5.014a.5.5 0 1 0 .05 1h10.996a.5.5 0 1 0 0-1H19.5a.5.5 0 0 0-.05 0z"
+                color="#000" class="colorfff svgShape"/>
+        </g>
+    </svg>
+</svg>

@@ -1,6 +1,6 @@
+import Bands                       from "@/json/bands.json"
 import {scaleLinear, scaleOrdinal} from "d3"
-import React, {memo, SVGProps} from "react"
-import Bands from "../json/bands.json"
+import React, {memo, SVGProps}     from "react"
 
 type Band = {
   id: string
@@ -17,11 +17,11 @@ type Chroms = {
 const chroms = Bands as Chroms[]
 
 type ChromosomeProps = {
-  width?: number
-  height?: number
+  width: number
+  height: number
   left?: number
   top?: number
-  chrom?: string
+  chrom: string
 } & Omit<SVGProps<SVGGElement>, "transform">
 
 type BandGroupProps = {
@@ -35,20 +35,20 @@ type BorderPathProps = {
 }
 
 export const ChromChart = memo(({
-                                  width = 150,
-                                  height = 9,
+                                  width,
+                                  height,
                                   left = 0,
                                   top = 0,
-                                  chrom = "chr1",
+                                  chrom,
                                   ...props
                                 }: ChromosomeProps) => {
   const chromosome = chroms.find(c => c.chrom === chrom)!,
-        bands      = chromosome.bands,
-        separate   = bands.findIndex(b => b.color === "acen") + 1,
-        q          = bands.slice(0, separate),
-        p          = bands.slice(separate),
-        mid        = q[q.length - 1].end,
-        end        = p[p.length - 1].end
+        bands    = chromosome.bands,
+        separate = bands.findIndex(b => b.color === "acen") + 1,
+        q        = bands.slice(0, separate),
+        p        = bands.slice(separate),
+        mid      = q[q.length - 1].end,
+        end      = p[p.length - 1].end
 
   const x = scaleLinear()
     .domain([0, end])
@@ -79,13 +79,14 @@ export const ChromChart = memo(({
 
   const BorderPath = ({x = 0, width}: BorderPathProps) =>
     <rect
-      x={x} y={0}
+      x={x}
+      y={0}
       width={width}
       height={height}
       rx={height / 2}
       fill={"transparent"}
       stroke={"#000"}
-      strokeWidth={0.1}
+      strokeWidth={0.25}
     />
 
   return <g transform={`translate(${left}, ${top})`} {...props}>

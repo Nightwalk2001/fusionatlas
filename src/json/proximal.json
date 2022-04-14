@@ -1,0 +1,4817 @@
+[
+    {
+        "group": "Background genes",
+        "values": [
+            {
+                "type": "Background genes",
+                "value": 0
+            },
+            {
+                "type": "Background genes",
+                "value": 0.038866481
+            },
+            {
+                "type": "Background genes",
+                "value": 0.045571337
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049984982000000004
+            },
+            {
+                "type": "Background genes",
+                "value": 0.052363823
+            },
+            {
+                "type": "Background genes",
+                "value": 0.058176834000000004
+            },
+            {
+                "type": "Background genes",
+                "value": 0.059778779000000004
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06011514
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06138525400000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.061452716
+            },
+            {
+                "type": "Background genes",
+                "value": 0.061145439
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06145724599999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.062127107
+            },
+            {
+                "type": "Background genes",
+                "value": 0.061902072
+            },
+            {
+                "type": "Background genes",
+                "value": 0.062176691
+            },
+            {
+                "type": "Background genes",
+                "value": 0.060475100999999996
+            },
+            {
+                "type": "Background genes",
+                "value": 0.060755918
+            },
+            {
+                "type": "Background genes",
+                "value": 0.05927245
+            },
+            {
+                "type": "Background genes",
+                "value": 0.059016663
+            },
+            {
+                "type": "Background genes",
+                "value": 0.05879282
+            },
+            {
+                "type": "Background genes",
+                "value": 0.059122506
+            },
+            {
+                "type": "Background genes",
+                "value": 0.059071967999999996
+            },
+            {
+                "type": "Background genes",
+                "value": 0.059027867000000005
+            },
+            {
+                "type": "Background genes",
+                "value": 0.061530907
+            },
+            {
+                "type": "Background genes",
+                "value": 0.063699492
+            },
+            {
+                "type": "Background genes",
+                "value": 0.062128299000000005
+            },
+            {
+                "type": "Background genes",
+                "value": 0.061764285
+            },
+            {
+                "type": "Background genes",
+                "value": 0.061463205
+            },
+            {
+                "type": "Background genes",
+                "value": 0.060252688
+            },
+            {
+                "type": "Background genes",
+                "value": 0.062210303
+            },
+            {
+                "type": "Background genes",
+                "value": 0.060039333
+            },
+            {
+                "type": "Background genes",
+                "value": 0.060480345
+            },
+            {
+                "type": "Background genes",
+                "value": 0.058014017
+            },
+            {
+                "type": "Background genes",
+                "value": 0.058229277999999995
+            },
+            {
+                "type": "Background genes",
+                "value": 0.05801807
+            },
+            {
+                "type": "Background genes",
+                "value": 0.058532504000000006
+            },
+            {
+                "type": "Background genes",
+                "value": 0.061359508
+            },
+            {
+                "type": "Background genes",
+                "value": 0.061216477000000005
+            },
+            {
+                "type": "Background genes",
+                "value": 0.061370712
+            },
+            {
+                "type": "Background genes",
+                "value": 0.062117570999999996
+            },
+            {
+                "type": "Background genes",
+                "value": 0.0635803
+            },
+            {
+                "type": "Background genes",
+                "value": 0.063804382
+            },
+            {
+                "type": "Background genes",
+                "value": 0.061749744
+            },
+            {
+                "type": "Background genes",
+                "value": 0.064054209
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06408710599999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.063504017
+            },
+            {
+                "type": "Background genes",
+                "value": 0.063940976
+            },
+            {
+                "type": "Background genes",
+                "value": 0.063895921
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06334119999999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06394121400000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06394121400000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.065119788
+            },
+            {
+                "type": "Background genes",
+                "value": 0.063555269
+            },
+            {
+                "type": "Background genes",
+                "value": 0.063415576
+            },
+            {
+                "type": "Background genes",
+                "value": 0.062233665
+            },
+            {
+                "type": "Background genes",
+                "value": 0.064639443
+            },
+            {
+                "type": "Background genes",
+                "value": 0.062705905
+            },
+            {
+                "type": "Background genes",
+                "value": 0.063106868
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06104317099999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.062933085
+            },
+            {
+                "type": "Background genes",
+                "value": 0.062275382000000004
+            },
+            {
+                "type": "Background genes",
+                "value": 0.063947412
+            },
+            {
+                "type": "Background genes",
+                "value": 0.065210136
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06626641900000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.065168657
+            },
+            {
+                "type": "Background genes",
+                "value": 0.067090038
+            },
+            {
+                "type": "Background genes",
+                "value": 0.068254786
+            },
+            {
+                "type": "Background genes",
+                "value": 0.068627619
+            },
+            {
+                "type": "Background genes",
+                "value": 0.068214499
+            },
+            {
+                "type": "Background genes",
+                "value": 0.067828792
+            },
+            {
+                "type": "Background genes",
+                "value": 0.066365348
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06704355299999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.065692388
+            },
+            {
+                "type": "Background genes",
+                "value": 0.065803476
+            },
+            {
+                "type": "Background genes",
+                "value": 0.065772247
+            },
+            {
+                "type": "Background genes",
+                "value": 0.065681661
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06543183400000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.064496412
+            },
+            {
+                "type": "Background genes",
+                "value": 0.064720732
+            },
+            {
+                "type": "Background genes",
+                "value": 0.063917853
+            },
+            {
+                "type": "Background genes",
+                "value": 0.064177215
+            },
+            {
+                "type": "Background genes",
+                "value": 0.064266133
+            },
+            {
+                "type": "Background genes",
+                "value": 0.063283273
+            },
+            {
+                "type": "Background genes",
+                "value": 0.061815300000000004
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06076426099999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.061186440999999994
+            },
+            {
+                "type": "Background genes",
+                "value": 0.062651076
+            },
+            {
+                "type": "Background genes",
+                "value": 0.063246085
+            },
+            {
+                "type": "Background genes",
+                "value": 0.064358626
+            },
+            {
+                "type": "Background genes",
+                "value": 0.063602708
+            },
+            {
+                "type": "Background genes",
+                "value": 0.064042766
+            },
+            {
+                "type": "Background genes",
+                "value": 0.066326968
+            },
+            {
+                "type": "Background genes",
+                "value": 0.066837827
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06771746599999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06795156
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06656726
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06628429799999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.068317719
+            },
+            {
+                "type": "Background genes",
+                "value": 0.067998045
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06866647599999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.066846647
+            },
+            {
+                "type": "Background genes",
+                "value": 0.068171589
+            },
+            {
+                "type": "Background genes",
+                "value": 0.068599013
+            },
+            {
+                "type": "Background genes",
+                "value": 0.068699373
+            },
+            {
+                "type": "Background genes",
+                "value": 0.07076736
+            },
+            {
+                "type": "Background genes",
+                "value": 0.071511121
+            },
+            {
+                "type": "Background genes",
+                "value": 0.070344228
+            },
+            {
+                "type": "Background genes",
+                "value": 0.07236358400000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.072913061
+            },
+            {
+                "type": "Background genes",
+                "value": 0.07246156
+            },
+            {
+                "type": "Background genes",
+                "value": 0.073339055
+            },
+            {
+                "type": "Background genes",
+                "value": 0.073476126
+            },
+            {
+                "type": "Background genes",
+                "value": 0.07398913
+            },
+            {
+                "type": "Background genes",
+                "value": 0.073752652
+            },
+            {
+                "type": "Background genes",
+                "value": 0.074534077
+            },
+            {
+                "type": "Background genes",
+                "value": 0.075226108
+            },
+            {
+                "type": "Background genes",
+                "value": 0.074377697
+            },
+            {
+                "type": "Background genes",
+                "value": 0.074442299
+            },
+            {
+                "type": "Background genes",
+                "value": 0.075972014
+            },
+            {
+                "type": "Background genes",
+                "value": 0.074382941
+            },
+            {
+                "type": "Background genes",
+                "value": 0.074512861
+            },
+            {
+                "type": "Background genes",
+                "value": 0.074946483
+            },
+            {
+                "type": "Background genes",
+                "value": 0.074242771
+            },
+            {
+                "type": "Background genes",
+                "value": 0.074952681
+            },
+            {
+                "type": "Background genes",
+                "value": 0.074759589
+            },
+            {
+                "type": "Background genes",
+                "value": 0.074419652
+            },
+            {
+                "type": "Background genes",
+                "value": 0.074962454
+            },
+            {
+                "type": "Background genes",
+                "value": 0.075177954
+            },
+            {
+                "type": "Background genes",
+                "value": 0.075634461
+            },
+            {
+                "type": "Background genes",
+                "value": 0.07609502
+            },
+            {
+                "type": "Background genes",
+                "value": 0.07658347
+            },
+            {
+                "type": "Background genes",
+                "value": 0.077249279
+            },
+            {
+                "type": "Background genes",
+                "value": 0.077145582
+            },
+            {
+                "type": "Background genes",
+                "value": 0.078091492
+            },
+            {
+                "type": "Background genes",
+                "value": 0.07993063
+            },
+            {
+                "type": "Background genes",
+                "value": 0.080099883
+            },
+            {
+                "type": "Background genes",
+                "value": 0.08063148099999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.081477985
+            },
+            {
+                "type": "Background genes",
+                "value": 0.080944003
+            },
+            {
+                "type": "Background genes",
+                "value": 0.082076808
+            },
+            {
+                "type": "Background genes",
+                "value": 0.08184533599999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.082779327
+            },
+            {
+                "type": "Background genes",
+                "value": 0.081336385
+            },
+            {
+                "type": "Background genes",
+                "value": 0.080984052
+            },
+            {
+                "type": "Background genes",
+                "value": 0.080892751
+            },
+            {
+                "type": "Background genes",
+                "value": 0.081444611
+            },
+            {
+                "type": "Background genes",
+                "value": 0.08111421
+            },
+            {
+                "type": "Background genes",
+                "value": 0.082030561
+            },
+            {
+                "type": "Background genes",
+                "value": 0.082192424
+            },
+            {
+                "type": "Background genes",
+                "value": 0.08380462
+            },
+            {
+                "type": "Background genes",
+                "value": 0.082842976
+            },
+            {
+                "type": "Background genes",
+                "value": 0.08394598199999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.083983885
+            },
+            {
+                "type": "Background genes",
+                "value": 0.08486972300000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.08460893
+            },
+            {
+                "type": "Background genes",
+                "value": 0.08555746300000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.086163675
+            },
+            {
+                "type": "Background genes",
+                "value": 0.085986793
+            },
+            {
+                "type": "Background genes",
+                "value": 0.085510501
+            },
+            {
+                "type": "Background genes",
+                "value": 0.086784905
+            },
+            {
+                "type": "Background genes",
+                "value": 0.08857779699999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.088852893
+            },
+            {
+                "type": "Background genes",
+                "value": 0.08873918300000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.089432168
+            },
+            {
+                "type": "Background genes",
+                "value": 0.09017807300000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.090870819
+            },
+            {
+                "type": "Background genes",
+                "value": 0.091777635
+            },
+            {
+                "type": "Background genes",
+                "value": 0.092232711
+            },
+            {
+                "type": "Background genes",
+                "value": 0.091935445
+            },
+            {
+                "type": "Background genes",
+                "value": 0.091150921
+            },
+            {
+                "type": "Background genes",
+                "value": 0.09098834300000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.091815538
+            },
+            {
+                "type": "Background genes",
+                "value": 0.091016234
+            },
+            {
+                "type": "Background genes",
+                "value": 0.09111063400000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.090756633
+            },
+            {
+                "type": "Background genes",
+                "value": 0.090271282
+            },
+            {
+                "type": "Background genes",
+                "value": 0.089315121
+            },
+            {
+                "type": "Background genes",
+                "value": 0.089021431
+            },
+            {
+                "type": "Background genes",
+                "value": 0.08809626
+            },
+            {
+                "type": "Background genes",
+                "value": 0.08749815300000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.08574268800000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.084680684
+            },
+            {
+                "type": "Background genes",
+                "value": 0.08263129
+            },
+            {
+                "type": "Background genes",
+                "value": 0.081397411
+            },
+            {
+                "type": "Background genes",
+                "value": 0.07972109
+            },
+            {
+                "type": "Background genes",
+                "value": 0.07822904
+            },
+            {
+                "type": "Background genes",
+                "value": 0.07717085
+            },
+            {
+                "type": "Background genes",
+                "value": 0.07583279700000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.075908365
+            },
+            {
+                "type": "Background genes",
+                "value": 0.075301199
+            },
+            {
+                "type": "Background genes",
+                "value": 0.075182245
+            },
+            {
+                "type": "Background genes",
+                "value": 0.075007271
+            },
+            {
+                "type": "Background genes",
+                "value": 0.074680207
+            },
+            {
+                "type": "Background genes",
+                "value": 0.074207013
+            },
+            {
+                "type": "Background genes",
+                "value": 0.075421107
+            },
+            {
+                "type": "Background genes",
+                "value": 0.074880688
+            },
+            {
+                "type": "Background genes",
+                "value": 0.07486781599999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.073617965
+            },
+            {
+                "type": "Background genes",
+                "value": 0.073116165
+            },
+            {
+                "type": "Background genes",
+                "value": 0.072219123
+            },
+            {
+                "type": "Background genes",
+                "value": 0.070726597
+            },
+            {
+                "type": "Background genes",
+                "value": 0.068845741
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06755989400000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.06462680900000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.062328065
+            },
+            {
+                "type": "Background genes",
+                "value": 0.060173782
+            },
+            {
+                "type": "Background genes",
+                "value": 0.057792319
+            },
+            {
+                "type": "Background genes",
+                "value": 0.055581063
+            },
+            {
+                "type": "Background genes",
+                "value": 0.053925004000000006
+            },
+            {
+                "type": "Background genes",
+                "value": 0.052620325
+            },
+            {
+                "type": "Background genes",
+                "value": 0.051418150999999995
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049956137000000005
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049646714
+            },
+            {
+                "type": "Background genes",
+                "value": 0.048944194
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049204272
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049111302
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049206179
+            },
+            {
+                "type": "Background genes",
+                "value": 0.048953490999999995
+            },
+            {
+                "type": "Background genes",
+                "value": 0.048585664
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049247180999999994
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049661732
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049690338
+            },
+            {
+                "type": "Background genes",
+                "value": 0.050552575999999995
+            },
+            {
+                "type": "Background genes",
+                "value": 0.050454360999999996
+            },
+            {
+                "type": "Background genes",
+                "value": 0.050989058
+            },
+            {
+                "type": "Background genes",
+                "value": 0.051256526
+            },
+            {
+                "type": "Background genes",
+                "value": 0.051610527
+            },
+            {
+                "type": "Background genes",
+                "value": 0.051786932
+            },
+            {
+                "type": "Background genes",
+                "value": 0.051673222000000005
+            },
+            {
+                "type": "Background genes",
+                "value": 0.052055115
+            },
+            {
+                "type": "Background genes",
+                "value": 0.05231996
+            },
+            {
+                "type": "Background genes",
+                "value": 0.05220339
+            },
+            {
+                "type": "Background genes",
+                "value": 0.05214379400000001
+            },
+            {
+                "type": "Background genes",
+                "value": 0.052028177
+            },
+            {
+                "type": "Background genes",
+                "value": 0.051519225999999994
+            },
+            {
+                "type": "Background genes",
+                "value": 0.051626737
+            },
+            {
+                "type": "Background genes",
+                "value": 0.05149109599999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.051356886
+            },
+            {
+                "type": "Background genes",
+                "value": 0.050678204000000004
+            },
+            {
+                "type": "Background genes",
+                "value": 0.050001192
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049572338
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049528712999999995
+            },
+            {
+                "type": "Background genes",
+                "value": 0.04921333
+            },
+            {
+                "type": "Background genes",
+                "value": 0.04921023099999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049052898
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049270781
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049320127000000005
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049446947000000005
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049898448
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049971394
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049610956
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049551597999999995
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049857923
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049848387
+            },
+            {
+                "type": "Background genes",
+                "value": 0.050027891
+            },
+            {
+                "type": "Background genes",
+                "value": 0.04982884
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049549453
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049641946
+            },
+            {
+                "type": "Background genes",
+                "value": 0.0491647
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049379485
+            },
+            {
+                "type": "Background genes",
+                "value": 0.04973873
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049500822
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049499154000000004
+            },
+            {
+                "type": "Background genes",
+                "value": 0.049249087999999996
+            },
+            {
+                "type": "Background genes",
+                "value": 0.048927269
+            },
+            {
+                "type": "Background genes",
+                "value": 0.04925171
+            },
+            {
+                "type": "Background genes",
+                "value": 0.048622852
+            },
+            {
+                "type": "Background genes",
+                "value": 0.048985195999999995
+            },
+            {
+                "type": "Background genes",
+                "value": 0.048640969000000006
+            },
+            {
+                "type": "Background genes",
+                "value": 0.048174688
+            },
+            {
+                "type": "Background genes",
+                "value": 0.047659300999999994
+            },
+            {
+                "type": "Background genes",
+                "value": 0.046207538
+            },
+            {
+                "type": "Background genes",
+                "value": 0.045144819
+            },
+            {
+                "type": "Background genes",
+                "value": 0.044426327
+            },
+            {
+                "type": "Background genes",
+                "value": 0.04343178599999999
+            },
+            {
+                "type": "Background genes",
+                "value": 0.042448211
+            },
+            {
+                "type": "Background genes",
+                "value": 0.041812439
+            },
+            {
+                "type": "Background genes",
+                "value": 0.041076784
+            },
+            {
+                "type": "Background genes",
+                "value": 0.040038142
+            },
+            {
+                "type": "Background genes",
+                "value": 0.039853155
+            },
+            {
+                "type": "Background genes",
+                "value": 0.039734201000000004
+            },
+            {
+                "type": "Background genes",
+                "value": 0.039754463999999996
+            },
+            {
+                "type": "Background genes",
+                "value": 0.039443372000000004
+            },
+            {
+                "type": "Background genes",
+                "value": 0.039357552999999997
+            },
+            {
+                "type": "Background genes",
+                "value": 0.039770197
+            },
+            {
+                "type": "Background genes",
+                "value": 0.039381392
+            },
+            {
+                "type": "Background genes",
+                "value": 0.038733699999999996
+            },
+            {
+                "type": "Background genes",
+                "value": 0.039274118999999996
+            },
+            {
+                "type": "Background genes",
+                "value": 0.038793058
+            },
+            {
+                "type": "Background genes",
+                "value": 0.039176381
+            },
+            {
+                "type": "Background genes",
+                "value": 0.038507712
+            },
+            {
+                "type": "Background genes",
+                "value": 0.038467902000000005
+            },
+            {
+                "type": "Background genes",
+                "value": 0.038337505
+            },
+            {
+                "type": "Background genes",
+                "value": 0.037763236
+            },
+            {
+                "type": "Background genes",
+                "value": 0.037825931
+            },
+            {
+                "type": "Background genes",
+                "value": 0.037868841
+            },
+            {
+                "type": "Background genes",
+                "value": 0.037460011
+            },
+            {
+                "type": "Background genes",
+                "value": 0.037311259
+            },
+            {
+                "type": "Background genes",
+                "value": 0.03653627
+            },
+            {
+                "type": "Background genes",
+                "value": 0.036733653
+            },
+            {
+                "type": "Background genes",
+                "value": 0.036967507999999996
+            },
+            {
+                "type": "Background genes",
+                "value": 0.036467377
+            },
+            {
+                "type": "Background genes",
+                "value": 0.036291926
+            },
+            {
+                "type": "Background genes",
+                "value": 0.03581468
+            },
+            {
+                "type": "Background genes",
+                "value": 0.036263081
+            },
+            {
+                "type": "Background genes",
+                "value": 0.03606403
+            },
+            {
+                "type": "Background genes",
+                "value": 0.03580133
+            },
+            {
+                "type": "Background genes",
+                "value": 0.036230423
+            },
+            {
+                "type": "Background genes",
+                "value": 0.035950797
+            },
+            {
+                "type": "Background genes",
+                "value": 0.035369377
+            },
+            {
+                "type": "Background genes",
+                "value": 0.035065913
+            },
+            {
+                "type": "Background genes",
+                "value": 0.035051848999999996
+            },
+            {
+                "type": "Background genes",
+                "value": 0.034871152999999995
+            },
+            {
+                "type": "Background genes",
+                "value": 0.034204153
+            },
+            {
+                "type": "Background genes",
+                "value": 0.033655629
+            },
+            {
+                "type": "Background genes",
+                "value": 0.033284941
+            },
+            {
+                "type": "Background genes",
+                "value": 0.032685165
+            },
+            {
+                "type": "Background genes",
+                "value": 0.032500179
+            },
+            {
+                "type": "Background genes",
+                "value": 0.032549048
+            },
+            {
+                "type": "Background genes",
+                "value": 0.03224463
+            },
+            {
+                "type": "Background genes",
+                "value": 0.032147131
+            },
+            {
+                "type": "Background genes",
+                "value": 0.031913276000000004
+            },
+            {
+                "type": "Background genes",
+                "value": 0.031984553
+            },
+            {
+                "type": "Background genes",
+                "value": 0.031781926
+            },
+            {
+                "type": "Background genes",
+                "value": 0.031696584
+            },
+            {
+                "type": "Background genes",
+                "value": 0.031743784
+            },
+            {
+                "type": "Background genes",
+                "value": 0.031598369
+            },
+            {
+                "type": "Background genes",
+                "value": 0.031570955
+            },
+            {
+                "type": "Background genes",
+                "value": 0.032234141
+            },
+            {
+                "type": "Background genes",
+                "value": 0.032269184
+            },
+            {
+                "type": "Background genes",
+                "value": 0.032747622000000004
+            },
+            {
+                "type": "Background genes",
+                "value": 0.032711864
+            },
+            {
+                "type": "Background genes",
+                "value": 0.032680159
+            },
+            {
+                "type": "Background genes",
+                "value": 0.033214141
+            },
+            {
+                "type": "Background genes",
+                "value": 0.033155737000000005
+            },
+            {
+                "type": "Background genes",
+                "value": 0.033340485
+            },
+            {
+                "type": "Background genes",
+                "value": 0.033087082000000004
+            },
+            {
+                "type": "Background genes",
+                "value": 0.032554292
+            },
+            {
+                "type": "Background genes",
+                "value": 0.032122101
+            },
+            {
+                "type": "Background genes",
+                "value": 0.031694438
+            },
+            {
+                "type": "Background genes",
+                "value": 0.031312308
+            },
+            {
+                "type": "Background genes",
+                "value": 0.031213855
+            },
+            {
+                "type": "Background genes",
+                "value": 0.030716108
+            },
+            {
+                "type": "Background genes",
+                "value": 0.030646738
+            },
+            {
+                "type": "Background genes",
+                "value": 0.030046485
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029709647000000002
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029474838
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029417865
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029198789
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029149682000000003
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029215953
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029306301
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029083649
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029491525
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029502491000000002
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029628835
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029689146
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029503921000000002
+            },
+            {
+                "type": "Background genes",
+                "value": 0.02946721
+            },
+            {
+                "type": "Background genes",
+                "value": 0.028905337000000003
+            },
+            {
+                "type": "Background genes",
+                "value": 0.028751579
+            },
+            {
+                "type": "Background genes",
+                "value": 0.028837397999999997
+            },
+            {
+                "type": "Background genes",
+                "value": 0.028635962999999997
+            },
+            {
+                "type": "Background genes",
+                "value": 0.028613555
+            },
+            {
+                "type": "Background genes",
+                "value": 0.028254309
+            },
+            {
+                "type": "Background genes",
+                "value": 0.027856206
+            },
+            {
+                "type": "Background genes",
+                "value": 0.028042862
+            },
+            {
+                "type": "Background genes",
+                "value": 0.028087677999999998
+            },
+            {
+                "type": "Background genes",
+                "value": 0.028304608
+            },
+            {
+                "type": "Background genes",
+                "value": 0.028199957
+            },
+            {
+                "type": "Background genes",
+                "value": 0.02880164
+            },
+            {
+                "type": "Background genes",
+                "value": 0.028731555
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029288897999999997
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029399032000000002
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029539202
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029309638
+            },
+            {
+                "type": "Background genes",
+                "value": 0.029005697
+            },
+            {
+                "type": "Background genes",
+                "value": 0.028589239
+            },
+            {
+                "type": "Background genes",
+                "value": 0.02835896
+            },
+            {
+                "type": "Background genes",
+                "value": 0.027592791000000002
+            },
+            {
+                "type": "Background genes",
+                "value": 0.027247133
+            },
+            {
+                "type": "Background genes",
+                "value": 0.02642852
+            },
+            {
+                "type": "Background genes",
+                "value": 0.026262128
+            },
+            {
+                "type": "Background genes",
+                "value": 0.025771294
+            },
+            {
+                "type": "Background genes",
+                "value": 0.025264249
+            },
+            {
+                "type": "Background genes",
+                "value": 0.025158407
+            },
+            {
+                "type": "Background genes",
+                "value": 0.025324084
+            },
+            {
+                "type": "Background genes",
+                "value": 0.025221102000000002
+            },
+            {
+                "type": "Background genes",
+                "value": 0.025231114
+            },
+            {
+                "type": "Background genes",
+                "value": 0.025462586000000002
+            },
+            {
+                "type": "Background genes",
+                "value": 0.025558416
+            },
+            {
+                "type": "Background genes",
+                "value": 0.025437317
+            },
+            {
+                "type": "Background genes",
+                "value": 0.026004672000000003
+            },
+            {
+                "type": "Background genes",
+                "value": 0.026192518999999997
+            },
+            {
+                "type": "Background genes",
+                "value": 0.026129347999999997
+            },
+            {
+                "type": "Background genes",
+                "value": 0.026268802999999997
+            },
+            {
+                "type": "Background genes",
+                "value": 0.026143378
+            },
+            {
+                "type": "Background genes",
+                "value": 0.025898305
+            },
+            {
+                "type": "Background genes",
+                "value": 0.025519559
+            },
+            {
+                "type": "Background genes",
+                "value": 0.026689552000000002
+            }
+        ]
+    },
+    {
+        "group": "Shorten genes",
+        "values": [
+            {
+                "type": "Shorten genes",
+                "value": 0
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.09653198699999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.107555556
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.10721500699999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.104511785
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.11873176199999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.11656565699999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.11078563400000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.10680134699999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.104096521
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.09982042599999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.10564534199999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.104298541
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.10325477
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.09836139199999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.09629629599999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.093198653
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.09674523
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.097283951
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.10107744099999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.09626262599999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.096565657
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.099046016
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.09965207599999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.10095398400000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.108406285
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.108731762
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.10842873199999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.10848484800000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.112671156
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.112154882
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.11050505099999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.112053872
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.109988777
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.105117845
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.100808081
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.098282828
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.094466891
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.088911336
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08744107699999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.089517396
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.085129068
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08411896699999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08259259299999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.080864198
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.078843996
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.078540965
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.077396184
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.075432099
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.07254769900000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.077239057
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.07634119
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.074163861
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.07299663299999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.075319865
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.072873176
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.070751964
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.072659933
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.073333333
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.068047138
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.068484848
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.070886644
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.068518519
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.070112233
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.068720539
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.07342312
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06969697
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.07114478099999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.073681257
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.075308642
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.075645342
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.081492705
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.078787879
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.083883277
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08081930400000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.083860831
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.081728395
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08445566800000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08318743
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.081649832
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08085297400000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.080695847
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.079573513
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.080909091
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.082817059
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.083063973
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.079079686
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.081481481
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08305275
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.083872054
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.085802469
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.090684624
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.09335578
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.092379349
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.097979798
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.10202020199999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.100505051
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.10099887800000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.10030303
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.102861953
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.102536476
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.101627385
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.10140291800000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.098181818
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.098260382
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.104971942
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.10580246900000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.10932659900000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.112446689
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.118496072
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.119315376
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.126094276
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.127687991
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.128585859
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.12282828300000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.124523008
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.130314254
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.128552189
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.126835017
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.127721661
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.12919191900000002
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.131358025
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.131874299
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.140157127
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.144074074
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.136801347
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.132334456
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.133367003
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.13296296300000002
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.12680134699999998
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.132166105
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.133950617
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.12969697
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.124848485
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.129416386
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.136554433
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.13349046
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.131863075
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.131245791
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.128653199
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.127811448
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.128237935
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.127755331
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.12630752
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.123243547
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.12344556699999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.13378226699999998
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.138035915
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.13882154900000002
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.14026936
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.145241302
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.145566779
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.144478114
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.150123457
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.150628507
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.146049383
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.14243546599999998
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.143512907
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.147676768
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.144186308
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.148653199
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.150774411
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.15338945
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.154489338
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.157003367
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.16734006699999998
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.166801347
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.160875421
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.15876543199999998
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.155925926
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.15650954
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.152962963
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.152042649
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.147384961
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.143748597
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.13627385
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.14251402900000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.142671156
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.146060606
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.143378227
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.14195286199999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.141930415
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.13839506199999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.134702581
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.133815937
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.125387205
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.122783389
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.118787879
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.11563411900000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.11649831599999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.108574635
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.11301908
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.11093153800000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.11423120099999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.117890011
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.124455668
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.12298541
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.128395062
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.128024691
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.133299663
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.132435466
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.127766554
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.129169473
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.12041526400000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.10896745199999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.107957351
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.10248035900000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.09328844
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.09289562300000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08684624
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08824915800000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.084141414
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.085488215
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08714927
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.085757576
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.087744108
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.09043771
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.087194164
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08897867599999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.090650954
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.091189675
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.094949495
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.095510662
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.09312009
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.087317621
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.087070707
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.084029181
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08067340099999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.075297419
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.07600448900000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.073344557
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.07421997799999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.079292929
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.079023569
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.080976431
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.080583614
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.084736251
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.088608305
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.089910213
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08952862
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.09007856300000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08808080800000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08993266
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.087070707
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08956229
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.089326599
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08692480400000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.084107744
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.084141414
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.084904602
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.085331089
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.086352413
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08663299699999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08555555599999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.083142536
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.08475869800000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.081930415
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.084747475
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.081863075
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.0796633
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.075847363
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.075881033
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.077676768
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.078002245
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.07670033700000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.077306397
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.07296296299999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.071829405
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.074590348
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.07674523
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.073849607
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.072558923
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.070707071
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.071425365
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.07052749700000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.068945006
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.069158249
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.065937149
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06526374900000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.068338945
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.065521886
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.069461279
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06898989900000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06654321
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.065903479
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06523007900000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.064882155
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06382716
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06295174
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.061762065
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.058832772
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.055667789
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.059326599
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.060819304000000005
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.058967452000000004
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.057497194
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.060089787
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.059090909000000004
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.060516274
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.058361392000000005
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.060213244000000006
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.055297419
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.055701459
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.056430975999999994
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.05704826
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.055746352
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.055117845
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.054736251
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.05708193
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.059483725999999994
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06462401799999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06298541
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06574635200000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.063310887
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.065274972
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.062615039
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.061694725
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.060662177000000005
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.05969697
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.057687990999999994
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.061447811
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.062906846
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.067104377
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06629629599999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.067328844
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.067463524
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.068799102
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06637486
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.066632997
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06619528599999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.060022447
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.063075196
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.060527497
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06263748599999999
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.062334455999999996
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.060381594000000004
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.061503928
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.062929293
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.061616162
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.063142536
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.060505051
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.060841751
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.060583614
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.057923681
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.059057239000000004
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.059573513
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.059438832999999996
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.057833895
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.059124579000000003
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.056015712999999995
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.057901235
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.057575758
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06023569
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.061200898
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.060190797000000004
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.058361392000000005
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.059674523
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06047138
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.059371493
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.05759820400000001
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.059057239000000004
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.06006734
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.055465769000000005
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.059147026
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.05956229
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.05674523
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.053737374000000004
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.055690236
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.057104377000000005
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.053411897
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.052558923
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.05312009
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.050213244000000004
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.048911336
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.050448934
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.050258137
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.048787879000000006
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.046094275999999997
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.0471156
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.046184063
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.047317621
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.044927048
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.045443322
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.045993266
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.045510662
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.045645342
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.045544332
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.043995510999999994
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.043984287000000004
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.043400673
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.043580247
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.042603815999999996
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.038664422000000004
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.039180696
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.039977553
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.04026936
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.04023088
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.040363636
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.046228955999999995
+            },
+            {
+                "type": "Shorten genes",
+                "value": 0.046868687
+            }
+        ]
+    },
+    {
+        "group": "Lengthen genes",
+        "values": [
+            {
+                "type": "Lengthen genes",
+                "value": 0
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.026767677
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.041939394
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.04372294400000001
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.046902357
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.053501684
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.055892255999999994
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.063737374
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.061717172
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.053737374000000004
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.054545455
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.051582492
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.04969697
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.051447810999999996
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.048787879000000006
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.043434343
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.038282828
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.038417507999999996
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.03996633
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.038585859
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.041111111
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.03959596
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.035117845
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.041043771
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.043838384
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.042760942999999996
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.042861953
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.044006734000000006
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.04986532
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.052457912
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.054983165
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.061077440999999996
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.05595959599999999
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.06077441099999999
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.06629629599999999
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.072390572
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.073198653
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.073232323
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.07003367
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.071515152
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.065690236
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.067272727
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.06040404
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.055353535
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.051212121
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.053232323
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.05013468
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.052828283
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.05404040400000001
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.055319865
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.056195286
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.056666667000000004
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.058855219
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.054612795
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.054814815
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.055084175
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.054814815
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.054107744000000006
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.053804714000000003
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.053434342999999995
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.051414141
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.05047138
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.057306397
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.057037037
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.056161616
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.057441077
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.052626263
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.054410774
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.04952862
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.052929292999999995
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.04956229
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.045656565999999996
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.043097643
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.041919192
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.036531987
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.037777778
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.037676768
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.040841751
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.03979798
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.038215488
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.039023569
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.039023569
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.036902357000000004
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.035858586
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.035521886
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.030875421
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.029158249
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.027878787999999998
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.032121212
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.02969697
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.029259259
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.031818182
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.035151515
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.034781145
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.034848485
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.037643098
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.036060606
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.034175084
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.036195286
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.036195286
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.035454545
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.032289562
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.033636364
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.034141414
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.032794613
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.032323232
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.03003367
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.028855218999999998
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.028686869
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.027474747
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.028047138
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.025286195
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.028215487999999997
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.026094276
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.032962963
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.036498316
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.036632997
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.03969697
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.042760942999999996
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.042794612999999995
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.047979798
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.046666667
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.047777778
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.045488215
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.045286195
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.046262625999999994
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.047138047
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.046801347
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.04585858599999999
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.047912458
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.047979798
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.053670034000000005
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.056599327000000005
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.056835017
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.061043771
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.061784512
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.05956229
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.067340067
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.065555556
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.068484848
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.067676768
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.063535354
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.07040404
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.067474747
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.066565657
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.068417508
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.067811448
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.064410774
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.062929293
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.061649832
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.062760943
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.058585859000000004
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.057508418
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.05939393900000001
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.06016835
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.057070707000000005
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.06407407400000001
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.068013468
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.069427609
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.071548822
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.07023569
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.07047138
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.072188552
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.07188552200000001
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.073131313
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.067508418
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.065824916
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.063737374
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.066801347
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.07020202
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.071750842
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.072289562
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.071952862
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.075218855
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.075353535
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.074175084
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.071346801
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.070639731
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.067542088
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.068047138
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.062491582000000004
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.064208754
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.05888888900000001
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.05939393900000001
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.056666667000000004
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.059259259
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.056700337
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.052356902000000004
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.04983165
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.046801347
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.049326599000000006
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.052020202
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.052154882
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.051649832
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.051683502
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.050606060999999994
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.054646465
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.06026936
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.062020202
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.053838384
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.047912458
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.047373737
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.048417508
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.046464646
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.043164983
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.037946127999999996
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.030673401
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.028282828
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.032053872000000004
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.036262626
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.033131312999999996
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.030572391
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.026127946000000003
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.027407407
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.029360268999999998
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.030976431000000002
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.033030303
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.030909091
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.025622896000000003
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.026801347000000003
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.02983165
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.033063972999999997
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.02969697
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.02962963
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.027710437999999997
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.024040403999999998
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.023939394
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.025589226
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.025925926000000002
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.022525253
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.020673401
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.022760943
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.022020202000000003
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.020505051
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.024141414
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.021952862000000004
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.020336700000000003
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017171717
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017777778
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.018080808
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017912458
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016464646
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016666667
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016329966
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017407407
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017441077
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.018013468
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.018956228999999998
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.018585859
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.018181818
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017373737
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016936027
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016498316000000002
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015420875
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016094276
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017878788
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016161616
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016835017
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017710438000000002
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.01969697
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.019360269
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.018619529
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.019225588999999998
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.02020202
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.020538721
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.021178451
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.020774411
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.018013468
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016801347
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017744108
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015959596
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.018316498
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.019427609
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017575758
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015454545
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014579125
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017070707
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016363636
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017340067
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017003367
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014814815
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.012390571999999999
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014276094
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015185185
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015185185
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015050505
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017575758
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017946128000000002
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.01962963
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.01973064
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017811448
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016397306
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015656566
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.018653199
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016363636
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015319865
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013501684
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013164983
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013501684
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014983165
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015858586
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.018619529
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014949495
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015252525
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014915825
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.02006734
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.019124579
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.018451178000000002
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.022020202000000003
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.022323232000000002
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.022053872000000002
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.024949495
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.026060606
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.024713805
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.021919192
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.022323232000000002
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.021144781
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017508418
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016161616
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014343433999999999
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013703703999999999
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.012828283000000001
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015420875
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013569023999999999
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013703703999999999
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013737373999999998
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014680135
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014781145
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015319865
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014343433999999999
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014242423999999998
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.012626263
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.012895623
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014646465
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014680135
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.012828283000000001
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013299663
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013535354
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013198653000000001
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014074073999999999
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014646465
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015151515
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.012390571999999999
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014141414
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014781145
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015454545
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015824916
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016363636
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016734007
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017474747
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016498316000000002
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016262626000000002
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015622896
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014915825
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014175084
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013400673
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013535354
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013299663
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.012693603000000001
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014612795
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016363636
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015454545
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.017138047
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015892256
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015016835
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014175084
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013636364
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013973063999999999
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.011885521999999999
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.012895623
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.012962963000000001
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.011851852
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.012760943
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013164983
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.012188552
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.012053872
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.011818182
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.014545455
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013367003
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015117845
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015151515
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.016531986999999998
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.018585859
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.021414141
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.021111111000000002
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.022323232000000002
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.02030303
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.021245791
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.022020202000000003
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.023198653
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.023265993
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.022053872000000002
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.022457912000000003
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.022626262999999997
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.02023569
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.02003367
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.018225108
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.015454545
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.010606061000000002
+            },
+            {
+                "type": "Lengthen genes",
+                "value": 0.013939393999999999
+            }
+        ]
+    }
+]

@@ -11,3 +11,7 @@ html {
 abbr[title] {
     text-decoration: none;
 }
+
+svg, svg text, svg tspan {
+    user-select: none;
+}

@@ -1,0 +1,502 @@
+[
+    {
+        "gene": "gene-0",
+        "sample": "sample-0",
+        "p": -0.6331279829133281
+    },
+    {
+        "gene": "gene-0",
+        "sample": "sample-1",
+        "p": 0.010230131944516163
+    },
+    {
+        "gene": "gene-0",
+        "sample": "sample-2",
+        "p": 0.19400506414215402
+    },
+    {
+        "gene": "gene-0",
+        "sample": "sample-3",
+        "p": 0.9575721947900009
+    },
+    {
+        "gene": "gene-0",
+        "sample": "sample-4",
+        "p": 0.12050460014167763
+    },
+    {
+        "gene": "gene-0",
+        "sample": "sample-5",
+        "p": -0.07638167984233135
+    },
+    {
+        "gene": "gene-0",
+        "sample": "sample-6",
+        "p": 0.5943165321641146
+    },
+    {
+        "gene": "gene-0",
+        "sample": "sample-7",
+        "p": 0.036712943201325565
+    },
+    {
+        "gene": "gene-0",
+        "sample": "sample-8",
+        "p": 0.11113328355776142
+    },
+    {
+        "gene": "gene-0",
+        "sample": "sample-9",
+        "p": -0.6273641239674412
+    },
+    {
+        "gene": "gene-1",
+        "sample": "sample-0",
+        "p": -0.7850056345935958
+    },
+    {
+        "gene": "gene-1",
+        "sample": "sample-1",
+        "p": -0.09065812795896555
+    },
+    {
+        "gene": "gene-1",
+        "sample": "sample-2",
+        "p": 0.31887478306242034
+    },
+    {
+        "gene": "gene-1",
+        "sample": "sample-3",
+        "p": 0.02019032661436526
+    },
+    {
+        "gene": "gene-1",
+        "sample": "sample-4",
+        "p": 0.16556543060984952
+    },
+    {
+        "gene": "gene-1",
+        "sample": "sample-5",
+        "p": -0.9170052732979737
+    },
+    {
+        "gene": "gene-1",
+        "sample": "sample-6",
+        "p": -0.02204563979658314
+    },
+    {
+        "gene": "gene-1",
+        "sample": "sample-7",
+        "p": -0.2585210415018877
+    },
+    {
+        "gene": "gene-1",
+        "sample": "sample-8",
+        "p": -0.2708052410052546
+    },
+    {
+        "gene": "gene-1",
+        "sample": "sample-9",
+        "p": -0.578266093253077
+    },
+    {
+        "gene": "gene-2",
+        "sample": "sample-0",
+        "p": 0.07934209941215942
+    },
+    {
+        "gene": "gene-2",
+        "sample": "sample-1",
+        "p": -0.5308409893706116
+    },
+    {
+        "gene": "gene-2",
+        "sample": "sample-2",
+        "p": -0.9408174290089346
+    },
+    {
+        "gene": "gene-2",
+        "sample": "sample-3",
+        "p": 0.8871418927589647
+    },
+    {
+        "gene": "gene-2",
+        "sample": "sample-4",
+        "p": -0.9413492813503108
+    },
+    {
+        "gene": "gene-2",
+        "sample": "sample-5",
+        "p": 0.453951523761317
+    },
+    {
+        "gene": "gene-2",
+        "sample": "sample-6",
+        "p": 0.6158032646588261
+    },
+    {
+        "gene": "gene-2",
+        "sample": "sample-7",
+        "p": 0.7986260828944598
+    },
+    {
+        "gene": "gene-2",
+        "sample": "sample-8",
+        "p": -0.6143128632470023
+    },
+    {
+        "gene": "gene-2",
+        "sample": "sample-9",
+        "p": -0.6418573905806775
+    },
+    {
+        "gene": "gene-3",
+        "sample": "sample-0",
+        "p": -0.6795284249361675
+    },
+    {
+        "gene": "gene-3",
+        "sample": "sample-1",
+        "p": -0.13952602915135293
+    },
+    {
+        "gene": "gene-3",
+        "sample": "sample-2",
+        "p": -0.6619903031862306
+    },
+    {
+        "gene": "gene-3",
+        "sample": "sample-3",
+        "p": 0.15127726479401948
+    },
+    {
+        "gene": "gene-3",
+        "sample": "sample-4",
+        "p": -0.37126209550188305
+    },
+    {
+        "gene": "gene-3",
+        "sample": "sample-5",
+        "p": -0.6455266638933193
+    },
+    {
+        "gene": "gene-3",
+        "sample": "sample-6",
+        "p": 0.512659963904126
+    },
+    {
+        "gene": "gene-3",
+        "sample": "sample-7",
+        "p": 0.28439743132506656
+    },
+    {
+        "gene": "gene-3",
+        "sample": "sample-8",
+        "p": 0.362327288463272
+    },
+    {
+        "gene": "gene-3",
+        "sample": "sample-9",
+        "p": -0.19923796088271306
+    },
+    {
+        "gene": "gene-4",
+        "sample": "sample-0",
+        "p": 0.16147669843036105
+    },
+    {
+        "gene": "gene-4",
+        "sample": "sample-1",
+        "p": -0.08212959053110858
+    },
+    {
+        "gene": "gene-4",
+        "sample": "sample-2",
+        "p": 0.5172229147417369
+    },
+    {
+        "gene": "gene-4",
+        "sample": "sample-3",
+        "p": -0.9911661833404013
+    },
+    {
+        "gene": "gene-4",
+        "sample": "sample-4",
+        "p": 0.015497746814135738
+    },
+    {
+        "gene": "gene-4",
+        "sample": "sample-5",
+        "p": -0.36770324389371467
+    },
+    {
+        "gene": "gene-4",
+        "sample": "sample-6",
+        "p": 0.9775634223639411
+    },
+    {
+        "gene": "gene-4",
+        "sample": "sample-7",
+        "p": -0.7914427002051201
+    },
+    {
+        "gene": "gene-4",
+        "sample": "sample-8",
+        "p": -0.06899510256485764
+    },
+    {
+        "gene": "gene-4",
+        "sample": "sample-9",
+        "p": 0.01795314236854395
+    },
+    {
+        "gene": "gene-5",
+        "sample": "sample-0",
+        "p": 0.32863745043804915
+    },
+    {
+        "gene": "gene-5",
+        "sample": "sample-1",
+        "p": -0.42964735499925233
+    },
+    {
+        "gene": "gene-5",
+        "sample": "sample-2",
+        "p": -0.043238020128131716
+    },
+    {
+        "gene": "gene-5",
+        "sample": "sample-3",
+        "p": 0.562639947467483
+    },
+    {
+        "gene": "gene-5",
+        "sample": "sample-4",
+        "p": -0.4195261073797636
+    },
+    {
+        "gene": "gene-5",
+        "sample": "sample-5",
+        "p": 0.3135936655306377
+    },
+    {
+        "gene": "gene-5",
+        "sample": "sample-6",
+        "p": -0.3183623055784919
+    },
+    {
+        "gene": "gene-5",
+        "sample": "sample-7",
+        "p": -0.6010787970605063
+    },
+    {
+        "gene": "gene-5",
+        "sample": "sample-8",
+        "p": -0.6102391874169046
+    },
+    {
+        "gene": "gene-5",
+        "sample": "sample-9",
+        "p": -0.39899771101109405
+    },
+    {
+        "gene": "gene-6",
+        "sample": "sample-0",
+        "p": -0.2996339456451991
+    },
+    {
+        "gene": "gene-6",
+        "sample": "sample-1",
+        "p": -0.3041264299742328
+    },
+    {
+        "gene": "gene-6",
+        "sample": "sample-2",
+        "p": 0.8043567894595087
+    },
+    {
+        "gene": "gene-6",
+        "sample": "sample-3",
+        "p": -0.03674870294064103
+    },
+    {
+        "gene": "gene-6",
+        "sample": "sample-4",
+        "p": -0.13712359611217018
+    },
+    {
+        "gene": "gene-6",
+        "sample": "sample-5",
+        "p": 0.6901251798822932
+    },
+    {
+        "gene": "gene-6",
+        "sample": "sample-6",
+        "p": -0.13008550415635645
+    },
+    {
+        "gene": "gene-6",
+        "sample": "sample-7",
+        "p": 0.15856460041274456
+    },
+    {
+        "gene": "gene-6",
+        "sample": "sample-8",
+        "p": 0.7189770108873015
+    },
+    {
+        "gene": "gene-6",
+        "sample": "sample-9",
+        "p": 0.11389822405447436
+    },
+    {
+        "gene": "gene-7",
+        "sample": "sample-0",
+        "p": 0.11505791187427494
+    },
+    {
+        "gene": "gene-7",
+        "sample": "sample-1",
+        "p": -0.87195156486308
+    },
+    {
+        "gene": "gene-7",
+        "sample": "sample-2",
+        "p": -0.5066336076734261
+    },
+    {
+        "gene": "gene-7",
+        "sample": "sample-3",
+        "p": -0.3297065547322089
+    },
+    {
+        "gene": "gene-7",
+        "sample": "sample-4",
+        "p": 0.6473860072117592
+    },
+    {
+        "gene": "gene-7",
+        "sample": "sample-5",
+        "p": 0.5423076771974524
+    },
+    {
+        "gene": "gene-7",
+        "sample": "sample-6",
+        "p": -0.5601088553901796
+    },
+    {
+        "gene": "gene-7",
+        "sample": "sample-7",
+        "p": 0.754870204007211
+    },
+    {
+        "gene": "gene-7",
+        "sample": "sample-8",
+        "p": -0.6094980452531917
+    },
+    {
+        "gene": "gene-7",
+        "sample": "sample-9",
+        "p": -0.734723820756348
+    },
+    {
+        "gene": "gene-8",
+        "sample": "sample-0",
+        "p": -0.6281132105848108
+    },
+    {
+        "gene": "gene-8",
+        "sample": "sample-1",
+        "p": 0.07135666097516458
+    },
+    {
+        "gene": "gene-8",
+        "sample": "sample-2",
+        "p": 0.7539923845080594
+    },
+    {
+        "gene": "gene-8",
+        "sample": "sample-3",
+        "p": -0.5668326925266483
+    },
+    {
+        "gene": "gene-8",
+        "sample": "sample-4",
+        "p": -0.014348587161570059
+    },
+    {
+        "gene": "gene-8",
+        "sample": "sample-5",
+        "p": 0.9888963027036395
+    },
+    {
+        "gene": "gene-8",
+        "sample": "sample-6",
+        "p": -0.7448314129545524
+    },
+    {
+        "gene": "gene-8",
+        "sample": "sample-7",
+        "p": -0.7255077388850459
+    },
+    {
+        "gene": "gene-8",
+        "sample": "sample-8",
+        "p": -0.3875374068193209
+    },
+    {
+        "gene": "gene-8",
+        "sample": "sample-9",
+        "p": 0.32344111534468345
+    },
+    {
+        "gene": "gene-9",
+        "sample": "sample-0",
+        "p": 0.9260636333073919
+    },
+    {
+        "gene": "gene-9",
+        "sample": "sample-1",
+        "p": 0.796150857610638
+    },
+    {
+        "gene": "gene-9",
+        "sample": "sample-2",
+        "p": 0.5217318103280997
+    },
+    {
+        "gene": "gene-9",
+        "sample": "sample-3",
+        "p": -0.10494486457389707
+    },
+    {
+        "gene": "gene-9",
+        "sample": "sample-4",
+        "p": 0.29080035293593287
+    },
+    {
+        "gene": "gene-9",
+        "sample": "sample-5",
+        "p": 0.3356264805060718
+    },
+    {
+        "gene": "gene-9",
+        "sample": "sample-6",
+        "p": 0.3680385657020273
+    },
+    {
+        "gene": "gene-9",
+        "sample": "sample-7",
+        "p": 0.18099774678103486
+    },
+    {
+        "gene": "gene-9",
+        "sample": "sample-8",
+        "p": 0.5455174426409091
+    },
+    {
+        "gene": "gene-9",
+        "sample": "sample-9",
+        "p": -0.6899868349145284
+    }
+]

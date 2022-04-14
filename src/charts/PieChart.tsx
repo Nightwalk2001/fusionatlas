@@ -1,6 +1,6 @@
-import {arc, pie, PieArcDatum, scaleOrdinal, sum, transition} from "d3"
-import {motion} from "framer-motion"
-import React, {useEffect, useState} from "react"
+import {arc, pie, PieArcDatum, scaleOrdinal, sum} from "d3"
+import {motion}                                   from "framer-motion"
+import React, {Fragment, useState}                from "react"
 
 type Data = [string, number]
 
@@ -26,25 +26,25 @@ const defaultColors = [
   "rgb(236,119,199)",
   "rgb(236,55,97)",
   "rgba(255,211,12,0.88)",
-  "rgba(24,16,121,0.2)",
-  "rgba(229,53,255,0.1)"
+  "rgba(126,10,241,0.5)",
+  "rgba(229,53,255,0.9)"
 ]
 
-export const PieChart: React.FC<PieChartProps> = ({
-                                                    data,
-                                                    width = 400,
-                                                    height = 400,
-                                                    margin = 35,
-                                                    padAngle = 0.025,
-                                                    innerRadius = 100,
-                                                    outerRadius = Math.min(width, height) / 2 - margin,
-                                                    cornerRadius = 5,
-                                                    colors = defaultColors,
-                                                    opacity = 0.65,
-                                                    hoverScale = 1.03,
-                                                    hoverOpacity = 0.95,
-                                                    title
-                                                  }) => {
+export const PieChart = ({
+                           data,
+                           width = 400,
+                           height = 400,
+                           margin = 35,
+                           padAngle = 0.025,
+                           innerRadius = 100,
+                           outerRadius = Math.min(width, height) / 2 - margin,
+                           cornerRadius = 5,
+                           colors = defaultColors,
+                           opacity = 0.65,
+                           hoverScale = 1.03,
+                           hoverOpacity = 0.95,
+                           title
+                         }: PieChartProps) => {
   const [sigma, setSigma] = useState<number>(0)
 
   const dataReady = Object.entries(data),
@@ -62,17 +62,19 @@ export const PieChart: React.FC<PieChartProps> = ({
 
   const color = scaleOrdinal<string>().range(colors)
 
-  useEffect(() => {
-    const trans = transition().duration(1300)
+  // useEffect(() => {
+  //   // const trans = transition().duration(1300)
+  //   //
+  //   // trans.tween("height", () => (t: number) => {
+  //   //   setSigma(t)
+  //   // })
+  // }, [])
 
-    trans.tween("height", () => (t: number) => setSigma(t))
-  }, [])
-
-  return <div className={"relative w-fit"}>
+  return <div className={"relative flex items-center space-x-10 w-fit"}>
     <svg width={width} height={height}>
       <g transform={`translate(${width / 2}, ${height / 2})`}>
         {pies.map((d, i) =>
-          <React.Fragment key={`${d.startAngle}-${d.endAngle}`}>
+          <Fragment key={`${d.startAngle}-${d.endAngle}`}>
             <motion.path
               d={arcFn(d)!}
               fill={color(`${i}`)}
@@ -82,7 +84,7 @@ export const PieChart: React.FC<PieChartProps> = ({
             <text transform={`translate(${arcFn.centroid(d)})`} textAnchor={"middle"} fill={"#fff"}>
               {d.value / total >= 0.05 && `${Math.round(d.value / total * 100)}%`}
             </text>
-          </React.Fragment>)}
+          </Fragment>)}
       </g>
     </svg>
 
@@ -90,7 +92,7 @@ export const PieChart: React.FC<PieChartProps> = ({
       {title}
     </h1>
 
-    <div className={"absolute bottom-0 flex space-x-2.5 x-center"}>
+    <div className={"flex flex-col space-y-2.5 x-center"}>
       {dataReady.map((d, i) =>
         <div key={d[0]} className={"flex items-center space-x-1"}>
           <div className={"w-[20px] h-[20px]"} style={{backgroundColor: color(`${i}`)}}/>

@@ -1,92 +1,172 @@
-// noinspection JSVoidFunctionReturnValueUsed
+import {chordColors}                                                    from "@/libs"
+import {arc, Chord, chord, ChordGroup, descending, ribbonArrow, select} from "d3"
+import {motion}                                                         from "framer-motion"
+import React, {useEffect, useRef, useState}                             from "react"
 
-import {arc, chord, ChordGroup, descending, ribbonArrow, transition} from "d3"
-import {motion} from "framer-motion"
-import {useEffect, useState} from "react"
-import {useInView} from "react-intersection-observer"
-
-const matrix = [
-  [0, 5871, 8916, 2868, 3467],
-  [1951, 0, 2060, 6171, 3345],
-  [8010, 16145, 0, 8045, 345],
-  [1013, 990, 940, 0, 1273],
-  [700, 900, 440, 50, 6123]
+const names = [
+  "1", "2", "3", "4", "5", "6", "7", "8",
+  "9", "10", "11", "12", "13", "14", "15", "16",
+  "17", "18", "19", "20", "21", "22", "X", "Y"
 ]
 
-const colors = [
-  "#4aeaa1",
-  "#6079f5",
-  "#34d9f3",
-  "#f56486",
-  "#ef02d0"
-]
+type Props = {
+  width?: number
+  height?: number
+  data: number[][]
+  innerRadius?: number
+  outerRadius?: number
+  colors?: string[]
+}
 
-export const ChordChart = () => {
-  const {ref, inView} = useInView({triggerOnce: true})
-  const [value, setValue] = useState<number>(0)
+export const ChordChart = ({
+                             width = 600,
+                             height = 600,
+                             data,
+                             innerRadius = 242,
+                             outerRadius = 260,
+                             colors = chordColors
+                           }: Props) => {
+  const ref       = useRef<SVGGElement>(null),
+        container = useRef<HTMLDivElement>(null)
 
-  const width  = 500,
-        height = 500
+  const [group, setGroup] = useState<number>()
 
   const chords = chord()
-    .padAngle(0.05)
+    .padAngle(0.035)
     .sortSubgroups(descending)
-    (matrix)
+    (data)
 
   const arcFn = arc<ChordGroup>()
-    .startAngle(d => d.startAngle * value)
-    .endAngle(d => d.endAngle * value)
-    .innerRadius(202)
-    .outerRadius(220)
+    .startAngle(d => d.startAngle)
+    .endAngle(d => d.endAngle)
+    .innerRadius(innerRadius)
+    .outerRadius(outerRadius)
 
   const ribbonFn = ribbonArrow()
-    .radius(200)
+    .radius(innerRadius - 2)
     .source(d => d.source)
     .target(d => d.target)
     .startAngle(d => d.startAngle)
     .endAngle(d => d.endAngle)
 
+  const tooltip = select(container.current)
+
+  const handleMouse = function (event: React.MouseEvent, d: Chord) {
+    // tooltip.selectAll("div").remove()
+
+    // select(this)
+    //   .transition()
+    //   .duration(75)
+    //   .attr("opacity", 0.95)
+
+    tooltip
+      .style("left", `${event.clientX}px`)
+      .style("top", `${event.clientY}px`)
+      .style("background-color", colors[d.source.index])
+      .style("visibility", "visible")
+      .append("div")
+      .html(`${d.target.value}`)
+  }
+
+  const handleLeave = function () {
+    // select(this)
+    //   .transition()
+    //   .duration(75)
+    //   .attr("opacity", 0.15)
+
+    tooltip.style("visibility", "hidden")
+    tooltip.selectAll("div").remove()
+  }
+
   useEffect(() => {
-    const trans = transition().duration(4000)
+    // select(ref.current)
+    //   .selectAll(".ribbon")
+    //   .data(chords)
+    //   .join("path")
+    //   .attr("d", ribbonFn as any)
+    //   .attr("fill", d => colors[d.source.index])
+    //   .attr("opacity", d =>
+    //     typeof group === "number" ?
+    //       group === d.source.index ? 0.85 : 0.05
+    //       : 0.15)
+    //   .on("mousemove", handleMouse)
+    //   .on("mouseleave", handleLeave)
 
-    trans.tween("height", () => (t: number) => setValue(t))
-  }, [inView])
+    // select<SVGGElement, unknown>(ref.current!)
+    //   .selectAll("path")
+    //   .on("mouseenter",(event,d) => handleMouse)
 
-  return <div ref={ref}>
+    // const trans = transition().duration(4000)
+    //
+    // trans.tween("height", () => (t: number) => setValue(t))
+  }, [])
+
+  return <div className={"relative"} id={"t"}>
     <svg width={width} height={height}>
       <g transform={`translate(${width / 2}, ${height / 2})`}>
-        {chords.groups.map((d, i) =>
-          <motion.path
-            key={`${d.startAngle}-${d.endAngle}`}
-            animate={{transition: {duration: 1, delay: i}}}
-            d={arcFn(d)!}
-            fill={colors[i]}
-          />)}
+        {chords.groups.map((d, i) => {
+          const angle = (d.startAngle + d.endAngle) / 2
+          const radius = (innerRadius + outerRadius) / 2
 
-        <g>
-          {chords.map(d =>
+          let transform = `rotate(${angle * 180 / Math.PI - 90}) translate(${radius - 8}, 0)`
+          if (angle > Math.PI) transform += "rotate(180) translate(-16, 0)"
+
+          return <g
+            key={`arc-${d.startAngle}-${d.endAngle}-${i}`}
+            onMouseEnter={() => setGroup(i)}
+            onMouseLeave={() => setGroup(undefined)}
+            className={"cursor-pointer"}>
+            <path
+              // animate={{transition: {duration: 1, delay: i}}}
+              d={arcFn(d)!}
+              fill={colors[i]}
+              fillOpacity={typeof group === "number" ?
+                group === i ? 1 : 0.35
+                : 0.85}
+            />
+
+            <text
+              x={8}
+              transform={transform}
+              fill={"white"}
+              textAnchor={"middle"}
+              alignmentBaseline={"middle"}
+              fontSize={12}>
+              {names[i]}
+            </text>
+          </g>
+        })}
+
+        <g ref={ref}>
+          {chords.map((d, i) =>
             <motion.path
-              key={`${d.source.value}-${d.target.value}`}
+              key={`ribbon-${d.source.value}-${d.target.value}-${i}`}
               d={ribbonFn(d as any)!}
               fill={colors[d.source.index]}
-              opacity={0.1}
-              whileHover={{opacity: 0.85}}
+              opacity={typeof group === "number" ?
+                group === d.source.index ? 0.85 : 0.05
+                : 0.15}
+              whileHover={{opacity: 0.95}}
+              className={"transform-gpu transition-opacity duration-75"}
+              onMouseOver={event => handleMouse(event, d)}
+              onMouseLeave={handleLeave}
             />)}
         </g>
       </g>
     </svg>
 
-    <motion.div
-      initial="hidden"
-      whileInView="visible"
-      viewport={{once: true}}
-      transition={{duration: 3}}
-      variants={{
-        visible: {opacity: 1, scale: 1},
-        hidden: {opacity: 0, scale: 0}
-      }}
-    >
-      children
-    </motion.div>
+    <div className={"fixed px-3 py-2.5 invisible rounded-sm text-white"} ref={container}/>
+
+    {/*/!*{*!/*/}
+    {/*  typeof document != "undefined"*/}
+    {/*  && tooltip*/}
+    {/*  && ReactDOM.createPortal(*/}
+    {/*    <div className={"fixed"} style={{left: tooltip.x, top: tooltip.y}}>*/}
+    {/*      <div>{tooltip.source}</div>*/}
+    {/*      <div>{tooltip.target}</div>*/}
+    {/*      <div>{tooltip.value}</div>*/}
+    {/*    </div>,*/}
+    {/*    document.body)*/}
+    {/*}*/}
   </div>
 }
