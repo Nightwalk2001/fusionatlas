@@ -1,8 +1,9 @@
+import {FusionChart} from "@/charts"
+
 const single = () => {
 
   return <div>
-    123
-    {/*<FusionChart/>*/}
+    <FusionChart/>
   </div>
 }
 

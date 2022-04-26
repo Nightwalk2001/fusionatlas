@@ -2,7 +2,7 @@ import {useSvgSize}                      from "@/hooks"
 import proximal                          from "@/json/proximal.json"
 import {AxisBottom, AxisLeft}            from "@visx/axis"
 import {line, scaleLinear, scaleOrdinal} from "d3"
-import React, {useEffect}                from "react"
+import React                             from "react"
 
 type Datum = {
   type: string
@@ -16,12 +16,13 @@ type Data = {
 
 const groups = ["Background genes", "Shorten genes", "Lengthen genes"]
 
-export const PeakChart = () => {
+type Props = {
+  data?: Data
+}
+
+export const PeakChart = ({data = proximal}: Props) => {
   const margin                = {left: 40, right: 10, top: 60, bottom: 30},
         {w, h, width, height} = useSvgSize(690, 450, margin)
-
-  useEffect(() => {
-  }, [])
 
   const x      = scaleLinear().domain([-210, 210]).range([0, width]),
         y      = scaleLinear().domain([-0.01, 0.2]).range([height, 0]).nice(),
@@ -60,7 +61,7 @@ export const PeakChart = () => {
           })}/>
         <line x1={0} y1={0} x2={0} y2={height} stroke={"#585859"} strokeWidth={1} strokeOpacity={0.5}/>
         <line x1={0} y1={height} x2={width} y2={height} stroke={"#585859"} strokeWidth={1} strokeOpacity={0.5}/>
-        {proximal.map((d) =>
+        {data.map((d) =>
           <path
             key={d.group}
             d={lineFn(d.values)!}

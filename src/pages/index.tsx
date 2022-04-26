@@ -75,29 +75,29 @@ const Home = () => {
       </div>
     </div>
 
-    <div className={"flex justify-between items-center w-4/5 mx-auto"}>
-      <div className={"mr-20"}>
-        <h2 className={"mb-4 text-3xl font-semibold"}>LncRNA Expression (single gene)</h2>
-        <p className={"text-lg"}>
-          A method using exon RNA-seq counts of
-          a pair of gene from multiple experiments
-          to infer if there are fusions between them.
-        </p>
-      </div>
-      <img src={require("@/images/single_gene.svg").default} alt="" className={"w-2/5"}/>
-    </div>
+    {/*<div className={"flex justify-between items-center w-4/5 mx-auto"}>*/}
+    {/*  <div className={"mr-20"}>*/}
+    {/*    <h2 className={"mb-4 text-3xl font-semibold"}>LncRNA Expression (single gene)</h2>*/}
+    {/*    <p className={"text-lg"}>*/}
+    {/*      A method using exon RNA-seq counts of*/}
+    {/*      a pair of gene from multiple experiments*/}
+    {/*      to infer if there are fusions between them.*/}
+    {/*    </p>*/}
+    {/*  </div>*/}
+    {/*  <img src={require("@/images/single_gene.svg").default} alt="" className={"w-2/5"}/>*/}
+    {/*</div>*/}
 
-    <div className={"flex justify-between items-center w-4/5 mx-auto"}>
-      <img src={require("@/images/expression.png").default} alt={""} className={"w-2/5"}/>
-      <div className={"ml-20"}>
-        <h2 className={"mb-4 text-3xl font-semibold"}>Predict with exon RNA-seq counts</h2>
-        <p className={"text-lg"}>
-          A method using exon RNA-seq counts of
-          a pair of gene from multiple experiments
-          to infer if there are fusions between them.
-        </p>
-      </div>
-    </div>
+    {/*<div className={"flex justify-between items-center w-4/5 mx-auto"}>*/}
+    {/*  <img src={require("@/images/expression.png").default} alt={""} className={"w-2/5"}/>*/}
+    {/*  <div className={"ml-20"}>*/}
+    {/*    <h2 className={"mb-4 text-3xl font-semibold"}>Predict with exon RNA-seq counts</h2>*/}
+    {/*    <p className={"text-lg"}>*/}
+    {/*      A method using exon RNA-seq counts of*/}
+    {/*      a pair of gene from multiple experiments*/}
+    {/*      to infer if there are fusions between them.*/}
+    {/*    </p>*/}
+    {/*  </div>*/}
+    {/*</div>*/}
   </div>
 }
 

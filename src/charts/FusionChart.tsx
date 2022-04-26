@@ -101,7 +101,7 @@ export const FusionPart = ({
               // animate={{x: [0, x0], width: [0, w]}}
               x={x0}
               y={0}
-              width={w}
+              width={w > 0 ? w : -w}
               height={h * 2}
               fill={color(`${i}`)}
             />
@@ -124,7 +124,13 @@ export const FusionPart = ({
       )}
     </g>
 
-  const LinkDash = ({x1, x2, h1 = 26, h2 = 44, stroke = "#ea708d"}: LinkDashProps) =>
+  const LinkDash = ({
+                      x1,
+                      x2,
+                      h1 = 26,
+                      h2 = 44,
+                      stroke = "#ea708d"
+                    }: LinkDashProps) =>
     <motion.polyline
       points={`${x1},${h * 2} ${x1},${h * 2 + h1} ${x2},${h * 2 + h1 + h2}`}
       fill={"none"}
@@ -167,8 +173,8 @@ export const FusionChart = () => {
         } = useRecoilValue(fusionState)
   const {data: exons1} = useSWR(`/exons/${gene1}`)
   const {data: exons2} = useSWR(`/exons/${gene2}`)
-  const {data: transcript1} = useSWR(`/transcripts/${gene1}`)
-  const {data: transcript2} = useSWR(`/transcripts/${gene2}`)
+  const {data: transcript1} = useSWR<Transcript[]>(`/transcripts/${gene1}`)
+  const {data: transcript2} = useSWR<Transcript[]>(`/transcripts/${gene2}`)
   const {data: cnvs1} = useAnnotation<Cnv[]>("cnv", exons1)
   const {data: snvs1} = useAnnotation<Snv[]>("snv", exons1)
   const {data: m6as1} = useAnnotation<M6a[]>("m6a", exons1)
@@ -209,7 +215,7 @@ export const FusionChart = () => {
 
   const Brace = ({points}: BraceProps) =>
     <motion.path
-      animate={{strokeDasharray: ["0,500", "500,0"]}}
+      // animate={{strokeDasharray: ["0,500", "500,0"]}}
       transition={{duration: 2.5}}
       d={lineFn(points)!}
       className={"stroke-code-punctuation fill-transparent"}

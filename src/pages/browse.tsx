@@ -1,5 +1,7 @@
 import {BarStackChart, BoxChart, ExpressionChart, PieChart, RatioChart} from "@/charts"
+import {PeakChart}                                                      from "@/charts/PeakChart"
 import {PheChart}                                                       from "@/charts/PheChart"
+import distal                                                           from "@/json/distal.json"
 import {getter, PAGE_SIZE, serialize}                                   from "@/libs"
 import {fusionState}                                                    from "@/store"
 import {Table, Thead}                                                   from "@/widgets"
@@ -89,6 +91,8 @@ const browse: NextPage = () => {
       name={"By cancer"}
       data={[{name: "TCGA", value: 123}, {name: "gTEX", value: 207}, {name: "g", value: 70}]}
     />
+    <PeakChart/>
+    <PeakChart data={distal}/>
     <BoxChart/>
     <PheChart/>
     <PieChart data={data1}/>

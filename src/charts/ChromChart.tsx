@@ -43,12 +43,12 @@ export const ChromChart = memo(({
                                   ...props
                                 }: ChromosomeProps) => {
   const chromosome = chroms.find(c => c.chrom === chrom)!,
-        bands    = chromosome.bands,
-        separate = bands.findIndex(b => b.color === "acen") + 1,
-        q        = bands.slice(0, separate),
-        p        = bands.slice(separate),
-        mid      = q[q.length - 1].end,
-        end      = p[p.length - 1].end
+        bands      = chromosome.bands,
+        separate   = bands.findIndex(b => b.color === "acen") + 1,
+        q          = bands.slice(0, separate),
+        p          = bands.slice(separate),
+        mid        = q[q.length - 1].end,
+        end        = p[p.length - 1].end
 
   const x = scaleLinear()
     .domain([0, end])
