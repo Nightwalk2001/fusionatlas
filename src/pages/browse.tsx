@@ -1,17 +1,14 @@
-import {BarStackChart, BoxChart, ExpressionChart, PieChart, RatioChart} from "@/charts"
-import {PeakChart}                                                      from "@/charts/PeakChart"
-import {PheChart}                                                       from "@/charts/PheChart"
-import distal                                                           from "@/json/distal.json"
-import {getter, PAGE_SIZE, serialize}                                   from "@/libs"
-import {fusionState}                                                    from "@/store"
-import {Table, Thead}                                                   from "@/widgets"
-import {Pagination}                                                     from "@/widgets/Pagination"
-import type {NextPage}                                                  from "next"
-import Head                                                             from "next/head"
-import {useRouter}                                                      from "next/router"
-import React, {useEffect, useState}                                     from "react"
-import {useSetRecoilState}                                              from "recoil"
-import useSWR                                                           from "swr"
+import {ExpressionChart, PieChart, RatioChart} from "@/charts"
+import {getter, PAGE_SIZE, serialize}          from "@/libs"
+import {fusionState}                           from "@/store"
+import {Table, Thead}                          from "@/widgets"
+import {Pagination}                            from "@/widgets/Pagination"
+import type {NextPage}                         from "next"
+import Head                                    from "next/head"
+import {useRouter}                             from "next/router"
+import React, {useEffect, useState}            from "react"
+import {useSetRecoilState}                     from "recoil"
+import useSWR                                  from "swr"
 
 const untieBreakpoint = (info: string) => {
   const arr = info.split(":")
@@ -37,8 +34,8 @@ const browse: NextPage = () => {
   const router = useRouter()
   const [page, setPage] = useState(1)
   const // {data: count, mutate: mutateCount} = useSWR<number>("/fusion/count"),
-    {data, mutate: mutate}           = useSWR<Fusion[]>(`/fusion/${page}`),
-    {data: next, mutate: mutateNext} = useSWR<Fusion[]>(`/fusion/${page + 1}`)
+    {data, mutate: mutate}           = useSWR<Fusion[]>(`/fusions/${page}`),
+    {data: next, mutate: mutateNext} = useSWR<Fusion[]>(`/fusions/${page + 1}`)
   const [ribbons, setRibbons] = useState<number[][]>()
   const setFusion = useSetRecoilState(fusionState)
 
@@ -91,14 +88,10 @@ const browse: NextPage = () => {
       name={"By cancer"}
       data={[{name: "TCGA", value: 123}, {name: "gTEX", value: 207}, {name: "g", value: 70}]}
     />
-    <PeakChart/>
-    <PeakChart data={distal}/>
-    <BoxChart/>
-    <PheChart/>
+
     <PieChart data={data1}/>
 
     {/*{ribbons && <ChordChart data={ribbons}/>}*/}
-    <BarStackChart/>
 
     <div className={"h-10"}/>
 

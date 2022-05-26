@@ -3,7 +3,6 @@ import {stat}                                                from "@/libs"
 import {AxisBottom, AxisLeft}                                from "@visx/axis"
 import {randomUniform, scaleBand, scaleLinear, scaleOrdinal} from "d3"
 import React                                                 from "react"
-import raw                                                   from "./tcga.json"
 
 type BoxData = {
   signals: number[][]
@@ -17,7 +16,7 @@ type BoxChartProps = {
   }
 }
 
-export const BoxChart = ({data = raw}: BoxChartProps) => {
+export const BoxChart = ({data}: BoxChartProps) => {
   const margin                = {left: 70, right: 10, top: 60, bottom: 30},
         {w, h, width, height} = useSvgSize(520, 450, margin),
         boxWidth              = 140,
@@ -36,7 +35,8 @@ export const BoxChart = ({data = raw}: BoxChartProps) => {
 
   const xPos = (i: number) => x(ordinal(i))
 
-  const numbers = [...data["Fusion+"], ...data["Fusion-"]]
+  const numbers = []
+  // [...data?.["Fusion+"], ...data?.["Fusion-"]]
 
   const y = scaleLinear()
     // .domain(extent(numbers) as [number, number])
@@ -50,9 +50,10 @@ export const BoxChart = ({data = raw}: BoxChartProps) => {
         stroke = scaleOrdinal<number, string>()
           .domain([0, 1])
           .range(["#53dfec", "#9a60d9"])
-  const dataArray = [data["Fusion+"], data["Fusion-"]],
-        count     = dataArray.map(d => d.length),
-        dataReady = dataArray.map(stat)
+  const dataArray: any[] = [],
+        // [data["Fusion+"], data["Fusion-"]],
+        count            = dataArray.map(d => d.length),
+        dataReady        = dataArray.map(stat)
 
   return <div className={"relative ml-10 my-20 w-fit font-roma"}>
     <svg width={w} height={h}>
@@ -90,7 +91,7 @@ export const BoxChart = ({data = raw}: BoxChartProps) => {
           const {q1, median, q3, min, max, outliers} = d
 
           return <React.Fragment key={i}>
-            {dataArray.map((d, i) => d.map(c => {
+            {dataArray.map((d, i) => d.map((c: any) => {
               const yPos = y(c)
               let offset: number
               if (yPos > y(dataReady[i].q3) && yPos < y(dataReady[i].q1))
@@ -129,13 +130,13 @@ export const BoxChart = ({data = raw}: BoxChartProps) => {
                 cy={y(c)}
                 r={2}
               />)}
-            <polyline points={`${xPos(0)},110 ${xPos(0)},17 ${xPos(1)},17 ${xPos(1)},60`}
-                      className={"fill-transparent stroke-indigo-200 stroke-[1.2]"}/>
+            {/*<polyline points={`${xPos(0)},110 ${xPos(0)},17 ${xPos(1)},17 ${xPos(1)},60`}*/}
+            {/*          className={"fill-transparent stroke-indigo-200 stroke-[1.2]"}/>*/}
 
-            <text transform={"translate(216,34)scale(0.8)"} textAnchor={"middle"} alignmentBaseline={"middle"}
-                  fontFamily={"Times New Roman"} className={"fill-gray-600 text-xl"}>
-              pvalue=4.1e-10
-            </text>
+            {/*<text transform={"translate(216,34)scale(0.8)"} textAnchor={"middle"} alignmentBaseline={"middle"}*/}
+            {/*      fontFamily={"Times New Roman"} className={"fill-gray-600 text-xl"}>*/}
+            {/*  pvalue=4.1e-10*/}
+            {/*</text>*/}
             {/*<path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className={"fill-orange-300"}*/}
             {/*      transform={"translate(210,14)scale(0.8)"}*/}
             {/*      d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z"/>*/}

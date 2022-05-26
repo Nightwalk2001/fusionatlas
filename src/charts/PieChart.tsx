@@ -70,34 +70,36 @@ export const PieChart = ({
   //   // })
   // }, [])
 
-  return <div className={"relative flex items-center space-x-10 w-fit"}>
-    <svg width={width} height={height}>
-      <g transform={`translate(${width / 2}, ${height / 2})`}>
-        {pies.map((d, i) =>
-          <Fragment key={`${d.startAngle}-${d.endAngle}`}>
-            <motion.path
-              d={arcFn(d)!}
-              fill={color(`${i}`)}
-              opacity={opacity}
-              whileHover={{scale: hoverScale, opacity: hoverOpacity}}
-            />
-            <text transform={`translate(${arcFn.centroid(d)})`} textAnchor={"middle"} fill={"#fff"}>
-              {d.value / total >= 0.05 && `${Math.round(d.value / total * 100)}%`}
-            </text>
-          </Fragment>)}
-      </g>
-    </svg>
-
-    <h1 className={"absolute top-0 x-center"}>
+  return <div className={"flex flex-col items-center justify-between w-fit max-w-6xl my-4"}>
+    <h1 className={"text-xl text-gray-700/80 font-semibold uppercase"}>
       {title}
     </h1>
 
-    <div className={"flex flex-col space-y-2.5 x-center"}>
-      {dataReady.map((d, i) =>
-        <div key={d[0]} className={"flex items-center space-x-1"}>
-          <div className={"w-[20px] h-[20px]"} style={{backgroundColor: color(`${i}`)}}/>
-          <span className={"text-gray-600"}>{d[0]}</span>
-        </div>)}
+    <div className={"flex items-center justify-between"}>
+      <svg width={width} height={height}>
+        <g transform={`translate(${width / 2}, ${height / 2})`}>
+          {pies.map((d, i) =>
+            <Fragment key={`${d.startAngle}-${d.endAngle}`}>
+              <motion.path
+                d={arcFn(d)!}
+                fill={color(`${i}`)}
+                opacity={opacity}
+                whileHover={{scale: hoverScale, opacity: hoverOpacity}}
+              />
+              <text transform={`translate(${arcFn.centroid(d)})`} textAnchor={"middle"} fill={"#fff"}>
+                {d.value / total >= 0.05 && `${Math.round(d.value / total * 100)}%`}
+              </text>
+            </Fragment>)}
+        </g>
+      </svg>
+
+      <div className={"flex flex-col place-content-center gap-x-10 gap-y-3"}>
+        {dataReady.map((d, i) =>
+          <div key={d[0]} className={"flex items-center space-x-3"}>
+            <div className={"w-[27px] h-[27px] rounded-sm"} style={{backgroundColor: color(`${i}`)}}/>
+            <span className={"text-gray-600 max-w-[260px]"}>{d[0]}</span>
+          </div>)}
+      </div>
     </div>
   </div>
 }

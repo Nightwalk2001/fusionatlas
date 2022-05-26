@@ -8,6 +8,7 @@ import {SWRConfig}             from "swr"
 
 const app = ({Component, pageProps}: AppProps) => {
   const router = useRouter()
+
   return <div className={"flex flex-col min-w-[100%] min-h-[100vh]"}>
     <RecoilRoot>
       {router.pathname !== "/" && <Navigation/>}

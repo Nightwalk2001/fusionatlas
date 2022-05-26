@@ -178,11 +178,11 @@ export const FusionChart = () => {
   const {data: cnvs1} = useAnnotation<Cnv[]>("cnv", exons1)
   const {data: snvs1} = useAnnotation<Snv[]>("snv", exons1)
   const {data: m6as1} = useAnnotation<M6a[]>("m6a", exons1)
-  const {data: ecDnas1} = useAnnotation<EcDna[]>("ec_dna", exons1)
+  const {data: ecDnas1} = useAnnotation<EcDna[]>("ecdna", exons1)
   const {data: cnvs2} = useAnnotation<Cnv[]>("cnv", exons2)
   const {data: snvs2} = useAnnotation<Snv[]>("snv", exons2)
   const {data: m6as2} = useAnnotation<M6a[]>("m6a", exons2)
-  const {data: ecDnas2} = useAnnotation<EcDna[]>("ec_dna", exons2)
+  const {data: ecDnas2} = useAnnotation<EcDna[]>("ecdna", exons2)
 
   const w = 1250
   const l1 = bpLength(chrom1)

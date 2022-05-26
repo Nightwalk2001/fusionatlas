@@ -1,5 +1,4 @@
 import {AxisBottom}                                  from "@visx/axis"
-import {Grid}                                        from "@visx/grid"
 import {scaleBand, scaleLinear, scaleOrdinal, stack} from "d3"
 import {motion}                                      from "framer-motion"
 import {useInView}                                   from "react-intersection-observer"
@@ -68,7 +67,7 @@ export const BarStackChart = () => {
   return <div ref={ref}>
     <svg width={w} height={h}>
       <g transform={`translate(${margin.left}, ${margin.top})`}>
-        <Grid width={width} height={height} xScale={x} yScale={y}/>
+        {/*<Grid width={width} height={height} xScale={x} yScale={y}/>*/}
         {/*<AxisLeft*/}
         {/*  scale={y}*/}
         {/*  stroke={"#7d8081"}*/}
