@@ -16,15 +16,15 @@ type IsoformChartProps = {
 }
 
 export const AnnotationChart = ({
-                                  width,
-                                  left = 0,
-                                  exons,
-                                  transcripts,
-                                  cnvs,
-                                  snvs,
-                                  ecDnas,
-                                  m6as
-                                }: IsoformChartProps) => {
+  width,
+  left = 0,
+  exons,
+  transcripts,
+  cnvs,
+  snvs,
+  ecDnas,
+  m6as
+}: IsoformChartProps) => {
   const ref = useRef<SVGSVGElement>(null)
   const transformRef = useRef<SVGGElement>(null)
 
@@ -92,75 +92,75 @@ export const AnnotationChart = ({
               onClick={event => handleClickCnv(event, d)}
             />)}
         </g>
-        {/*<g>*/}
-        {/*  {snvs?.map(d =>*/}
-        {/*    <circle*/}
-        {/*      key={d.position}*/}
-        {/*      cx={x(d.position)}*/}
-        {/*      cy={75}*/}
-        {/*      r={2}*/}
-        {/*      className={`stroke-sky-300 */}
-        {/*      fill-transparent cursor-pointer`}*/}
-        {/*    />)}*/}
-        {/*</g>*/}
-        {/*<g>*/}
-        {/*  {ecDnas?.map(d =>*/}
-        {/*    <rect*/}
-        {/*      key={d.eccId}*/}
-        {/*      x={x(d.start)}*/}
-        {/*      y={115}*/}
-        {/*      width={x(d.end) - x(d.start)}*/}
-        {/*      height={20}*/}
-        {/*      fill={typeColor(d.type)}*/}
-        {/*    />)}*/}
-        {/*</g>*/}
-        {/*<g>*/}
-        {/*  {m6as?.map(d =>*/}
-        {/*    <rect*/}
-        {/*      key={d.sample}*/}
-        {/*      x={x(d.start)}*/}
-        {/*      y={165}*/}
-        {/*      width={x(d.end) - x(d.start)}*/}
-        {/*      height={20}*/}
-        {/*      fill={color(d.foldEnrichment)}*/}
-        {/*    />)}*/}
-        {/*</g>*/}
+        <g>
+          {snvs?.map(d =>
+            <circle
+              key={d.position}
+              cx={x(d.position)}
+              cy={75}
+              r={2}
+              className={`stroke-sky-300 
+              fill-transparent cursor-pointer`}
+            />)}
+        </g>
+        <g>
+          {ecDnas?.map(d =>
+            <rect
+              key={d.eccId}
+              x={x(d.start)}
+              y={115}
+              width={x(d.end) - x(d.start)}
+              height={20}
+              fill={typeColor(d.type)}
+            />)}
+        </g>
+        <g>
+          {m6as?.map(d =>
+            <rect
+              key={d.sample}
+              x={x(d.start)}
+              y={165}
+              width={x(d.end) - x(d.start)}
+              height={20}
+              fill={color(d.foldEnrichment)}
+            />)}
+        </g>
 
-        {/*<g>*/}
-        {/*  {transcripts?.map((d, i) => {*/}
-        {/*    const t1 = exons.findIndex(e => e.start === d.start)*/}
-        {/*    const t2 = exons.findIndex(e => e.end === d.end)*/}
-        {/*    const tmp = exons.slice(t1, t2 + 1)*/}
+        <g>
+          {transcripts?.map((d, i) => {
+            const t1 = exons.findIndex(e => e.start === d.start)
+            const t2 = exons.findIndex(e => e.end === d.end)
+            const tmp = exons.slice(t1, t2 + 1)
 
-        {/*    return <g key={i}>*/}
-        {/*      <clipPath id={`${d.start}-${d.end}`}>*/}
-        {/*        <rect*/}
-        {/*          x={Math.max(x(tmp[0]?.start),0)}*/}
-        {/*          y={195 + i * 14 + 4}*/}
-        {/*          width={x(tmp?.[tmp.length - 1]?.end) - x(tmp[0]?.start)}*/}
-        {/*          height={4}*/}
-        {/*        />*/}
-        {/*      </clipPath>*/}
-        {/*      <rect*/}
-        {/*        x={0}*/}
-        {/*        y={195 + i * 14 + 4}*/}
-        {/*        width={width}*/}
-        {/*        height={4}*/}
-        {/*        fill={"url(#p)"}*/}
-        {/*        clipPath={`url(#${d.start}-${d.end})`}*/}
-        {/*      />*/}
-        {/*      {tmp.map((e, i) =>*/}
-        {/*        <rect*/}
-        {/*          key={i}*/}
-        {/*          x={x(e.start)}*/}
-        {/*          y={195 + i * 14}*/}
-        {/*          width={x(e.end) - x(e.start)}*/}
-        {/*          height={12}*/}
-        {/*          fill={"#6c68fa"}*/}
-        {/*        />)}*/}
-        {/*    </g>*/}
-        {/*  })}*/}
-        {/*</g>*/}
+            return <g key={i}>
+              <clipPath id={`${d.start}-${d.end}`}>
+                <rect
+                  x={Math.max(x(tmp[0]?.start), 0)}
+                  y={195 + i * 14 + 4}
+                  width={x(tmp?.[tmp.length - 1]?.end) - x(tmp[0]?.start)}
+                  height={4}
+                />
+              </clipPath>
+              <rect
+                x={0}
+                y={195 + i * 14 + 4}
+                width={width}
+                height={4}
+                fill={"url(#p)"}
+                clipPath={`url(#${d.start}-${d.end})`}
+              />
+              {tmp.map((e, i) =>
+                <rect
+                  key={i}
+                  x={x(e.start)}
+                  y={195 + i * 14}
+                  width={x(e.end) - x(e.start)}
+                  height={12}
+                  fill={"#6c68fa"}
+                />)}
+            </g>
+          })}
+        </g>
       </g>
     </svg>
     <div id={"iso"} className={"tooltip tooltip-kv"}>
