@@ -1,7 +1,8 @@
+import {WindChart} from "@/charts"
 import {Navigation} from "@/widgets"
-import clsx         from "clsx"
-import Head         from "next/head"
-import styles       from "./index.module.css"
+import clsx from "clsx"
+import Head from "next/head"
+import styles from "./index.module.css"
 
 const Header = () => <div className={"relative pb-10"}>
 
@@ -74,6 +75,8 @@ const Home = () => {
         </p>
       </div>
     </div>
+
+    <WindChart/>
 
     {/*<div className={"flex justify-between items-center w-4/5 mx-auto"}>*/}
     {/*  <div className={"mr-20"}>*/}

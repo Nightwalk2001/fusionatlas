@@ -1,8 +1,8 @@
-import {hideTooltip, minMax, showTooltip}                                   from "@/libs"
-import {ChartTooltip}                                                       from "@/widgets"
+import {hideTooltip, minMax, showTooltip} from "@/libs"
+import {ChartTooltip} from "@/widgets"
 import {interpolateRgb, scaleLinear, scaleOrdinal, scaleSequential, select} from "d3"
-import {motion}                                                             from "framer-motion"
-import React, {MouseEvent, useRef}                                          from "react"
+import {motion} from "framer-motion"
+import React, {MouseEvent, useRef} from "react"
 
 type IsoformChartProps = {
   width: number
@@ -111,7 +111,7 @@ export const AnnotationChart = ({
               y={115}
               width={x(d.end) - x(d.start)}
               height={20}
-              fill={typeColor(d.type)}
+              fill={typeColor(d.cellType)}
             />)}
         </g>
         <g>

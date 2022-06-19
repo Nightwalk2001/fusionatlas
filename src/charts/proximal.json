@@ -1,6017 +1,2012 @@
 [
     {
-        "x": -200,
-        "y": 0.6689203692,
-        "group": "background"
+        "x": -1,
+        "y": 0.0,
+        "group": "Background genes"
     },
     {
-        "x": -199,
-        "y": 0.6676325392,
-        "group": "background"
+        "x": 2,
+        "y": 0.431372549,
+        "group": "Background genes"
     },
     {
-        "x": -198,
-        "y": 0.6552908349,
-        "group": "background"
+        "x": 5,
+        "y": 0.5764705882,
+        "group": "Background genes"
     },
     {
-        "x": -197,
-        "y": 0.6529298133,
-        "group": "background"
+        "x": 8,
+        "y": 0.6117647059,
+        "group": "Background genes"
     },
     {
-        "x": -196,
-        "y": 0.6499248766,
-        "group": "background"
+        "x": 11,
+        "y": 0.4745098039,
+        "group": "Background genes"
     },
     {
-        "x": -195,
-        "y": 0.6561493883,
-        "group": "background"
+        "x": 14,
+        "y": 0.5529411765,
+        "group": "Background genes"
     },
     {
-        "x": -194,
-        "y": 0.6599055591,
-        "group": "background"
+        "x": 17,
+        "y": 0.6745098039,
+        "group": "Background genes"
     },
     {
-        "x": -193,
-        "y": 0.6553981541,
-        "group": "background"
+        "x": 20,
+        "y": 0.4588235294,
+        "group": "Background genes"
     },
     {
-        "x": -192,
-        "y": 0.6544322816,
-        "group": "background"
+        "x": 23,
+        "y": 0.7176470588,
+        "group": "Background genes"
     },
     {
-        "x": -191,
-        "y": 0.6469199399,
-        "group": "background"
+        "x": 26,
+        "y": 0.5098039216,
+        "group": "Background genes"
     },
     {
-        "x": -190,
-        "y": 0.6476711741,
-        "group": "background"
+        "x": 29,
+        "y": 0.6196078431,
+        "group": "Background genes"
     },
     {
-        "x": -189,
-        "y": 0.6494955999,
-        "group": "background"
+        "x": 32,
+        "y": 0.5490196078,
+        "group": "Background genes"
     },
     {
-        "x": -188,
-        "y": 0.6502468341,
-        "group": "background"
+        "x": 35,
+        "y": 0.5098039216,
+        "group": "Background genes"
     },
     {
-        "x": -187,
-        "y": 0.6475638549,
-        "group": "background"
+        "x": 38,
+        "y": 0.6823529412,
+        "group": "Background genes"
     },
     {
-        "x": -186,
-        "y": 0.6456321099,
-        "group": "background"
+        "x": 41,
+        "y": 0.5019607843,
+        "group": "Background genes"
     },
     {
-        "x": -185,
-        "y": 0.6440223224,
-        "group": "background"
+        "x": 44,
+        "y": 0.5607843137,
+        "group": "Background genes"
     },
     {
-        "x": -184,
-        "y": 0.6427344924,
-        "group": "background"
+        "x": 47,
+        "y": 0.5764705882,
+        "group": "Background genes"
     },
     {
-        "x": -183,
-        "y": 0.6579738141,
-        "group": "background"
+        "x": 50,
+        "y": 0.5333333333,
+        "group": "Background genes"
     },
     {
-        "x": -182,
-        "y": 0.6667739858,
-        "group": "background"
+        "x": 53,
+        "y": 0.5921568627,
+        "group": "Background genes"
     },
     {
-        "x": -181,
-        "y": 0.6767546684,
-        "group": "background"
+        "x": 56,
+        "y": 0.6745098039,
+        "group": "Background genes"
     },
     {
-        "x": -180,
-        "y": 0.6749302425,
-        "group": "background"
+        "x": 59,
+        "y": 0.6156862745,
+        "group": "Background genes"
     },
     {
-        "x": -179,
+        "x": 62,
+        "y": 0.6784313725,
+        "group": "Background genes"
+    },
+    {
+        "x": 65,
+        "y": 0.6431372549,
+        "group": "Background genes"
+    },
+    {
+        "x": 68,
+        "y": 0.5843137255,
+        "group": "Background genes"
+    },
+    {
+        "x": 71,
+        "y": 0.6470588235,
+        "group": "Background genes"
+    },
+    {
+        "x": 74,
+        "y": 0.6784313725,
+        "group": "Background genes"
+    },
+    {
+        "x": 77,
+        "y": 0.5058823529,
+        "group": "Background genes"
+    },
+    {
+        "x": 80,
+        "y": 0.5725490196,
+        "group": "Background genes"
+    },
+    {
+        "x": 83,
+        "y": 0.6470588235,
+        "group": "Background genes"
+    },
+    {
+        "x": 86,
+        "y": 0.5960784314,
+        "group": "Background genes"
+    },
+    {
+        "x": 89,
+        "y": 0.7333333333,
+        "group": "Background genes"
+    },
+    {
+        "x": 92,
+        "y": 0.6352941176,
+        "group": "Background genes"
+    },
+    {
+        "x": 95,
+        "y": 0.5725490196,
+        "group": "Background genes"
+    },
+    {
+        "x": 98,
+        "y": 0.6588235294,
+        "group": "Background genes"
+    },
+    {
+        "x": 101,
+        "y": 0.7725490196,
+        "group": "Background genes"
+    },
+    {
+        "x": 104,
+        "y": 0.6352941176,
+        "group": "Background genes"
+    },
+    {
+        "x": 107,
+        "y": 0.5529411765,
+        "group": "Background genes"
+    },
+    {
+        "x": 110,
+        "y": 0.5098039216,
+        "group": "Background genes"
+    },
+    {
+        "x": 113,
+        "y": 0.4941176471,
+        "group": "Background genes"
+    },
+    {
+        "x": 116,
+        "y": 0.5882352941,
+        "group": "Background genes"
+    },
+    {
+        "x": 119,
+        "y": 0.6549019608,
+        "group": "Background genes"
+    },
+    {
+        "x": 122,
+        "y": 0.5568627451,
+        "group": "Background genes"
+    },
+    {
+        "x": 125,
+        "y": 0.6901960784,
+        "group": "Background genes"
+    },
+    {
+        "x": 128,
+        "y": 0.7568627451,
+        "group": "Background genes"
+    },
+    {
+        "x": 131,
+        "y": 0.568627451,
+        "group": "Background genes"
+    },
+    {
+        "x": 134,
+        "y": 0.6705882353,
+        "group": "Background genes"
+    },
+    {
+        "x": 137,
+        "y": 0.5176470588,
+        "group": "Background genes"
+    },
+    {
+        "x": 140,
+        "y": 0.5529411765,
+        "group": "Background genes"
+    },
+    {
+        "x": 143,
+        "y": 0.6039215686,
+        "group": "Background genes"
+    },
+    {
+        "x": 146,
+        "y": 0.5450980392,
+        "group": "Background genes"
+    },
+    {
+        "x": 149,
+        "y": 0.5529411765,
+        "group": "Background genes"
+    },
+    {
+        "x": 152,
+        "y": 0.5607843137,
+        "group": "Background genes"
+    },
+    {
+        "x": 155,
+        "y": 0.5843137255,
+        "group": "Background genes"
+    },
+    {
+        "x": 158,
+        "y": 0.5176470588,
+        "group": "Background genes"
+    },
+    {
+        "x": 161,
+        "y": 0.5490196078,
+        "group": "Background genes"
+    },
+    {
+        "x": 164,
+        "y": 0.5647058824,
+        "group": "Background genes"
+    },
+    {
+        "x": 167,
+        "y": 0.5960784314,
+        "group": "Background genes"
+    },
+    {
+        "x": 170,
+        "y": 0.7137254902,
+        "group": "Background genes"
+    },
+    {
+        "x": 173,
+        "y": 0.7294117647,
+        "group": "Background genes"
+    },
+    {
+        "x": 176,
+        "y": 0.737254902,
+        "group": "Background genes"
+    },
+    {
+        "x": 179,
+        "y": 0.6705882353,
+        "group": "Background genes"
+    },
+    {
+        "x": 182,
+        "y": 0.6470588235,
+        "group": "Background genes"
+    },
+    {
+        "x": 185,
+        "y": 0.4117647059,
+        "group": "Background genes"
+    },
+    {
+        "x": 188,
+        "y": 0.5607843137,
+        "group": "Background genes"
+    },
+    {
+        "x": 191,
+        "y": 0.5843137255,
+        "group": "Background genes"
+    },
+    {
+        "x": 194,
+        "y": 0.3921568627,
+        "group": "Background genes"
+    },
+    {
+        "x": 197,
+        "y": 0.5333333333,
+        "group": "Background genes"
+    },
+    {
+        "x": 200,
+        "y": 0.4901960784,
+        "group": "Background genes"
+    },
+    {
+        "x": 203,
+        "y": 0.5333333333,
+        "group": "Background genes"
+    },
+    {
+        "x": 206,
+        "y": 0.7176470588,
+        "group": "Background genes"
+    },
+    {
+        "x": 209,
+        "y": 0.8117647059,
+        "group": "Background genes"
+    },
+    {
+        "x": 212,
+        "y": 0.7215686275,
+        "group": "Background genes"
+    },
+    {
+        "x": 215,
+        "y": 0.6745098039,
+        "group": "Background genes"
+    },
+    {
+        "x": 218,
+        "y": 0.862745098,
+        "group": "Background genes"
+    },
+    {
+        "x": 221,
         "y": 0.6666666667,
-        "group": "background"
+        "group": "Background genes"
     },
     {
-        "x": -178,
-        "y": 0.65851041,
-        "group": "background"
+        "x": 224,
+        "y": 0.7176470588,
+        "group": "Background genes"
     },
     {
-        "x": -177,
-        "y": 0.6714960292,
-        "group": "background"
+        "x": 227,
+        "y": 0.6039215686,
+        "group": "Background genes"
     },
     {
-        "x": -176,
-        "y": 0.6821206267,
-        "group": "background"
+        "x": 230,
+        "y": 0.662745098,
+        "group": "Background genes"
     },
     {
-        "x": -175,
-        "y": 0.6776132217,
-        "group": "background"
+        "x": 233,
+        "y": 0.8078431373,
+        "group": "Background genes"
     },
     {
-        "x": -174,
-        "y": 0.6815840309,
-        "group": "background"
+        "x": 236,
+        "y": 0.7411764706,
+        "group": "Background genes"
     },
     {
-        "x": -173,
-        "y": 0.6734277742,
-        "group": "background"
+        "x": 239,
+        "y": 0.7921568627,
+        "group": "Background genes"
     },
     {
-        "x": -172,
-        "y": 0.6685984117,
-        "group": "background"
+        "x": 242,
+        "y": 0.7176470588,
+        "group": "Background genes"
     },
     {
-        "x": -171,
-        "y": 0.6690276883,
-        "group": "background"
+        "x": 245,
+        "y": 0.6,
+        "group": "Background genes"
     },
     {
-        "x": -170,
-        "y": 0.6651641983,
-        "group": "background"
+        "x": 248,
+        "y": 0.8156862745,
+        "group": "Background genes"
     },
     {
-        "x": -169,
-        "y": 0.6650568792,
-        "group": "background"
+        "x": 251,
+        "y": 0.7568627451,
+        "group": "Background genes"
     },
     {
-        "x": -168,
-        "y": 0.6718179867,
-        "group": "background"
+        "x": 254,
+        "y": 0.6470588235,
+        "group": "Background genes"
     },
     {
-        "x": -167,
-        "y": 0.6754668384,
-        "group": "background"
+        "x": 257,
+        "y": 0.7764705882,
+        "group": "Background genes"
     },
     {
-        "x": -166,
-        "y": 0.6789010517,
-        "group": "background"
+        "x": 260,
+        "y": 0.7137254902,
+        "group": "Background genes"
     },
     {
-        "x": -165,
-        "y": 0.6737497317,
-        "group": "background"
+        "x": 263,
+        "y": 0.9490196078,
+        "group": "Background genes"
     },
     {
-        "x": -164,
-        "y": 0.6805108392,
-        "group": "background"
+        "x": 266,
+        "y": 0.7450980392,
+        "group": "Background genes"
     },
     {
-        "x": -163,
-        "y": 0.6804035201,
-        "group": "background"
+        "x": 269,
+        "y": 0.6078431373,
+        "group": "Background genes"
     },
     {
-        "x": -162,
-        "y": 0.6708521142,
-        "group": "background"
+        "x": 272,
+        "y": 0.5725490196,
+        "group": "Background genes"
     },
     {
-        "x": -161,
-        "y": 0.6683837733,
-        "group": "background"
+        "x": 275,
+        "y": 0.5411764706,
+        "group": "Background genes"
     },
     {
-        "x": -160,
-        "y": 0.6645202833,
-        "group": "background"
+        "x": 278,
+        "y": 0.4745098039,
+        "group": "Background genes"
     },
     {
-        "x": -159,
-        "y": 0.6593689633,
-        "group": "background"
+        "x": 281,
+        "y": 0.631372549,
+        "group": "Background genes"
     },
     {
-        "x": -158,
-        "y": 0.6638763683,
-        "group": "background"
+        "x": 284,
+        "y": 0.5725490196,
+        "group": "Background genes"
     },
     {
-        "x": -157,
-        "y": 0.6546469199,
-        "group": "background"
+        "x": 287,
+        "y": 0.6039215686,
+        "group": "Background genes"
     },
     {
-        "x": -156,
-        "y": 0.6527151749,
-        "group": "background"
+        "x": 290,
+        "y": 0.7058823529,
+        "group": "Background genes"
     },
     {
-        "x": -155,
-        "y": 0.6404807899,
-        "group": "background"
+        "x": 293,
+        "y": 1.0,
+        "group": "Background genes"
     },
     {
-        "x": -154,
-        "y": 0.6388710024,
-        "group": "background"
+        "x": 296,
+        "y": 0.5843137255,
+        "group": "Background genes"
     },
     {
-        "x": -153,
-        "y": 0.6416613007,
-        "group": "background"
+        "x": 299,
+        "y": 0.7333333333,
+        "group": "Background genes"
     },
     {
-        "x": -152,
-        "y": 0.6444515991,
-        "group": "background"
+        "x": 302,
+        "y": 0.662745098,
+        "group": "Background genes"
     },
     {
-        "x": -151,
-        "y": 0.6471345782,
-        "group": "background"
+        "x": 305,
+        "y": 0.5254901961,
+        "group": "Background genes"
     },
     {
-        "x": -150,
-        "y": 0.6396222365,
-        "group": "background"
+        "x": 308,
+        "y": 0.6549019608,
+        "group": "Background genes"
     },
     {
-        "x": -149,
-        "y": 0.6397295557,
-        "group": "background"
+        "x": 311,
+        "y": 0.8039215686,
+        "group": "Background genes"
     },
     {
-        "x": -148,
-        "y": 0.6344709165,
-        "group": "background"
+        "x": 314,
+        "y": 0.5450980392,
+        "group": "Background genes"
     },
     {
-        "x": -147,
-        "y": 0.6339343207,
-        "group": "background"
+        "x": 317,
+        "y": 0.6470588235,
+        "group": "Background genes"
     },
     {
-        "x": -146,
-        "y": 0.6461687057,
-        "group": "background"
+        "x": 320,
+        "y": 0.6862745098,
+        "group": "Background genes"
     },
     {
-        "x": -145,
-        "y": 0.6455247907,
-        "group": "background"
+        "x": 323,
+        "y": 0.7058823529,
+        "group": "Background genes"
     },
     {
-        "x": -144,
-        "y": 0.6396222365,
-        "group": "background"
+        "x": 326,
+        "y": 0.6980392157,
+        "group": "Background genes"
     },
     {
-        "x": -143,
-        "y": 0.6401588324,
-        "group": "background"
+        "x": 329,
+        "y": 0.6156862745,
+        "group": "Background genes"
     },
     {
-        "x": -142,
-        "y": 0.6430564499,
-        "group": "background"
+        "x": 332,
+        "y": 0.6823529412,
+        "group": "Background genes"
     },
     {
-        "x": -141,
-        "y": 0.6497102382,
-        "group": "background"
+        "x": 335,
+        "y": 0.7803921569,
+        "group": "Background genes"
     },
     {
-        "x": -140,
-        "y": 0.6420905774,
-        "group": "background"
+        "x": 338,
+        "y": 0.7490196078,
+        "group": "Background genes"
     },
     {
-        "x": -139,
-        "y": 0.6368319382,
-        "group": "background"
+        "x": 341,
+        "y": 0.7333333333,
+        "group": "Background genes"
     },
     {
-        "x": -138,
-        "y": 0.6346855548,
-        "group": "background"
+        "x": 344,
+        "y": 0.6078431373,
+        "group": "Background genes"
     },
     {
-        "x": -137,
-        "y": 0.6346855548,
-        "group": "background"
+        "x": 347,
+        "y": 0.6823529412,
+        "group": "Background genes"
     },
     {
-        "x": -136,
-        "y": 0.6358660657,
-        "group": "background"
+        "x": 350,
+        "y": 0.5921568627,
+        "group": "Background genes"
     },
     {
-        "x": -135,
-        "y": 0.6323245332,
-        "group": "background"
+        "x": 353,
+        "y": 0.6588235294,
+        "group": "Background genes"
     },
     {
-        "x": -134,
-        "y": 0.6284610431,
-        "group": "background"
+        "x": 356,
+        "y": 0.7058823529,
+        "group": "Background genes"
     },
     {
-        "x": -133,
-        "y": 0.6240609573,
-        "group": "background"
+        "x": 359,
+        "y": 0.8196078431,
+        "group": "Background genes"
     },
     {
-        "x": -132,
-        "y": 0.6062459755,
-        "group": "background"
+        "x": 362,
+        "y": 0.8196078431,
+        "group": "Background genes"
     },
     {
-        "x": -131,
-        "y": 0.5966945697,
-        "group": "background"
+        "x": 365,
+        "y": 0.6705882353,
+        "group": "Background genes"
     },
     {
-        "x": -130,
-        "y": 0.5807040137,
-        "group": "background"
+        "x": 368,
+        "y": 0.6156862745,
+        "group": "Background genes"
     },
     {
-        "x": -129,
-        "y": 0.5780210346,
-        "group": "background"
+        "x": 371,
+        "y": 0.5490196078,
+        "group": "Background genes"
     },
     {
-        "x": -128,
-        "y": 0.571903842,
-        "group": "background"
+        "x": 374,
+        "y": 0.6235294118,
+        "group": "Background genes"
     },
     {
-        "x": -127,
-        "y": 0.5643915003,
-        "group": "background"
+        "x": 377,
+        "y": 0.7215686275,
+        "group": "Background genes"
     },
     {
-        "x": -126,
-        "y": 0.5428203477,
-        "group": "background"
+        "x": 380,
+        "y": 0.8470588235,
+        "group": "Background genes"
     },
     {
-        "x": -125,
-        "y": 0.5264005151,
-        "group": "background"
+        "x": 383,
+        "y": 0.8470588235,
+        "group": "Background genes"
     },
     {
-        "x": -124,
-        "y": 0.5302640052,
-        "group": "background"
+        "x": 386,
+        "y": 0.5882352941,
+        "group": "Background genes"
     },
     {
-        "x": -123,
-        "y": 0.5215711526,
-        "group": "background"
+        "x": 389,
+        "y": 0.5803921569,
+        "group": "Background genes"
     },
     {
-        "x": -122,
-        "y": 0.526293196,
-        "group": "background"
+        "x": 392,
+        "y": 0.6117647059,
+        "group": "Background genes"
     },
     {
-        "x": -121,
-        "y": 0.5332689418,
-        "group": "background"
+        "x": 395,
+        "y": 0.7529411765,
+        "group": "Background genes"
     },
     {
-        "x": -120,
-        "y": 0.5316591543,
-        "group": "background"
-    },
-    {
-        "x": -119,
-        "y": 0.527581026,
-        "group": "background"
-    },
-    {
-        "x": -118,
-        "y": 0.5241468126,
-        "group": "background"
-    },
-    {
-        "x": -117,
-        "y": 0.5223223868,
-        "group": "background"
-    },
-    {
-        "x": -116,
-        "y": 0.5180296201,
-        "group": "background"
-    },
-    {
-        "x": -115,
-        "y": 0.5119124276,
-        "group": "background"
-    },
-    {
-        "x": -114,
-        "y": 0.5144880876,
-        "group": "background"
-    },
-    {
-        "x": -113,
-        "y": 0.5076196609,
-        "group": "background"
-    },
-    {
-        "x": -112,
-        "y": 0.5047220434,
-        "group": "background"
-    },
-    {
-        "x": -111,
-        "y": 0.5049366817,
-        "group": "background"
-    },
-    {
-        "x": -110,
-        "y": 0.509658725,
-        "group": "background"
-    },
-    {
-        "x": -109,
-        "y": 0.5097660442,
-        "group": "background"
-    },
-    {
-        "x": -108,
-        "y": 0.50515132,
-        "group": "background"
-    },
-    {
-        "x": -107,
-        "y": 0.5003219575,
-        "group": "background"
-    },
-    {
-        "x": -106,
-        "y": 0.4994634042,
-        "group": "background"
-    },
-    {
-        "x": -105,
-        "y": 0.4994634042,
-        "group": "background"
-    },
-    {
-        "x": -104,
-        "y": 0.4989268083,
-        "group": "background"
-    },
-    {
-        "x": -103,
-        "y": 0.492916935,
-        "group": "background"
-    },
-    {
-        "x": -102,
-        "y": 0.4869070616,
-        "group": "background"
-    },
-    {
-        "x": -101,
-        "y": 0.4813264649,
-        "group": "background"
-    },
-    {
-        "x": -100,
-        "y": 0.4795020391,
-        "group": "background"
-    },
-    {
-        "x": -99,
-        "y": 0.4819703799,
-        "group": "background"
-    },
-    {
-        "x": -98,
-        "y": 0.4808971882,
-        "group": "background"
-    },
-    {
-        "x": -97,
-        "y": 0.4799313157,
-        "group": "background"
-    },
-    {
-        "x": -96,
-        "y": 0.4804679116,
-        "group": "background"
-    },
-    {
-        "x": -95,
-        "y": 0.4760678257,
-        "group": "background"
-    },
-    {
-        "x": -94,
-        "y": 0.4770336982,
-        "group": "background"
-    },
-    {
-        "x": -93,
-        "y": 0.4774629749,
-        "group": "background"
-    },
-    {
-        "x": -92,
-        "y": 0.4759605065,
-        "group": "background"
-    },
-    {
-        "x": -91,
-        "y": 0.4796093582,
-        "group": "background"
-    },
-    {
-        "x": -90,
-        "y": 0.4800386349,
-        "group": "background"
-    },
-    {
-        "x": -89,
-        "y": 0.4805752307,
-        "group": "background"
-    },
-    {
-        "x": -88,
-        "y": 0.4816484224,
-        "group": "background"
-    },
-    {
-        "x": -87,
-        "y": 0.4830435716,
-        "group": "background"
-    },
-    {
-        "x": -86,
-        "y": 0.4777849324,
-        "group": "background"
-    },
-    {
-        "x": -85,
-        "y": 0.4783215282,
-        "group": "background"
-    },
-    {
-        "x": -84,
-        "y": 0.474994634,
-        "group": "background"
-    },
-    {
-        "x": -83,
-        "y": 0.4761751449,
-        "group": "background"
-    },
-    {
-        "x": -82,
-        "y": 0.476282464,
-        "group": "background"
-    },
-    {
-        "x": -81,
-        "y": 0.473706804,
-        "group": "background"
-    },
-    {
-        "x": -80,
-        "y": 0.4729555699,
-        "group": "background"
-    },
-    {
-        "x": -79,
-        "y": 0.4731702082,
-        "group": "background"
-    },
-    {
-        "x": -78,
-        "y": 0.4748873149,
-        "group": "background"
-    },
-    {
-        "x": -77,
-        "y": 0.4755312299,
-        "group": "background"
-    },
-    {
-        "x": -76,
-        "y": 0.4763897832,
-        "group": "background"
-    },
-    {
-        "x": -75,
-        "y": 0.4754239107,
-        "group": "background"
-    },
-    {
-        "x": -74,
-        "y": 0.4742433999,
-        "group": "background"
-    },
-    {
-        "x": -73,
-        "y": 0.4708091865,
-        "group": "background"
-    },
-    {
-        "x": -72,
-        "y": 0.4701652715,
-        "group": "background"
-    },
-    {
-        "x": -71,
-        "y": 0.4667310582,
-        "group": "background"
-    },
-    {
-        "x": -70,
-        "y": 0.4610431423,
-        "group": "background"
-    },
-    {
-        "x": -69,
-        "y": 0.4619016956,
-        "group": "background"
-    },
-    {
-        "x": -68,
-        "y": 0.466623739,
-        "group": "background"
-    },
-    {
-        "x": -67,
-        "y": 0.466623739,
-        "group": "background"
-    },
-    {
-        "x": -66,
-        "y": 0.4578235673,
-        "group": "background"
-    },
-    {
-        "x": -65,
-        "y": 0.4647993132,
-        "group": "background"
-    },
-    {
-        "x": -64,
-        "y": 0.4665164198,
-        "group": "background"
-    },
-    {
-        "x": -63,
-        "y": 0.4664091007,
-        "group": "background"
-    },
-    {
-        "x": -62,
-        "y": 0.471775059,
-        "group": "background"
-    },
-    {
-        "x": -61,
-        "y": 0.4801459541,
-        "group": "background"
-    },
-    {
-        "x": -60,
-        "y": 0.4797166774,
-        "group": "background"
-    },
-    {
-        "x": -59,
-        "y": 0.474994634,
-        "group": "background"
-    },
-    {
-        "x": -58,
-        "y": 0.474350719,
-        "group": "background"
-    },
-    {
-        "x": -57,
-        "y": 0.4694140373,
-        "group": "background"
-    },
-    {
-        "x": -56,
-        "y": 0.4700579524,
-        "group": "background"
-    },
-    {
-        "x": -55,
-        "y": 0.4693067182,
-        "group": "background"
-    },
-    {
-        "x": -54,
-        "y": 0.4699506332,
-        "group": "background"
-    },
-    {
-        "x": -53,
-        "y": 0.4714531015,
-        "group": "background"
-    },
-    {
-        "x": -52,
-        "y": 0.4741360807,
-        "group": "background"
-    },
-    {
-        "x": -51,
-        "y": 0.4746726765,
-        "group": "background"
-    },
-    {
-        "x": -50,
-        "y": 0.471131144,
-        "group": "background"
-    },
-    {
-        "x": -49,
-        "y": 0.4694140373,
-        "group": "background"
-    },
-    {
-        "x": -48,
-        "y": 0.4680188882,
-        "group": "background"
-    },
-    {
-        "x": -47,
-        "y": 0.4642627173,
-        "group": "background"
-    },
-    {
-        "x": -46,
-        "y": 0.4667310582,
-        "group": "background"
-    },
-    {
-        "x": -45,
-        "y": 0.4643700365,
-        "group": "background"
-    },
-    {
-        "x": -44,
-        "y": 0.4575016098,
-        "group": "background"
-    },
-    {
-        "x": -43,
-        "y": 0.4508478214,
-        "group": "background"
-    },
-    {
-        "x": -42,
-        "y": 0.4518136939,
-        "group": "background"
-    },
-    {
-        "x": -41,
-        "y": 0.4550332689,
-        "group": "background"
-    },
-    {
-        "x": -40,
-        "y": 0.4434427989,
-        "group": "background"
-    },
-    {
-        "x": -39,
-        "y": 0.430671818,
-        "group": "background"
-    },
-    {
-        "x": -38,
-        "y": 0.4260570938,
-        "group": "background"
-    },
-    {
-        "x": -37,
-        "y": 0.4241253488,
-        "group": "background"
-    },
-    {
-        "x": -36,
-        "y": 0.4177935179,
-        "group": "background"
-    },
-    {
-        "x": -35,
-        "y": 0.4175788796,
-        "group": "background"
-    },
-    {
-        "x": -34,
-        "y": 0.4133934321,
-        "group": "background"
-    },
-    {
-        "x": -33,
-        "y": 0.4154324962,
-        "group": "background"
-    },
-    {
-        "x": -32,
-        "y": 0.4125348787,
-        "group": "background"
-    },
-    {
-        "x": -31,
-        "y": 0.4121056021,
-        "group": "background"
-    },
-    {
-        "x": -30,
-        "y": 0.4163983687,
-        "group": "background"
-    },
-    {
-        "x": -29,
-        "y": 0.4138227087,
-        "group": "background"
-    },
-    {
-        "x": -28,
-        "y": 0.4159690921,
-        "group": "background"
-    },
-    {
-        "x": -27,
-        "y": 0.4122129212,
-        "group": "background"
-    },
-    {
-        "x": -26,
-        "y": 0.4104958146,
-        "group": "background"
-    },
-    {
-        "x": -25,
-        "y": 0.4123202404,
-        "group": "background"
-    },
-    {
-        "x": -24,
-        "y": 0.4176861988,
-        "group": "background"
-    },
-    {
-        "x": -23,
-        "y": 0.4172569221,
-        "group": "background"
-    },
-    {
-        "x": -22,
-        "y": 0.4150032196,
-        "group": "background"
-    },
-    {
-        "x": -21,
-        "y": 0.4170422838,
-        "group": "background"
-    },
-    {
-        "x": -20,
-        "y": 0.4155398154,
-        "group": "background"
-    },
-    {
-        "x": -19,
-        "y": 0.4129641554,
-        "group": "background"
-    },
-    {
-        "x": -18,
-        "y": 0.4146812621,
-        "group": "background"
-    },
-    {
-        "x": -17,
-        "y": 0.4146812621,
-        "group": "background"
-    },
-    {
-        "x": -16,
-        "y": 0.4157544537,
-        "group": "background"
-    },
-    {
-        "x": -15,
-        "y": 0.4159690921,
-        "group": "background"
-    },
-    {
-        "x": -14,
-        "y": 0.4097445804,
-        "group": "background"
-    },
-    {
-        "x": -13,
-        "y": 0.4083494312,
-        "group": "background"
-    },
-    {
-        "x": -12,
-        "y": 0.4051298562,
-        "group": "background"
-    },
-    {
-        "x": -11,
-        "y": 0.400515132,
-        "group": "background"
-    },
-    {
-        "x": -10,
-        "y": 0.3920369178,
-        "group": "background"
-    },
-    {
-        "x": -9,
-        "y": 0.3918222795,
-        "group": "background"
-    },
-    {
-        "x": -8,
-        "y": 0.3896758961,
-        "group": "background"
-    },
-    {
-        "x": -7,
-        "y": 0.3878514703,
-        "group": "background"
-    },
-    {
-        "x": -6,
-        "y": 0.390856407,
-        "group": "background"
-    },
-    {
-        "x": -5,
-        "y": 0.3891393003,
-        "group": "background"
-    },
-    {
-        "x": -4,
-        "y": 0.3931101095,
-        "group": "background"
-    },
-    {
-        "x": -3,
-        "y": 0.3942906203,
-        "group": "background"
-    },
-    {
-        "x": -2,
-        "y": 0.4707018674,
-        "group": "background"
+        "x": 398,
+        "y": 0.3215686275,
+        "group": "Background genes"
     },
     {
         "x": -1,
-        "y": 0.5651427345,
-        "group": "background"
-    },
-    {
-        "x": 0,
-        "y": 0.5604206911,
-        "group": "background"
-    },
-    {
-        "x": 1,
-        "y": 0.5389568577,
-        "group": "background"
+        "y": 0.0,
+        "group": "Lengthen genes"
     },
     {
         "x": 2,
-        "y": 0.5298347285,
-        "group": "background"
-    },
-    {
-        "x": 3,
-        "y": 0.5326250268,
-        "group": "background"
-    },
-    {
-        "x": 4,
-        "y": 0.5373470702,
-        "group": "background"
+        "y": 0.1754385965,
+        "group": "Lengthen genes"
     },
     {
         "x": 5,
-        "y": 0.5501180511,
-        "group": "background"
-    },
-    {
-        "x": 6,
-        "y": 0.5554840094,
-        "group": "background"
-    },
-    {
-        "x": 7,
-        "y": 0.5623524361,
-        "group": "background"
+        "y": 0.3157894737,
+        "group": "Lengthen genes"
     },
     {
         "x": 8,
-        "y": 0.5670744795,
-        "group": "background"
-    },
-    {
-        "x": 9,
-        "y": 0.5774844387,
-        "group": "background"
-    },
-    {
-        "x": 10,
-        "y": 0.5808113329,
-        "group": "background"
+        "y": 0.298245614,
+        "group": "Lengthen genes"
     },
     {
         "x": 11,
-        "y": 0.5972311655,
-        "group": "background"
-    },
-    {
-        "x": 12,
-        "y": 0.6003434213,
-        "group": "background"
-    },
-    {
-        "x": 13,
-        "y": 0.606567933,
-        "group": "background"
+        "y": 0.1578947368,
+        "group": "Lengthen genes"
     },
     {
         "x": 14,
-        "y": 0.6112899764,
-        "group": "background"
-    },
-    {
-        "x": 15,
-        "y": 0.625134149,
-        "group": "background"
-    },
-    {
-        "x": 16,
-        "y": 0.6305001073,
-        "group": "background"
+        "y": 0.2280701754,
+        "group": "Lengthen genes"
     },
     {
         "x": 17,
-        "y": 0.638656364,
-        "group": "background"
-    },
-    {
-        "x": 18,
-        "y": 0.6445589182,
-        "group": "background"
-    },
-    {
-        "x": 19,
-        "y": 0.6443442799,
-        "group": "background"
+        "y": 0.3157894737,
+        "group": "Lengthen genes"
     },
     {
         "x": 20,
-        "y": 0.6468126207,
-        "group": "background"
-    },
-    {
-        "x": 21,
-        "y": 0.6468126207,
-        "group": "background"
-    },
-    {
-        "x": 22,
-        "y": 0.6519639408,
-        "group": "background"
+        "y": 0.1052631579,
+        "group": "Lengthen genes"
     },
     {
         "x": 23,
-        "y": 0.6514273449,
-        "group": "background"
-    },
-    {
-        "x": 24,
-        "y": 0.6521785791,
-        "group": "background"
-    },
-    {
-        "x": 25,
-        "y": 0.6523932174,
-        "group": "background"
+        "y": 0.1228070175,
+        "group": "Lengthen genes"
     },
     {
         "x": 26,
-        "y": 0.6506761108,
-        "group": "background"
-    },
-    {
-        "x": 27,
-        "y": 0.6505687916,
-        "group": "background"
-    },
-    {
-        "x": 28,
-        "y": 0.6512127066,
-        "group": "background"
+        "y": 0.5614035088,
+        "group": "Lengthen genes"
     },
     {
         "x": 29,
-        "y": 0.6512127066,
-        "group": "background"
-    },
-    {
-        "x": 30,
-        "y": 0.6475638549,
-        "group": "background"
-    },
-    {
-        "x": 31,
-        "y": 0.6479931316,
-        "group": "background"
+        "y": 0.2280701754,
+        "group": "Lengthen genes"
     },
     {
         "x": 32,
-        "y": 0.6523932174,
-        "group": "background"
-    },
-    {
-        "x": 33,
-        "y": 0.6447735566,
-        "group": "background"
-    },
-    {
-        "x": 34,
-        "y": 0.6410173857,
-        "group": "background"
+        "y": 0.3157894737,
+        "group": "Lengthen genes"
     },
     {
         "x": 35,
-        "y": 0.6358660657,
-        "group": "background"
-    },
-    {
-        "x": 36,
-        "y": 0.637368534,
-        "group": "background"
-    },
-    {
-        "x": 37,
-        "y": 0.638012449,
-        "group": "background"
+        "y": 0.1754385965,
+        "group": "Lengthen genes"
     },
     {
         "x": 38,
-        "y": 0.6349001932,
-        "group": "background"
-    },
-    {
-        "x": 39,
-        "y": 0.6317879373,
-        "group": "background"
-    },
-    {
-        "x": 40,
-        "y": 0.6364026615,
-        "group": "background"
+        "y": 0.3859649123,
+        "group": "Lengthen genes"
     },
     {
         "x": 41,
-        "y": 0.6457394291,
-        "group": "background"
-    },
-    {
-        "x": 42,
-        "y": 0.6461687057,
-        "group": "background"
-    },
-    {
-        "x": 43,
-        "y": 0.6433784074,
-        "group": "background"
+        "y": 0.1403508772,
+        "group": "Lengthen genes"
     },
     {
         "x": 44,
-        "y": 0.6477784932,
-        "group": "background"
-    },
-    {
-        "x": 45,
-        "y": 0.6508907491,
-        "group": "background"
-    },
-    {
-        "x": 46,
-        "y": 0.6501395149,
-        "group": "background"
+        "y": 0.1403508772,
+        "group": "Lengthen genes"
     },
     {
         "x": 47,
-        "y": 0.6498175574,
-        "group": "background"
-    },
-    {
-        "x": 48,
-        "y": 0.6448808757,
-        "group": "background"
-    },
-    {
-        "x": 49,
-        "y": 0.6361880232,
-        "group": "background"
+        "y": 0.1754385965,
+        "group": "Lengthen genes"
     },
     {
         "x": 50,
-        "y": 0.631573299,
-        "group": "background"
-    },
-    {
-        "x": 51,
-        "y": 0.6297488731,
-        "group": "background"
-    },
-    {
-        "x": 52,
-        "y": 0.6252414681,
-        "group": "background"
+        "y": 0.1754385965,
+        "group": "Lengthen genes"
     },
     {
         "x": 53,
-        "y": 0.6164412964,
-        "group": "background"
-    },
-    {
-        "x": 54,
-        "y": 0.6130070831,
-        "group": "background"
-    },
-    {
-        "x": 55,
-        "y": 0.6086069972,
-        "group": "background"
+        "y": 0.2631578947,
+        "group": "Lengthen genes"
     },
     {
         "x": 56,
-        "y": 0.5963726121,
-        "group": "background"
-    },
-    {
-        "x": 57,
-        "y": 0.5914359305,
-        "group": "background"
-    },
-    {
-        "x": 58,
-        "y": 0.5826357587,
-        "group": "background"
+        "y": 0.2105263158,
+        "group": "Lengthen genes"
     },
     {
         "x": 59,
-        "y": 0.5793088646,
-        "group": "background"
-    },
-    {
-        "x": 60,
-        "y": 0.5678257137,
-        "group": "background"
-    },
-    {
-        "x": 61,
-        "y": 0.5631036703,
-        "group": "background"
+        "y": 0.1578947368,
+        "group": "Lengthen genes"
     },
     {
         "x": 62,
-        "y": 0.5528010303,
-        "group": "background"
-    },
-    {
-        "x": 63,
-        "y": 0.5482936252,
-        "group": "background"
-    },
-    {
-        "x": 64,
-        "y": 0.5484009444,
-        "group": "background"
+        "y": 0.2456140351,
+        "group": "Lengthen genes"
     },
     {
         "x": 65,
-        "y": 0.5446447736,
-        "group": "background"
-    },
-    {
-        "x": 66,
-        "y": 0.5364885168,
-        "group": "background"
-    },
-    {
-        "x": 67,
-        "y": 0.5347714102,
-        "group": "background"
+        "y": 0.1578947368,
+        "group": "Lengthen genes"
     },
     {
         "x": 68,
-        "y": 0.5325177077,
-        "group": "background"
-    },
-    {
-        "x": 69,
-        "y": 0.5299420476,
-        "group": "background"
-    },
-    {
-        "x": 70,
-        "y": 0.5304786435,
-        "group": "background"
+        "y": 0.1403508772,
+        "group": "Lengthen genes"
     },
     {
         "x": 71,
-        "y": 0.5297274093,
-        "group": "background"
-    },
-    {
-        "x": 72,
-        "y": 0.5245760893,
-        "group": "background"
-    },
-    {
-        "x": 73,
-        "y": 0.5225370251,
-        "group": "background"
+        "y": 0.1754385965,
+        "group": "Lengthen genes"
     },
     {
         "x": 74,
-        "y": 0.523717536,
-        "group": "background"
-    },
-    {
-        "x": 75,
-        "y": 0.531444516,
-        "group": "background"
-    },
-    {
-        "x": 76,
-        "y": 0.5444301352,
-        "group": "background"
+        "y": 0.1754385965,
+        "group": "Lengthen genes"
     },
     {
         "x": 77,
-        "y": 0.5503326894,
-        "group": "background"
-    },
-    {
-        "x": 78,
-        "y": 0.5623524361,
-        "group": "background"
-    },
-    {
-        "x": 79,
-        "y": 0.5594548186,
-        "group": "background"
+        "y": 0.2807017544,
+        "group": "Lengthen genes"
     },
     {
         "x": 80,
-        "y": 0.5713672462,
-        "group": "background"
-    },
-    {
-        "x": 81,
-        "y": 0.5741575445,
-        "group": "background"
-    },
-    {
-        "x": 82,
-        "y": 0.5796308221,
-        "group": "background"
+        "y": 0.1403508772,
+        "group": "Lengthen genes"
     },
     {
         "x": 83,
-        "y": 0.5781283537,
-        "group": "background"
-    },
-    {
-        "x": 84,
-        "y": 0.5846748229,
-        "group": "background"
-    },
-    {
-        "x": 85,
-        "y": 0.591757888,
-        "group": "background"
+        "y": 0.3859649123,
+        "group": "Lengthen genes"
     },
     {
         "x": 86,
-        "y": 0.5918652071,
-        "group": "background"
-    },
-    {
-        "x": 87,
-        "y": 0.5931530371,
-        "group": "background"
-    },
-    {
-        "x": 88,
-        "y": 0.5987336338,
-        "group": "background"
+        "y": 0.1228070175,
+        "group": "Lengthen genes"
     },
     {
         "x": 89,
-        "y": 0.6056020605,
-        "group": "background"
-    },
-    {
-        "x": 90,
-        "y": 0.6079630822,
-        "group": "background"
-    },
-    {
-        "x": 91,
-        "y": 0.6088216355,
-        "group": "background"
+        "y": 0.1754385965,
+        "group": "Lengthen genes"
     },
     {
         "x": 92,
-        "y": 0.6029190813,
-        "group": "background"
-    },
-    {
-        "x": 93,
-        "y": 0.607211848,
-        "group": "background"
-    },
-    {
-        "x": 94,
-        "y": 0.6146168706,
-        "group": "background"
+        "y": 0.2280701754,
+        "group": "Lengthen genes"
     },
     {
         "x": 95,
-        "y": 0.6242755956,
-        "group": "background"
-    },
-    {
-        "x": 96,
-        "y": 0.630285469,
-        "group": "background"
-    },
-    {
-        "x": 97,
-        "y": 0.6374758532,
-        "group": "background"
+        "y": 0.1578947368,
+        "group": "Lengthen genes"
     },
     {
         "x": 98,
-        "y": 0.6385490449,
-        "group": "background"
-    },
-    {
-        "x": 99,
-        "y": 0.6498175574,
-        "group": "background"
-    },
-    {
-        "x": 100,
-        "y": 0.6538956858,
-        "group": "background"
+        "y": 0.4912280702,
+        "group": "Lengthen genes"
     },
     {
         "x": 101,
-        "y": 0.6607641125,
-        "group": "background"
-    },
-    {
-        "x": 102,
-        "y": 0.6657007942,
-        "group": "background"
-    },
-    {
-        "x": 103,
-        "y": 0.6725692209,
-        "group": "background"
+        "y": 0.9473684211,
+        "group": "Lengthen genes"
     },
     {
         "x": 104,
-        "y": 0.6796522859,
-        "group": "background"
-    },
-    {
-        "x": 105,
-        "y": 0.6762180725,
-        "group": "background"
-    },
-    {
-        "x": 106,
-        "y": 0.6824425842,
-        "group": "background"
+        "y": 0.2456140351,
+        "group": "Lengthen genes"
     },
     {
         "x": 107,
-        "y": 0.6874865851,
-        "group": "background"
-    },
-    {
-        "x": 108,
-        "y": 0.6883451384,
-        "group": "background"
-    },
-    {
-        "x": 109,
-        "y": 0.6917793518,
-        "group": "background"
+        "y": 0.1052631579,
+        "group": "Lengthen genes"
     },
     {
         "x": 110,
-        "y": 0.6965013951,
-        "group": "background"
-    },
-    {
-        "x": 111,
-        "y": 0.6993990127,
-        "group": "background"
-    },
-    {
-        "x": 112,
-        "y": 0.700901481,
-        "group": "background"
+        "y": 0.0701754386,
+        "group": "Lengthen genes"
     },
     {
         "x": 113,
-        "y": 0.7001502468,
-        "group": "background"
-    },
-    {
-        "x": 114,
-        "y": 0.7053015669,
-        "group": "background"
-    },
-    {
-        "x": 115,
-        "y": 0.7031551835,
-        "group": "background"
+        "y": 0.1052631579,
+        "group": "Lengthen genes"
     },
     {
         "x": 116,
-        "y": 0.7055162052,
-        "group": "background"
-    },
-    {
-        "x": 117,
-        "y": 0.702833226,
-        "group": "background"
-    },
-    {
-        "x": 118,
-        "y": 0.7074479502,
-        "group": "background"
+        "y": 0.2105263158,
+        "group": "Lengthen genes"
     },
     {
         "x": 119,
-        "y": 0.7072333119,
-        "group": "background"
-    },
-    {
-        "x": 120,
-        "y": 0.7076625885,
-        "group": "background"
-    },
-    {
-        "x": 121,
-        "y": 0.7056235244,
-        "group": "background"
+        "y": 0.2631578947,
+        "group": "Lengthen genes"
     },
     {
         "x": 122,
-        "y": 0.7119553552,
-        "group": "background"
-    },
-    {
-        "x": 123,
-        "y": 0.7173213136,
-        "group": "background"
-    },
-    {
-        "x": 124,
-        "y": 0.7230092294,
-        "group": "background"
+        "y": 0.2807017544,
+        "group": "Lengthen genes"
     },
     {
         "x": 125,
-        "y": 0.7294483795,
-        "group": "background"
-    },
-    {
-        "x": 126,
-        "y": 0.734921657,
-        "group": "background"
-    },
-    {
-        "x": 127,
-        "y": 0.7276239536,
-        "group": "background"
+        "y": 0.2456140351,
+        "group": "Lengthen genes"
     },
     {
         "x": 128,
-        "y": 0.7269800386,
-        "group": "background"
-    },
-    {
-        "x": 129,
-        "y": 0.7192530586,
-        "group": "background"
-    },
-    {
-        "x": 130,
-        "y": 0.728482507,
-        "group": "background"
+        "y": 1.0,
+        "group": "Lengthen genes"
     },
     {
         "x": 131,
-        "y": 0.7294483795,
-        "group": "background"
-    },
-    {
-        "x": 132,
-        "y": 0.7328825928,
-        "group": "background"
-    },
-    {
-        "x": 133,
-        "y": 0.7327752737,
-        "group": "background"
+        "y": 0.1929824561,
+        "group": "Lengthen genes"
     },
     {
         "x": 134,
-        "y": 0.7393217429,
-        "group": "background"
-    },
-    {
-        "x": 135,
-        "y": 0.740716892,
-        "group": "background"
-    },
-    {
-        "x": 136,
-        "y": 0.7388924662,
-        "group": "background"
+        "y": 0.2456140351,
+        "group": "Lengthen genes"
     },
     {
         "x": 137,
-        "y": 0.7433998712,
-        "group": "background"
-    },
-    {
-        "x": 138,
-        "y": 0.7450096587,
-        "group": "background"
-    },
-    {
-        "x": 139,
-        "y": 0.7416827645,
-        "group": "background"
+        "y": 0.0877192982,
+        "group": "Lengthen genes"
     },
     {
         "x": 140,
-        "y": 0.7402876154,
-        "group": "background"
-    },
-    {
-        "x": 141,
-        "y": 0.7453316162,
-        "group": "background"
-    },
-    {
-        "x": 142,
-        "y": 0.7504829363,
-        "group": "background"
+        "y": 0.350877193,
+        "group": "Lengthen genes"
     },
     {
         "x": 143,
-        "y": 0.7596050655,
-        "group": "background"
-    },
-    {
-        "x": 144,
-        "y": 0.7582099163,
-        "group": "background"
-    },
-    {
-        "x": 145,
-        "y": 0.7630392788,
-        "group": "background"
+        "y": 0.0701754386,
+        "group": "Lengthen genes"
     },
     {
         "x": 146,
-        "y": 0.7572440438,
-        "group": "background"
-    },
-    {
-        "x": 147,
-        "y": 0.7671174072,
-        "group": "background"
-    },
-    {
-        "x": 148,
-        "y": 0.7640051513,
-        "group": "background"
+        "y": 0.2280701754,
+        "group": "Lengthen genes"
     },
     {
         "x": 149,
-        "y": 0.7667954497,
-        "group": "background"
-    },
-    {
-        "x": 150,
-        "y": 0.7645417472,
-        "group": "background"
-    },
-    {
-        "x": 151,
-        "y": 0.770229663,
-        "group": "background"
+        "y": 0.0526315789,
+        "group": "Lengthen genes"
     },
     {
         "x": 152,
-        "y": 0.7690491522,
-        "group": "background"
-    },
-    {
-        "x": 153,
-        "y": 0.7700150247,
-        "group": "background"
-    },
-    {
-        "x": 154,
-        "y": 0.768941833,
-        "group": "background"
+        "y": 0.298245614,
+        "group": "Lengthen genes"
     },
     {
         "x": 155,
-        "y": 0.7660442155,
-        "group": "background"
-    },
-    {
-        "x": 156,
-        "y": 0.7691564713,
-        "group": "background"
-    },
-    {
-        "x": 157,
-        "y": 0.7701223439,
-        "group": "background"
+        "y": 0.1929824561,
+        "group": "Lengthen genes"
     },
     {
         "x": 158,
-        "y": 0.7717321314,
-        "group": "background"
-    },
-    {
-        "x": 159,
-        "y": 0.7828933247,
-        "group": "background"
-    },
-    {
-        "x": 160,
-        "y": 0.7931959648,
-        "group": "background"
+        "y": 0.1754385965,
+        "group": "Lengthen genes"
     },
     {
         "x": 161,
-        "y": 0.7999570723,
-        "group": "background"
-    },
-    {
-        "x": 162,
-        "y": 0.8012449023,
-        "group": "background"
-    },
-    {
-        "x": 163,
-        "y": 0.8091865207,
-        "group": "background"
+        "y": 0.3859649123,
+        "group": "Lengthen genes"
     },
     {
         "x": 164,
-        "y": 0.8175574158,
-        "group": "background"
-    },
-    {
-        "x": 165,
-        "y": 0.8236746083,
-        "group": "background"
-    },
-    {
-        "x": 166,
-        "y": 0.8257136725,
-        "group": "background"
+        "y": 0.1578947368,
+        "group": "Lengthen genes"
     },
     {
         "x": 167,
-        "y": 0.8440652501,
-        "group": "background"
-    },
-    {
-        "x": 168,
-        "y": 0.8481433784,
-        "group": "background"
-    },
-    {
-        "x": 169,
-        "y": 0.8466409101,
-        "group": "background"
+        "y": 0.298245614,
+        "group": "Lengthen genes"
     },
     {
         "x": 170,
-        "y": 0.8471775059,
-        "group": "background"
-    },
-    {
-        "x": 171,
-        "y": 0.8545825284,
-        "group": "background"
-    },
-    {
-        "x": 172,
-        "y": 0.8603777635,
-        "group": "background"
+        "y": 0.350877193,
+        "group": "Lengthen genes"
     },
     {
         "x": 173,
-        "y": 0.8628461043,
-        "group": "background"
-    },
-    {
-        "x": 174,
-        "y": 0.8620948701,
-        "group": "background"
-    },
-    {
-        "x": 175,
-        "y": 0.8681047435,
-        "group": "background"
+        "y": 0.1754385965,
+        "group": "Lengthen genes"
     },
     {
         "x": 176,
-        "y": 0.8689632968,
-        "group": "background"
-    },
-    {
-        "x": 177,
-        "y": 0.8866709594,
-        "group": "background"
-    },
-    {
-        "x": 178,
-        "y": 0.8931101095,
-        "group": "background"
+        "y": 0.2280701754,
+        "group": "Lengthen genes"
     },
     {
         "x": 179,
-        "y": 0.8950418545,
-        "group": "background"
-    },
-    {
-        "x": 180,
-        "y": 0.8933247478,
-        "group": "background"
-    },
-    {
-        "x": 181,
-        "y": 0.8909637261,
-        "group": "background"
+        "y": 0.3333333333,
+        "group": "Lengthen genes"
     },
     {
         "x": 182,
-        "y": 0.8866709594,
-        "group": "background"
-    },
-    {
-        "x": 183,
-        "y": 0.8905344495,
-        "group": "background"
-    },
-    {
-        "x": 184,
-        "y": 0.8935393861,
-        "group": "background"
+        "y": 0.1754385965,
+        "group": "Lengthen genes"
     },
     {
         "x": 185,
-        "y": 0.899871217,
-        "group": "background"
-    },
-    {
-        "x": 186,
-        "y": 0.9028761537,
-        "group": "background"
-    },
-    {
-        "x": 187,
-        "y": 0.908886027,
-        "group": "background"
+        "y": 0.2105263158,
+        "group": "Lengthen genes"
     },
     {
         "x": 188,
-        "y": 0.9060957287,
-        "group": "background"
-    },
-    {
-        "x": 189,
-        "y": 0.9160764112,
-        "group": "background"
-    },
-    {
-        "x": 190,
-        "y": 0.9189740288,
-        "group": "background"
+        "y": 0.1929824561,
+        "group": "Lengthen genes"
     },
     {
         "x": 191,
-        "y": 0.9201545396,
-        "group": "background"
-    },
-    {
-        "x": 192,
-        "y": 0.9402232239,
-        "group": "background"
-    },
-    {
-        "x": 193,
-        "y": 0.9470916506,
-        "group": "background"
+        "y": 0.1929824561,
+        "group": "Lengthen genes"
     },
     {
         "x": 194,
-        "y": 0.9761751449,
-        "group": "background"
-    },
-    {
-        "x": 195,
-        "y": 0.9888388066,
-        "group": "background"
-    },
-    {
-        "x": 196,
-        "y": 0.9863704658,
-        "group": "background"
+        "y": 0.2807017544,
+        "group": "Lengthen genes"
     },
     {
         "x": 197,
-        "y": 1.0,
-        "group": "background"
-    },
-    {
-        "x": 198,
-        "y": 0.99613651,
-        "group": "background"
-    },
-    {
-        "x": 199,
-        "y": 0.9978536167,
-        "group": "background"
+        "y": 0.0350877193,
+        "group": "Lengthen genes"
     },
     {
         "x": 200,
-        "y": 1.0,
-        "group": "background"
+        "y": 0.0526315789,
+        "group": "Lengthen genes"
     },
     {
-        "x": -200,
-        "y": 0.886214442,
-        "group": "lengthen"
+        "x": 203,
+        "y": 0.2807017544,
+        "group": "Lengthen genes"
     },
     {
-        "x": -199,
-        "y": 0.9015317287,
-        "group": "lengthen"
+        "x": 206,
+        "y": 0.1052631579,
+        "group": "Lengthen genes"
     },
     {
-        "x": -198,
-        "y": 0.8884026258,
-        "group": "lengthen"
+        "x": 209,
+        "y": 0.2105263158,
+        "group": "Lengthen genes"
     },
     {
-        "x": -197,
-        "y": 0.8796498906,
-        "group": "lengthen"
+        "x": 212,
+        "y": 0.1929824561,
+        "group": "Lengthen genes"
     },
     {
-        "x": -196,
-        "y": 0.8884026258,
-        "group": "lengthen"
+        "x": 215,
+        "y": 0.1403508772,
+        "group": "Lengthen genes"
     },
     {
-        "x": -195,
-        "y": 0.8818380744,
-        "group": "lengthen"
+        "x": 218,
+        "y": 0.1754385965,
+        "group": "Lengthen genes"
     },
     {
-        "x": -194,
-        "y": 0.9015317287,
-        "group": "lengthen"
+        "x": 221,
+        "y": 0.298245614,
+        "group": "Lengthen genes"
     },
     {
-        "x": -193,
-        "y": 0.8905908096,
-        "group": "lengthen"
+        "x": 224,
+        "y": 0.3157894737,
+        "group": "Lengthen genes"
     },
     {
-        "x": -192,
-        "y": 0.8927789934,
-        "group": "lengthen"
+        "x": 227,
+        "y": 0.2807017544,
+        "group": "Lengthen genes"
     },
     {
-        "x": -191,
-        "y": 0.9037199125,
-        "group": "lengthen"
+        "x": 230,
+        "y": 0.2631578947,
+        "group": "Lengthen genes"
     },
     {
-        "x": -190,
-        "y": 0.9343544858,
-        "group": "lengthen"
+        "x": 233,
+        "y": 0.4561403509,
+        "group": "Lengthen genes"
     },
     {
-        "x": -189,
-        "y": 0.9452954048,
-        "group": "lengthen"
+        "x": 236,
+        "y": 0.5087719298,
+        "group": "Lengthen genes"
     },
     {
-        "x": -188,
-        "y": 0.9518599562,
-        "group": "lengthen"
+        "x": 239,
+        "y": 0.4912280702,
+        "group": "Lengthen genes"
     },
     {
-        "x": -187,
-        "y": 1.0,
-        "group": "lengthen"
+        "x": 242,
+        "y": 0.2456140351,
+        "group": "Lengthen genes"
     },
     {
-        "x": -186,
-        "y": 0.9978118162,
-        "group": "lengthen"
+        "x": 245,
+        "y": 0.1929824561,
+        "group": "Lengthen genes"
     },
     {
-        "x": -185,
-        "y": 0.9868708972,
-        "group": "lengthen"
+        "x": 248,
+        "y": 0.9122807018,
+        "group": "Lengthen genes"
     },
     {
-        "x": -184,
-        "y": 0.9868708972,
-        "group": "lengthen"
+        "x": 251,
+        "y": 0.2105263158,
+        "group": "Lengthen genes"
     },
     {
-        "x": -183,
-        "y": 0.9846827133,
-        "group": "lengthen"
+        "x": 254,
+        "y": 0.2280701754,
+        "group": "Lengthen genes"
     },
     {
-        "x": -182,
-        "y": 0.9824945295,
-        "group": "lengthen"
+        "x": 257,
+        "y": 0.0526315789,
+        "group": "Lengthen genes"
     },
     {
-        "x": -181,
-        "y": 0.9693654267,
-        "group": "lengthen"
+        "x": 260,
+        "y": 0.4385964912,
+        "group": "Lengthen genes"
     },
     {
-        "x": -180,
-        "y": 0.9628008753,
-        "group": "lengthen"
+        "x": 263,
+        "y": 0.3333333333,
+        "group": "Lengthen genes"
     },
     {
-        "x": -179,
-        "y": 0.9474835886,
-        "group": "lengthen"
+        "x": 266,
+        "y": 0.4210526316,
+        "group": "Lengthen genes"
     },
     {
-        "x": -178,
-        "y": 0.9452954048,
-        "group": "lengthen"
+        "x": 269,
+        "y": 0.2456140351,
+        "group": "Lengthen genes"
     },
     {
-        "x": -177,
-        "y": 0.9409190372,
-        "group": "lengthen"
+        "x": 272,
+        "y": 0.0877192982,
+        "group": "Lengthen genes"
     },
     {
-        "x": -176,
-        "y": 0.9452954048,
-        "group": "lengthen"
+        "x": 275,
+        "y": 0.1403508772,
+        "group": "Lengthen genes"
     },
     {
-        "x": -175,
-        "y": 0.9387308534,
-        "group": "lengthen"
+        "x": 278,
+        "y": 0.0877192982,
+        "group": "Lengthen genes"
     },
     {
-        "x": -174,
-        "y": 0.932166302,
-        "group": "lengthen"
+        "x": 281,
+        "y": 0.2631578947,
+        "group": "Lengthen genes"
     },
     {
-        "x": -173,
-        "y": 0.9343544858,
-        "group": "lengthen"
+        "x": 284,
+        "y": 0.350877193,
+        "group": "Lengthen genes"
     },
     {
-        "x": -172,
-        "y": 0.9212253829,
-        "group": "lengthen"
+        "x": 287,
+        "y": 0.5087719298,
+        "group": "Lengthen genes"
     },
     {
-        "x": -171,
-        "y": 0.9474835886,
-        "group": "lengthen"
+        "x": 290,
+        "y": 0.4385964912,
+        "group": "Lengthen genes"
     },
     {
-        "x": -170,
-        "y": 0.9474835886,
-        "group": "lengthen"
+        "x": 293,
+        "y": 0.2456140351,
+        "group": "Lengthen genes"
     },
     {
-        "x": -169,
-        "y": 0.9343544858,
-        "group": "lengthen"
+        "x": 296,
+        "y": 0.1228070175,
+        "group": "Lengthen genes"
     },
     {
-        "x": -168,
-        "y": 0.9365426696,
-        "group": "lengthen"
+        "x": 299,
+        "y": 0.5263157895,
+        "group": "Lengthen genes"
     },
     {
-        "x": -167,
-        "y": 0.9409190372,
-        "group": "lengthen"
+        "x": 302,
+        "y": 0.1754385965,
+        "group": "Lengthen genes"
     },
     {
-        "x": -166,
-        "y": 0.9343544858,
-        "group": "lengthen"
+        "x": 305,
+        "y": 0.2280701754,
+        "group": "Lengthen genes"
     },
     {
-        "x": -165,
-        "y": 0.9015317287,
-        "group": "lengthen"
+        "x": 308,
+        "y": 0.2280701754,
+        "group": "Lengthen genes"
     },
     {
-        "x": -164,
-        "y": 0.8577680525,
-        "group": "lengthen"
+        "x": 311,
+        "y": 0.2631578947,
+        "group": "Lengthen genes"
     },
     {
-        "x": -163,
-        "y": 0.8315098468,
-        "group": "lengthen"
+        "x": 314,
+        "y": 0.1052631579,
+        "group": "Lengthen genes"
     },
     {
-        "x": -162,
-        "y": 0.8249452954,
-        "group": "lengthen"
+        "x": 317,
+        "y": 0.3684210526,
+        "group": "Lengthen genes"
     },
     {
-        "x": -161,
-        "y": 0.8074398249,
-        "group": "lengthen"
+        "x": 320,
+        "y": 0.1403508772,
+        "group": "Lengthen genes"
     },
     {
-        "x": -160,
-        "y": 0.7789934354,
-        "group": "lengthen"
+        "x": 323,
+        "y": 0.0701754386,
+        "group": "Lengthen genes"
     },
     {
-        "x": -159,
-        "y": 0.7636761488,
-        "group": "lengthen"
+        "x": 326,
+        "y": 0.2631578947,
+        "group": "Lengthen genes"
     },
     {
-        "x": -158,
-        "y": 0.7549234136,
-        "group": "lengthen"
+        "x": 329,
+        "y": 0.1228070175,
+        "group": "Lengthen genes"
     },
     {
-        "x": -157,
-        "y": 0.7571115974,
-        "group": "lengthen"
+        "x": 332,
+        "y": 0.0701754386,
+        "group": "Lengthen genes"
     },
     {
-        "x": -156,
-        "y": 0.7439824945,
-        "group": "lengthen"
+        "x": 335,
+        "y": 0.3333333333,
+        "group": "Lengthen genes"
     },
     {
-        "x": -155,
-        "y": 0.7374179431,
-        "group": "lengthen"
+        "x": 338,
+        "y": 0.2456140351,
+        "group": "Lengthen genes"
     },
     {
-        "x": -154,
-        "y": 0.7264770241,
-        "group": "lengthen"
+        "x": 341,
+        "y": 0.1754385965,
+        "group": "Lengthen genes"
     },
     {
-        "x": -153,
-        "y": 0.7177242888,
-        "group": "lengthen"
+        "x": 344,
+        "y": 0.3684210526,
+        "group": "Lengthen genes"
     },
     {
-        "x": -152,
-        "y": 0.7264770241,
-        "group": "lengthen"
+        "x": 347,
+        "y": 0.1929824561,
+        "group": "Lengthen genes"
     },
     {
-        "x": -151,
-        "y": 0.7089715536,
-        "group": "lengthen"
+        "x": 350,
+        "y": 0.3859649123,
+        "group": "Lengthen genes"
     },
     {
-        "x": -150,
-        "y": 0.7002188184,
-        "group": "lengthen"
+        "x": 353,
+        "y": 0.0,
+        "group": "Lengthen genes"
     },
     {
-        "x": -149,
-        "y": 0.6914660832,
-        "group": "lengthen"
+        "x": 356,
+        "y": 0.1929824561,
+        "group": "Lengthen genes"
     },
     {
-        "x": -148,
-        "y": 0.6761487965,
-        "group": "lengthen"
+        "x": 359,
+        "y": 0.1578947368,
+        "group": "Lengthen genes"
     },
     {
-        "x": -147,
-        "y": 0.6783369803,
-        "group": "lengthen"
+        "x": 362,
+        "y": 0.1578947368,
+        "group": "Lengthen genes"
     },
     {
-        "x": -146,
-        "y": 0.6652078775,
-        "group": "lengthen"
+        "x": 365,
+        "y": 0.2280701754,
+        "group": "Lengthen genes"
     },
     {
-        "x": -145,
-        "y": 0.6258205689,
-        "group": "lengthen"
+        "x": 368,
+        "y": 0.3157894737,
+        "group": "Lengthen genes"
     },
     {
-        "x": -144,
-        "y": 0.6170678337,
-        "group": "lengthen"
+        "x": 371,
+        "y": 0.1754385965,
+        "group": "Lengthen genes"
     },
     {
-        "x": -143,
-        "y": 0.5973741794,
-        "group": "lengthen"
+        "x": 374,
+        "y": 0.350877193,
+        "group": "Lengthen genes"
     },
     {
-        "x": -142,
-        "y": 0.5929978118,
-        "group": "lengthen"
+        "x": 377,
+        "y": 0.1228070175,
+        "group": "Lengthen genes"
     },
     {
-        "x": -141,
-        "y": 0.5754923414,
-        "group": "lengthen"
+        "x": 380,
+        "y": 0.2631578947,
+        "group": "Lengthen genes"
     },
     {
-        "x": -140,
-        "y": 0.5601750547,
-        "group": "lengthen"
+        "x": 383,
+        "y": 0.0701754386,
+        "group": "Lengthen genes"
     },
     {
-        "x": -139,
-        "y": 0.5251641138,
-        "group": "lengthen"
+        "x": 386,
+        "y": 0.0877192982,
+        "group": "Lengthen genes"
     },
     {
-        "x": -138,
-        "y": 0.5295404814,
-        "group": "lengthen"
+        "x": 389,
+        "y": 0.2105263158,
+        "group": "Lengthen genes"
     },
     {
-        "x": -137,
-        "y": 0.52297593,
-        "group": "lengthen"
+        "x": 392,
+        "y": 0.1754385965,
+        "group": "Lengthen genes"
     },
     {
-        "x": -136,
-        "y": 0.4704595186,
-        "group": "lengthen"
+        "x": 395,
+        "y": 0.2280701754,
+        "group": "Lengthen genes"
     },
     {
-        "x": -135,
-        "y": 0.4748358862,
-        "group": "lengthen"
-    },
-    {
-        "x": -134,
-        "y": 0.5010940919,
-        "group": "lengthen"
-    },
-    {
-        "x": -133,
-        "y": 0.5054704595,
-        "group": "lengthen"
-    },
-    {
-        "x": -132,
-        "y": 0.5404814004,
-        "group": "lengthen"
-    },
-    {
-        "x": -131,
-        "y": 0.5536105033,
-        "group": "lengthen"
-    },
-    {
-        "x": -130,
-        "y": 0.5776805252,
-        "group": "lengthen"
-    },
-    {
-        "x": -129,
-        "y": 0.5864332604,
-        "group": "lengthen"
-    },
-    {
-        "x": -128,
-        "y": 0.5820568928,
-        "group": "lengthen"
-    },
-    {
-        "x": -127,
-        "y": 0.5754923414,
-        "group": "lengthen"
-    },
-    {
-        "x": -126,
-        "y": 0.5776805252,
-        "group": "lengthen"
-    },
-    {
-        "x": -125,
-        "y": 0.5842450766,
-        "group": "lengthen"
-    },
-    {
-        "x": -124,
-        "y": 0.5929978118,
-        "group": "lengthen"
-    },
-    {
-        "x": -123,
-        "y": 0.5951859956,
-        "group": "lengthen"
-    },
-    {
-        "x": -122,
-        "y": 0.6126914661,
-        "group": "lengthen"
-    },
-    {
-        "x": -121,
-        "y": 0.6083150985,
-        "group": "lengthen"
-    },
-    {
-        "x": -120,
-        "y": 0.5973741794,
-        "group": "lengthen"
-    },
-    {
-        "x": -119,
-        "y": 0.5995623632,
-        "group": "lengthen"
-    },
-    {
-        "x": -118,
-        "y": 0.6083150985,
-        "group": "lengthen"
-    },
-    {
-        "x": -117,
-        "y": 0.6126914661,
-        "group": "lengthen"
-    },
-    {
-        "x": -116,
-        "y": 0.6126914661,
-        "group": "lengthen"
-    },
-    {
-        "x": -115,
-        "y": 0.6126914661,
-        "group": "lengthen"
-    },
-    {
-        "x": -114,
-        "y": 0.6148796499,
-        "group": "lengthen"
-    },
-    {
-        "x": -113,
-        "y": 0.6126914661,
-        "group": "lengthen"
-    },
-    {
-        "x": -112,
-        "y": 0.6170678337,
-        "group": "lengthen"
-    },
-    {
-        "x": -111,
-        "y": 0.6236323851,
-        "group": "lengthen"
-    },
-    {
-        "x": -110,
-        "y": 0.6236323851,
-        "group": "lengthen"
-    },
-    {
-        "x": -109,
-        "y": 0.6148796499,
-        "group": "lengthen"
-    },
-    {
-        "x": -108,
-        "y": 0.5995623632,
-        "group": "lengthen"
-    },
-    {
-        "x": -107,
-        "y": 0.590809628,
-        "group": "lengthen"
-    },
-    {
-        "x": -106,
-        "y": 0.579868709,
-        "group": "lengthen"
-    },
-    {
-        "x": -105,
-        "y": 0.5842450766,
-        "group": "lengthen"
-    },
-    {
-        "x": -104,
-        "y": 0.5820568928,
-        "group": "lengthen"
-    },
-    {
-        "x": -103,
-        "y": 0.5886214442,
-        "group": "lengthen"
-    },
-    {
-        "x": -102,
-        "y": 0.5973741794,
-        "group": "lengthen"
-    },
-    {
-        "x": -101,
-        "y": 0.601750547,
-        "group": "lengthen"
-    },
-    {
-        "x": -100,
-        "y": 0.5973741794,
-        "group": "lengthen"
-    },
-    {
-        "x": -99,
-        "y": 0.590809628,
-        "group": "lengthen"
-    },
-    {
-        "x": -98,
-        "y": 0.5776805252,
-        "group": "lengthen"
-    },
-    {
-        "x": -97,
-        "y": 0.5776805252,
-        "group": "lengthen"
-    },
-    {
-        "x": -96,
-        "y": 0.5754923414,
-        "group": "lengthen"
-    },
-    {
-        "x": -95,
-        "y": 0.579868709,
-        "group": "lengthen"
-    },
-    {
-        "x": -94,
-        "y": 0.5557986871,
-        "group": "lengthen"
-    },
-    {
-        "x": -93,
-        "y": 0.5514223195,
-        "group": "lengthen"
-    },
-    {
-        "x": -92,
-        "y": 0.5404814004,
-        "group": "lengthen"
-    },
-    {
-        "x": -91,
-        "y": 0.5361050328,
-        "group": "lengthen"
-    },
-    {
-        "x": -90,
-        "y": 0.5382932166,
-        "group": "lengthen"
-    },
-    {
-        "x": -89,
-        "y": 0.5361050328,
-        "group": "lengthen"
-    },
-    {
-        "x": -88,
-        "y": 0.533916849,
-        "group": "lengthen"
-    },
-    {
-        "x": -87,
-        "y": 0.5142231947,
-        "group": "lengthen"
-    },
-    {
-        "x": -86,
-        "y": 0.52297593,
-        "group": "lengthen"
-    },
-    {
-        "x": -85,
-        "y": 0.5142231947,
-        "group": "lengthen"
-    },
-    {
-        "x": -84,
-        "y": 0.4989059081,
-        "group": "lengthen"
-    },
-    {
-        "x": -83,
-        "y": 0.4945295405,
-        "group": "lengthen"
-    },
-    {
-        "x": -82,
-        "y": 0.4901531729,
-        "group": "lengthen"
-    },
-    {
-        "x": -81,
-        "y": 0.4551422319,
-        "group": "lengthen"
-    },
-    {
-        "x": -80,
-        "y": 0.4485776805,
-        "group": "lengthen"
-    },
-    {
-        "x": -79,
-        "y": 0.4245076586,
-        "group": "lengthen"
-    },
-    {
-        "x": -78,
-        "y": 0.4223194748,
-        "group": "lengthen"
-    },
-    {
-        "x": -77,
-        "y": 0.420131291,
-        "group": "lengthen"
-    },
-    {
-        "x": -76,
-        "y": 0.4288840263,
-        "group": "lengthen"
-    },
-    {
-        "x": -75,
-        "y": 0.4376367615,
-        "group": "lengthen"
-    },
-    {
-        "x": -74,
-        "y": 0.4288840263,
-        "group": "lengthen"
-    },
-    {
-        "x": -73,
-        "y": 0.4179431072,
-        "group": "lengthen"
-    },
-    {
-        "x": -72,
-        "y": 0.4266958425,
-        "group": "lengthen"
-    },
-    {
-        "x": -71,
-        "y": 0.409190372,
-        "group": "lengthen"
-    },
-    {
-        "x": -70,
-        "y": 0.4266958425,
-        "group": "lengthen"
-    },
-    {
-        "x": -69,
-        "y": 0.4026258206,
-        "group": "lengthen"
-    },
-    {
-        "x": -68,
-        "y": 0.3894967177,
-        "group": "lengthen"
-    },
-    {
-        "x": -67,
-        "y": 0.3785557987,
-        "group": "lengthen"
-    },
-    {
-        "x": -66,
-        "y": 0.3719912473,
-        "group": "lengthen"
-    },
-    {
-        "x": -65,
-        "y": 0.3654266958,
-        "group": "lengthen"
-    },
-    {
-        "x": -64,
-        "y": 0.3851203501,
-        "group": "lengthen"
-    },
-    {
-        "x": -63,
-        "y": 0.3916849015,
-        "group": "lengthen"
-    },
-    {
-        "x": -62,
-        "y": 0.398249453,
-        "group": "lengthen"
-    },
-    {
-        "x": -61,
-        "y": 0.4004376368,
-        "group": "lengthen"
-    },
-    {
-        "x": -60,
-        "y": 0.3807439825,
-        "group": "lengthen"
-    },
-    {
-        "x": -59,
-        "y": 0.3851203501,
-        "group": "lengthen"
-    },
-    {
-        "x": -58,
-        "y": 0.3894967177,
-        "group": "lengthen"
-    },
-    {
-        "x": -57,
-        "y": 0.409190372,
-        "group": "lengthen"
-    },
-    {
-        "x": -56,
-        "y": 0.4135667396,
-        "group": "lengthen"
-    },
-    {
-        "x": -55,
-        "y": 0.4179431072,
-        "group": "lengthen"
-    },
-    {
-        "x": -54,
-        "y": 0.4157549234,
-        "group": "lengthen"
-    },
-    {
-        "x": -53,
-        "y": 0.4223194748,
-        "group": "lengthen"
-    },
-    {
-        "x": -52,
-        "y": 0.4463894967,
-        "group": "lengthen"
-    },
-    {
-        "x": -51,
-        "y": 0.4595185996,
-        "group": "lengthen"
-    },
-    {
-        "x": -50,
-        "y": 0.4485776805,
-        "group": "lengthen"
-    },
-    {
-        "x": -49,
-        "y": 0.4617067834,
-        "group": "lengthen"
-    },
-    {
-        "x": -48,
-        "y": 0.4573304158,
-        "group": "lengthen"
-    },
-    {
-        "x": -47,
-        "y": 0.466083151,
-        "group": "lengthen"
-    },
-    {
-        "x": -46,
-        "y": 0.4682713348,
-        "group": "lengthen"
-    },
-    {
-        "x": -45,
-        "y": 0.4682713348,
-        "group": "lengthen"
-    },
-    {
-        "x": -44,
-        "y": 0.466083151,
-        "group": "lengthen"
-    },
-    {
-        "x": -43,
-        "y": 0.4682713348,
-        "group": "lengthen"
-    },
-    {
-        "x": -42,
-        "y": 0.4748358862,
-        "group": "lengthen"
-    },
-    {
-        "x": -41,
-        "y": 0.4748358862,
-        "group": "lengthen"
-    },
-    {
-        "x": -40,
-        "y": 0.4792122538,
-        "group": "lengthen"
-    },
-    {
-        "x": -39,
-        "y": 0.4857768053,
-        "group": "lengthen"
-    },
-    {
-        "x": -38,
-        "y": 0.4901531729,
-        "group": "lengthen"
-    },
-    {
-        "x": -37,
-        "y": 0.4901531729,
-        "group": "lengthen"
-    },
-    {
-        "x": -36,
-        "y": 0.4923413567,
-        "group": "lengthen"
-    },
-    {
-        "x": -35,
-        "y": 0.4726477024,
-        "group": "lengthen"
-    },
-    {
-        "x": -34,
-        "y": 0.4748358862,
-        "group": "lengthen"
-    },
-    {
-        "x": -33,
-        "y": 0.4835886214,
-        "group": "lengthen"
-    },
-    {
-        "x": -32,
-        "y": 0.4573304158,
-        "group": "lengthen"
-    },
-    {
-        "x": -31,
-        "y": 0.4529540481,
-        "group": "lengthen"
-    },
-    {
-        "x": -30,
-        "y": 0.4463894967,
-        "group": "lengthen"
-    },
-    {
-        "x": -29,
-        "y": 0.4398249453,
-        "group": "lengthen"
-    },
-    {
-        "x": -28,
-        "y": 0.4376367615,
-        "group": "lengthen"
-    },
-    {
-        "x": -27,
-        "y": 0.4288840263,
-        "group": "lengthen"
-    },
-    {
-        "x": -26,
-        "y": 0.4376367615,
-        "group": "lengthen"
-    },
-    {
-        "x": -25,
-        "y": 0.4420131291,
-        "group": "lengthen"
-    },
-    {
-        "x": -24,
-        "y": 0.4573304158,
-        "group": "lengthen"
-    },
-    {
-        "x": -23,
-        "y": 0.4529540481,
-        "group": "lengthen"
-    },
-    {
-        "x": -22,
-        "y": 0.4704595186,
-        "group": "lengthen"
-    },
-    {
-        "x": -21,
-        "y": 0.4704595186,
-        "group": "lengthen"
-    },
-    {
-        "x": -20,
-        "y": 0.4704595186,
-        "group": "lengthen"
-    },
-    {
-        "x": -19,
-        "y": 0.4595185996,
-        "group": "lengthen"
-    },
-    {
-        "x": -18,
-        "y": 0.4595185996,
-        "group": "lengthen"
-    },
-    {
-        "x": -17,
-        "y": 0.4726477024,
-        "group": "lengthen"
-    },
-    {
-        "x": -16,
-        "y": 0.4835886214,
-        "group": "lengthen"
-    },
-    {
-        "x": -15,
-        "y": 0.4835886214,
-        "group": "lengthen"
-    },
-    {
-        "x": -14,
-        "y": 0.4792122538,
-        "group": "lengthen"
-    },
-    {
-        "x": -13,
-        "y": 0.4595185996,
-        "group": "lengthen"
-    },
-    {
-        "x": -12,
-        "y": 0.4551422319,
-        "group": "lengthen"
-    },
-    {
-        "x": -11,
-        "y": 0.4551422319,
-        "group": "lengthen"
-    },
-    {
-        "x": -10,
-        "y": 0.4507658643,
-        "group": "lengthen"
-    },
-    {
-        "x": -9,
-        "y": 0.4485776805,
-        "group": "lengthen"
-    },
-    {
-        "x": -8,
-        "y": 0.4398249453,
-        "group": "lengthen"
-    },
-    {
-        "x": -7,
-        "y": 0.4354485777,
-        "group": "lengthen"
-    },
-    {
-        "x": -6,
-        "y": 0.4157549234,
-        "group": "lengthen"
-    },
-    {
-        "x": -5,
-        "y": 0.4070021882,
-        "group": "lengthen"
-    },
-    {
-        "x": -4,
-        "y": 0.398249453,
-        "group": "lengthen"
-    },
-    {
-        "x": -3,
-        "y": 0.3894967177,
-        "group": "lengthen"
-    },
-    {
-        "x": -2,
-        "y": 0.4595185996,
-        "group": "lengthen"
+        "x": 398,
+        "y": 0.1403508772,
+        "group": "Lengthen genes"
     },
     {
         "x": -1,
-        "y": 0.4989059081,
-        "group": "lengthen"
-    },
-    {
-        "x": 0,
-        "y": 0.4835886214,
-        "group": "lengthen"
-    },
-    {
-        "x": 1,
-        "y": 0.2735229759,
-        "group": "lengthen"
+        "y": 0.0,
+        "group": "Shorten genes"
     },
     {
         "x": 2,
-        "y": 0.2297592998,
-        "group": "lengthen"
-    },
-    {
-        "x": 3,
-        "y": 0.2582056893,
-        "group": "lengthen"
-    },
-    {
-        "x": 4,
-        "y": 0.2625820569,
-        "group": "lengthen"
+        "y": 0.552238806,
+        "group": "Shorten genes"
     },
     {
         "x": 5,
-        "y": 0.249452954,
-        "group": "lengthen"
-    },
-    {
-        "x": 6,
-        "y": 0.249452954,
-        "group": "lengthen"
-    },
-    {
-        "x": 7,
-        "y": 0.2538293217,
-        "group": "lengthen"
+        "y": 0.3582089552,
+        "group": "Shorten genes"
     },
     {
         "x": 8,
-        "y": 0.2713347921,
-        "group": "lengthen"
-    },
-    {
-        "x": 9,
-        "y": 0.2691466083,
-        "group": "lengthen"
-    },
-    {
-        "x": 10,
-        "y": 0.2713347921,
-        "group": "lengthen"
+        "y": 0.447761194,
+        "group": "Shorten genes"
     },
     {
         "x": 11,
-        "y": 0.2691466083,
-        "group": "lengthen"
-    },
-    {
-        "x": 12,
-        "y": 0.2625820569,
-        "group": "lengthen"
-    },
-    {
-        "x": 13,
-        "y": 0.2582056893,
-        "group": "lengthen"
+        "y": 0.2686567164,
+        "group": "Shorten genes"
     },
     {
         "x": 14,
-        "y": 0.2538293217,
-        "group": "lengthen"
-    },
-    {
-        "x": 15,
-        "y": 0.249452954,
-        "group": "lengthen"
-    },
-    {
-        "x": 16,
-        "y": 0.249452954,
-        "group": "lengthen"
+        "y": 0.4179104478,
+        "group": "Shorten genes"
     },
     {
         "x": 17,
-        "y": 0.2407002188,
-        "group": "lengthen"
-    },
-    {
-        "x": 18,
-        "y": 0.2516411379,
-        "group": "lengthen"
-    },
-    {
-        "x": 19,
-        "y": 0.2603938731,
-        "group": "lengthen"
+        "y": 0.8208955224,
+        "group": "Shorten genes"
     },
     {
         "x": 20,
-        "y": 0.2603938731,
-        "group": "lengthen"
-    },
-    {
-        "x": 21,
-        "y": 0.2691466083,
-        "group": "lengthen"
-    },
-    {
-        "x": 22,
-        "y": 0.2669584245,
-        "group": "lengthen"
+        "y": 0.328358209,
+        "group": "Shorten genes"
     },
     {
         "x": 23,
-        "y": 0.2932166302,
-        "group": "lengthen"
-    },
-    {
-        "x": 24,
-        "y": 0.295404814,
-        "group": "lengthen"
-    },
-    {
-        "x": 25,
-        "y": 0.3019693654,
-        "group": "lengthen"
+        "y": 0.776119403,
+        "group": "Shorten genes"
     },
     {
         "x": 26,
-        "y": 0.3150984683,
-        "group": "lengthen"
-    },
-    {
-        "x": 27,
-        "y": 0.3194748359,
-        "group": "lengthen"
-    },
-    {
-        "x": 28,
-        "y": 0.3347921225,
-        "group": "lengthen"
+        "y": 0.3582089552,
+        "group": "Shorten genes"
     },
     {
         "x": 29,
-        "y": 0.341356674,
-        "group": "lengthen"
-    },
-    {
-        "x": 30,
-        "y": 0.341356674,
-        "group": "lengthen"
-    },
-    {
-        "x": 31,
-        "y": 0.3435448578,
-        "group": "lengthen"
+        "y": 0.4328358209,
+        "group": "Shorten genes"
     },
     {
         "x": 32,
-        "y": 0.3435448578,
-        "group": "lengthen"
-    },
-    {
-        "x": 33,
-        "y": 0.3457330416,
-        "group": "lengthen"
-    },
-    {
-        "x": 34,
-        "y": 0.3457330416,
-        "group": "lengthen"
+        "y": 0.552238806,
+        "group": "Shorten genes"
     },
     {
         "x": 35,
-        "y": 0.3501094092,
-        "group": "lengthen"
-    },
-    {
-        "x": 36,
-        "y": 0.352297593,
-        "group": "lengthen"
-    },
-    {
-        "x": 37,
-        "y": 0.3501094092,
-        "group": "lengthen"
+        "y": 0.5820895522,
+        "group": "Shorten genes"
     },
     {
         "x": 38,
-        "y": 0.3479212254,
-        "group": "lengthen"
-    },
-    {
-        "x": 39,
-        "y": 0.3544857768,
-        "group": "lengthen"
-    },
-    {
-        "x": 40,
-        "y": 0.3566739606,
-        "group": "lengthen"
+        "y": 0.2388059701,
+        "group": "Shorten genes"
     },
     {
         "x": 41,
-        "y": 0.352297593,
-        "group": "lengthen"
-    },
-    {
-        "x": 42,
-        "y": 0.352297593,
-        "group": "lengthen"
-    },
-    {
-        "x": 43,
-        "y": 0.352297593,
-        "group": "lengthen"
+        "y": 0.2985074627,
+        "group": "Shorten genes"
     },
     {
         "x": 44,
-        "y": 0.3544857768,
-        "group": "lengthen"
-    },
-    {
-        "x": 45,
-        "y": 0.3501094092,
-        "group": "lengthen"
-    },
-    {
-        "x": 46,
-        "y": 0.3501094092,
-        "group": "lengthen"
+        "y": 0.2089552239,
+        "group": "Shorten genes"
     },
     {
         "x": 47,
-        "y": 0.3566739606,
-        "group": "lengthen"
-    },
-    {
-        "x": 48,
-        "y": 0.363238512,
-        "group": "lengthen"
-    },
-    {
-        "x": 49,
-        "y": 0.363238512,
-        "group": "lengthen"
+        "y": 0.3432835821,
+        "group": "Shorten genes"
     },
     {
         "x": 50,
-        "y": 0.3676148796,
-        "group": "lengthen"
-    },
-    {
-        "x": 51,
-        "y": 0.3719912473,
-        "group": "lengthen"
-    },
-    {
-        "x": 52,
-        "y": 0.3719912473,
-        "group": "lengthen"
+        "y": 0.1940298507,
+        "group": "Shorten genes"
     },
     {
         "x": 53,
-        "y": 0.3654266958,
-        "group": "lengthen"
-    },
-    {
-        "x": 54,
-        "y": 0.3435448578,
-        "group": "lengthen"
-    },
-    {
-        "x": 55,
-        "y": 0.3369803063,
-        "group": "lengthen"
+        "y": 0.671641791,
+        "group": "Shorten genes"
     },
     {
         "x": 56,
-        "y": 0.3369803063,
-        "group": "lengthen"
-    },
-    {
-        "x": 57,
-        "y": 0.3260393873,
-        "group": "lengthen"
-    },
-    {
-        "x": 58,
-        "y": 0.3238512035,
-        "group": "lengthen"
+        "y": 0.2388059701,
+        "group": "Shorten genes"
     },
     {
         "x": 59,
-        "y": 0.3194748359,
-        "group": "lengthen"
-    },
-    {
-        "x": 60,
-        "y": 0.3150984683,
-        "group": "lengthen"
-    },
-    {
-        "x": 61,
-        "y": 0.3194748359,
-        "group": "lengthen"
+        "y": 0.6268656716,
+        "group": "Shorten genes"
     },
     {
         "x": 62,
-        "y": 0.3041575492,
-        "group": "lengthen"
-    },
-    {
-        "x": 63,
-        "y": 0.2997811816,
-        "group": "lengthen"
-    },
-    {
-        "x": 64,
-        "y": 0.2932166302,
-        "group": "lengthen"
+        "y": 0.4179104478,
+        "group": "Shorten genes"
     },
     {
         "x": 65,
-        "y": 0.2910284464,
-        "group": "lengthen"
-    },
-    {
-        "x": 66,
-        "y": 0.295404814,
-        "group": "lengthen"
-    },
-    {
-        "x": 67,
-        "y": 0.3041575492,
-        "group": "lengthen"
+        "y": 0.3134328358,
+        "group": "Shorten genes"
     },
     {
         "x": 68,
-        "y": 0.3041575492,
-        "group": "lengthen"
-    },
-    {
-        "x": 69,
-        "y": 0.2910284464,
-        "group": "lengthen"
-    },
-    {
-        "x": 70,
-        "y": 0.2822757112,
-        "group": "lengthen"
+        "y": 0.3582089552,
+        "group": "Shorten genes"
     },
     {
         "x": 71,
-        "y": 0.2866520788,
-        "group": "lengthen"
-    },
-    {
-        "x": 72,
-        "y": 0.2778993435,
-        "group": "lengthen"
-    },
-    {
-        "x": 73,
-        "y": 0.2910284464,
-        "group": "lengthen"
+        "y": 0.0895522388,
+        "group": "Shorten genes"
     },
     {
         "x": 74,
-        "y": 0.2669584245,
-        "group": "lengthen"
-    },
-    {
-        "x": 75,
-        "y": 0.2647702407,
-        "group": "lengthen"
-    },
-    {
-        "x": 76,
-        "y": 0.2450765864,
-        "group": "lengthen"
+        "y": 0.1791044776,
+        "group": "Shorten genes"
     },
     {
         "x": 77,
-        "y": 0.2319474836,
-        "group": "lengthen"
-    },
-    {
-        "x": 78,
-        "y": 0.227571116,
-        "group": "lengthen"
-    },
-    {
-        "x": 79,
-        "y": 0.2210065646,
-        "group": "lengthen"
+        "y": 0.3880597015,
+        "group": "Shorten genes"
     },
     {
         "x": 80,
-        "y": 0.2122538293,
-        "group": "lengthen"
-    },
-    {
-        "x": 81,
-        "y": 0.2210065646,
-        "group": "lengthen"
-    },
-    {
-        "x": 82,
-        "y": 0.2341356674,
-        "group": "lengthen"
+        "y": 0.3134328358,
+        "group": "Shorten genes"
     },
     {
         "x": 83,
-        "y": 0.2341356674,
-        "group": "lengthen"
-    },
-    {
-        "x": 84,
-        "y": 0.2428884026,
-        "group": "lengthen"
-    },
-    {
-        "x": 85,
-        "y": 0.2516411379,
-        "group": "lengthen"
+        "y": 0.328358209,
+        "group": "Shorten genes"
     },
     {
         "x": 86,
-        "y": 0.2450765864,
-        "group": "lengthen"
-    },
-    {
-        "x": 87,
-        "y": 0.2472647702,
-        "group": "lengthen"
-    },
-    {
-        "x": 88,
-        "y": 0.249452954,
-        "group": "lengthen"
+        "y": 0.223880597,
+        "group": "Shorten genes"
     },
     {
         "x": 89,
-        "y": 0.2582056893,
-        "group": "lengthen"
-    },
-    {
-        "x": 90,
-        "y": 0.2516411379,
-        "group": "lengthen"
-    },
-    {
-        "x": 91,
-        "y": 0.2560175055,
-        "group": "lengthen"
+        "y": 0.4029850746,
+        "group": "Shorten genes"
     },
     {
         "x": 92,
-        "y": 0.2625820569,
-        "group": "lengthen"
-    },
-    {
-        "x": 93,
-        "y": 0.2603938731,
-        "group": "lengthen"
-    },
-    {
-        "x": 94,
-        "y": 0.2713347921,
-        "group": "lengthen"
+        "y": 0.4776119403,
+        "group": "Shorten genes"
     },
     {
         "x": 95,
-        "y": 0.2800875274,
-        "group": "lengthen"
-    },
-    {
-        "x": 96,
-        "y": 0.2997811816,
-        "group": "lengthen"
-    },
-    {
-        "x": 97,
-        "y": 0.306345733,
-        "group": "lengthen"
+        "y": 0.3432835821,
+        "group": "Shorten genes"
     },
     {
         "x": 98,
-        "y": 0.2997811816,
-        "group": "lengthen"
-    },
-    {
-        "x": 99,
-        "y": 0.295404814,
-        "group": "lengthen"
-    },
-    {
-        "x": 100,
-        "y": 0.2997811816,
-        "group": "lengthen"
+        "y": 0.2985074627,
+        "group": "Shorten genes"
     },
     {
         "x": 101,
-        "y": 0.2932166302,
-        "group": "lengthen"
-    },
-    {
-        "x": 102,
-        "y": 0.295404814,
-        "group": "lengthen"
-    },
-    {
-        "x": 103,
-        "y": 0.2975929978,
-        "group": "lengthen"
+        "y": 0.4626865672,
+        "group": "Shorten genes"
     },
     {
         "x": 104,
-        "y": 0.3041575492,
-        "group": "lengthen"
-    },
-    {
-        "x": 105,
-        "y": 0.3041575492,
-        "group": "lengthen"
-    },
-    {
-        "x": 106,
-        "y": 0.306345733,
-        "group": "lengthen"
+        "y": 0.1641791045,
+        "group": "Shorten genes"
     },
     {
         "x": 107,
-        "y": 0.3129102845,
-        "group": "lengthen"
-    },
-    {
-        "x": 108,
-        "y": 0.3216630197,
-        "group": "lengthen"
-    },
-    {
-        "x": 109,
-        "y": 0.3260393873,
-        "group": "lengthen"
+        "y": 0.3582089552,
+        "group": "Shorten genes"
     },
     {
         "x": 110,
-        "y": 0.3194748359,
-        "group": "lengthen"
-    },
-    {
-        "x": 111,
-        "y": 0.3238512035,
-        "group": "lengthen"
-    },
-    {
-        "x": 112,
-        "y": 0.3216630197,
-        "group": "lengthen"
+        "y": 0.3432835821,
+        "group": "Shorten genes"
     },
     {
         "x": 113,
-        "y": 0.3326039387,
-        "group": "lengthen"
-    },
-    {
-        "x": 114,
-        "y": 0.3391684902,
-        "group": "lengthen"
-    },
-    {
-        "x": 115,
-        "y": 0.3391684902,
-        "group": "lengthen"
+        "y": 0.3134328358,
+        "group": "Shorten genes"
     },
     {
         "x": 116,
-        "y": 0.3588621444,
-        "group": "lengthen"
-    },
-    {
-        "x": 117,
-        "y": 0.3676148796,
-        "group": "lengthen"
-    },
-    {
-        "x": 118,
-        "y": 0.3676148796,
-        "group": "lengthen"
+        "y": 0.3582089552,
+        "group": "Shorten genes"
     },
     {
         "x": 119,
-        "y": 0.3676148796,
-        "group": "lengthen"
-    },
-    {
-        "x": 120,
-        "y": 0.3719912473,
-        "group": "lengthen"
-    },
-    {
-        "x": 121,
-        "y": 0.3741794311,
-        "group": "lengthen"
+        "y": 0.4029850746,
+        "group": "Shorten genes"
     },
     {
         "x": 122,
-        "y": 0.3763676149,
-        "group": "lengthen"
-    },
-    {
-        "x": 123,
-        "y": 0.3829321663,
-        "group": "lengthen"
-    },
-    {
-        "x": 124,
-        "y": 0.3719912473,
-        "group": "lengthen"
+        "y": 0.2985074627,
+        "group": "Shorten genes"
     },
     {
         "x": 125,
-        "y": 0.3676148796,
-        "group": "lengthen"
-    },
-    {
-        "x": 126,
-        "y": 0.3698030635,
-        "group": "lengthen"
-    },
-    {
-        "x": 127,
-        "y": 0.3676148796,
-        "group": "lengthen"
+        "y": 0.5820895522,
+        "group": "Shorten genes"
     },
     {
         "x": 128,
-        "y": 0.3588621444,
-        "group": "lengthen"
-    },
-    {
-        "x": 129,
-        "y": 0.3610503282,
-        "group": "lengthen"
-    },
-    {
-        "x": 130,
-        "y": 0.3785557987,
-        "group": "lengthen"
+        "y": 0.4776119403,
+        "group": "Shorten genes"
     },
     {
         "x": 131,
-        "y": 0.3960612691,
-        "group": "lengthen"
-    },
-    {
-        "x": 132,
-        "y": 0.3873085339,
-        "group": "lengthen"
-    },
-    {
-        "x": 133,
-        "y": 0.3807439825,
-        "group": "lengthen"
+        "y": 0.5820895522,
+        "group": "Shorten genes"
     },
     {
         "x": 134,
-        "y": 0.3894967177,
-        "group": "lengthen"
-    },
-    {
-        "x": 135,
-        "y": 0.3873085339,
-        "group": "lengthen"
-    },
-    {
-        "x": 136,
-        "y": 0.4048140044,
-        "group": "lengthen"
+        "y": 0.4328358209,
+        "group": "Shorten genes"
     },
     {
         "x": 137,
-        "y": 0.4048140044,
-        "group": "lengthen"
-    },
-    {
-        "x": 138,
-        "y": 0.4135667396,
-        "group": "lengthen"
-    },
-    {
-        "x": 139,
-        "y": 0.4223194748,
-        "group": "lengthen"
+        "y": 0.447761194,
+        "group": "Shorten genes"
     },
     {
         "x": 140,
-        "y": 0.4070021882,
-        "group": "lengthen"
-    },
-    {
-        "x": 141,
-        "y": 0.4157549234,
-        "group": "lengthen"
-    },
-    {
-        "x": 142,
-        "y": 0.409190372,
-        "group": "lengthen"
+        "y": 0.4179104478,
+        "group": "Shorten genes"
     },
     {
         "x": 143,
-        "y": 0.4157549234,
-        "group": "lengthen"
-    },
-    {
-        "x": 144,
-        "y": 0.4179431072,
-        "group": "lengthen"
-    },
-    {
-        "x": 145,
-        "y": 0.409190372,
-        "group": "lengthen"
+        "y": 0.5074626866,
+        "group": "Shorten genes"
     },
     {
         "x": 146,
-        "y": 0.4026258206,
-        "group": "lengthen"
-    },
-    {
-        "x": 147,
-        "y": 0.3785557987,
-        "group": "lengthen"
-    },
-    {
-        "x": 148,
-        "y": 0.3763676149,
-        "group": "lengthen"
+        "y": 0.223880597,
+        "group": "Shorten genes"
     },
     {
         "x": 149,
-        "y": 0.3785557987,
-        "group": "lengthen"
-    },
-    {
-        "x": 150,
-        "y": 0.3807439825,
-        "group": "lengthen"
-    },
-    {
-        "x": 151,
-        "y": 0.3938730853,
-        "group": "lengthen"
+        "y": 0.776119403,
+        "group": "Shorten genes"
     },
     {
         "x": 152,
-        "y": 0.3916849015,
-        "group": "lengthen"
-    },
-    {
-        "x": 153,
-        "y": 0.398249453,
-        "group": "lengthen"
-    },
-    {
-        "x": 154,
-        "y": 0.4026258206,
-        "group": "lengthen"
+        "y": 0.447761194,
+        "group": "Shorten genes"
     },
     {
         "x": 155,
-        "y": 0.4004376368,
-        "group": "lengthen"
-    },
-    {
-        "x": 156,
-        "y": 0.4070021882,
-        "group": "lengthen"
-    },
-    {
-        "x": 157,
-        "y": 0.409190372,
-        "group": "lengthen"
+        "y": 0.4925373134,
+        "group": "Shorten genes"
     },
     {
         "x": 158,
-        "y": 0.4004376368,
-        "group": "lengthen"
-    },
-    {
-        "x": 159,
-        "y": 0.3938730853,
-        "group": "lengthen"
-    },
-    {
-        "x": 160,
-        "y": 0.3851203501,
-        "group": "lengthen"
+        "y": 0.447761194,
+        "group": "Shorten genes"
     },
     {
         "x": 161,
-        "y": 0.3851203501,
-        "group": "lengthen"
-    },
-    {
-        "x": 162,
-        "y": 0.3873085339,
-        "group": "lengthen"
-    },
-    {
-        "x": 163,
-        "y": 0.3916849015,
-        "group": "lengthen"
+        "y": 0.4925373134,
+        "group": "Shorten genes"
     },
     {
         "x": 164,
-        "y": 0.3829321663,
-        "group": "lengthen"
-    },
-    {
-        "x": 165,
-        "y": 0.3763676149,
-        "group": "lengthen"
-    },
-    {
-        "x": 166,
-        "y": 0.3807439825,
-        "group": "lengthen"
+        "y": 0.5970149254,
+        "group": "Shorten genes"
     },
     {
         "x": 167,
-        "y": 0.363238512,
-        "group": "lengthen"
-    },
-    {
-        "x": 168,
-        "y": 0.3544857768,
-        "group": "lengthen"
-    },
-    {
-        "x": 169,
-        "y": 0.3501094092,
-        "group": "lengthen"
+        "y": 0.6268656716,
+        "group": "Shorten genes"
     },
     {
         "x": 170,
-        "y": 0.352297593,
-        "group": "lengthen"
-    },
-    {
-        "x": 171,
-        "y": 0.3479212254,
-        "group": "lengthen"
-    },
-    {
-        "x": 172,
-        "y": 0.3479212254,
-        "group": "lengthen"
+        "y": 0.1940298507,
+        "group": "Shorten genes"
     },
     {
         "x": 173,
-        "y": 0.3501094092,
-        "group": "lengthen"
-    },
-    {
-        "x": 174,
-        "y": 0.3457330416,
-        "group": "lengthen"
-    },
-    {
-        "x": 175,
-        "y": 0.352297593,
-        "group": "lengthen"
+        "y": 0.3731343284,
+        "group": "Shorten genes"
     },
     {
         "x": 176,
-        "y": 0.3610503282,
-        "group": "lengthen"
-    },
-    {
-        "x": 177,
-        "y": 0.3610503282,
-        "group": "lengthen"
-    },
-    {
-        "x": 178,
-        "y": 0.3741794311,
-        "group": "lengthen"
+        "y": 0.6567164179,
+        "group": "Shorten genes"
     },
     {
         "x": 179,
-        "y": 0.3741794311,
-        "group": "lengthen"
-    },
-    {
-        "x": 180,
-        "y": 0.3741794311,
-        "group": "lengthen"
-    },
-    {
-        "x": 181,
-        "y": 0.352297593,
-        "group": "lengthen"
+        "y": 0.5671641791,
+        "group": "Shorten genes"
     },
     {
         "x": 182,
-        "y": 0.3369803063,
-        "group": "lengthen"
-    },
-    {
-        "x": 183,
-        "y": 0.341356674,
-        "group": "lengthen"
-    },
-    {
-        "x": 184,
-        "y": 0.341356674,
-        "group": "lengthen"
+        "y": 0.6567164179,
+        "group": "Shorten genes"
     },
     {
         "x": 185,
-        "y": 0.3369803063,
-        "group": "lengthen"
-    },
-    {
-        "x": 186,
-        "y": 0.3435448578,
-        "group": "lengthen"
-    },
-    {
-        "x": 187,
-        "y": 0.3194748359,
-        "group": "lengthen"
+        "y": 0.4179104478,
+        "group": "Shorten genes"
     },
     {
         "x": 188,
-        "y": 0.3304157549,
-        "group": "lengthen"
-    },
-    {
-        "x": 189,
-        "y": 0.3304157549,
-        "group": "lengthen"
-    },
-    {
-        "x": 190,
-        "y": 0.3282275711,
-        "group": "lengthen"
+        "y": 0.4776119403,
+        "group": "Shorten genes"
     },
     {
         "x": 191,
-        "y": 0.3304157549,
-        "group": "lengthen"
-    },
-    {
-        "x": 192,
-        "y": 0.3326039387,
-        "group": "lengthen"
-    },
-    {
-        "x": 193,
-        "y": 0.352297593,
-        "group": "lengthen"
+        "y": 0.4328358209,
+        "group": "Shorten genes"
     },
     {
         "x": 194,
-        "y": 0.352297593,
-        "group": "lengthen"
-    },
-    {
-        "x": 195,
-        "y": 0.3698030635,
-        "group": "lengthen"
-    },
-    {
-        "x": 196,
-        "y": 0.3719912473,
-        "group": "lengthen"
+        "y": 0.1791044776,
+        "group": "Shorten genes"
     },
     {
         "x": 197,
-        "y": 0.3785557987,
-        "group": "lengthen"
-    },
-    {
-        "x": 198,
-        "y": 0.3873085339,
-        "group": "lengthen"
-    },
-    {
-        "x": 199,
-        "y": 0.3829321663,
-        "group": "lengthen"
+        "y": 0.328358209,
+        "group": "Shorten genes"
     },
     {
         "x": 200,
-        "y": 0.3785557987,
-        "group": "lengthen"
+        "y": 0.2089552239,
+        "group": "Shorten genes"
     },
     {
-        "x": -200,
-        "y": 0.8372138145,
-        "group": "shorten"
+        "x": 203,
+        "y": 0.1791044776,
+        "group": "Shorten genes"
     },
     {
-        "x": -199,
-        "y": 0.8391540551,
-        "group": "shorten"
+        "x": 206,
+        "y": 0.6268656716,
+        "group": "Shorten genes"
     },
     {
-        "x": -198,
-        "y": 0.8267365153,
-        "group": "shorten"
+        "x": 209,
+        "y": 0.9552238806,
+        "group": "Shorten genes"
     },
     {
-        "x": -197,
-        "y": 0.8194606131,
-        "group": "shorten"
+        "x": 212,
+        "y": 0.3880597015,
+        "group": "Shorten genes"
     },
     {
-        "x": -196,
-        "y": 0.8086922778,
-        "group": "shorten"
+        "x": 215,
+        "y": 0.3731343284,
+        "group": "Shorten genes"
     },
     {
-        "x": -195,
-        "y": 0.8035506403,
-        "group": "shorten"
+        "x": 218,
+        "y": 0.6119402985,
+        "group": "Shorten genes"
     },
     {
-        "x": -194,
-        "y": 0.8210128056,
-        "group": "shorten"
+        "x": 221,
+        "y": 0.5223880597,
+        "group": "Shorten genes"
     },
     {
-        "x": -193,
-        "y": 0.8178114086,
-        "group": "shorten"
+        "x": 224,
+        "y": 0.6567164179,
+        "group": "Shorten genes"
     },
     {
-        "x": -192,
-        "y": 0.8162592161,
-        "group": "shorten"
+        "x": 227,
+        "y": 0.5671641791,
+        "group": "Shorten genes"
     },
     {
-        "x": -191,
-        "y": 0.8127667831,
-        "group": "shorten"
+        "x": 230,
+        "y": 0.3880597015,
+        "group": "Shorten genes"
     },
     {
-        "x": -190,
-        "y": 0.8403181995,
-        "group": "shorten"
+        "x": 233,
+        "y": 0.6119402985,
+        "group": "Shorten genes"
     },
     {
-        "x": -189,
-        "y": 0.8397361273,
-        "group": "shorten"
+        "x": 236,
+        "y": 0.1641791045,
+        "group": "Shorten genes"
     },
     {
-        "x": -188,
-        "y": 0.8385719829,
-        "group": "shorten"
+        "x": 239,
+        "y": 0.4626865672,
+        "group": "Shorten genes"
     },
     {
-        "x": -187,
-        "y": 0.8405122235,
-        "group": "shorten"
+        "x": 242,
+        "y": 0.4626865672,
+        "group": "Shorten genes"
     },
     {
-        "x": -186,
-        "y": 0.8383779589,
-        "group": "shorten"
+        "x": 245,
+        "y": 0.2089552239,
+        "group": "Shorten genes"
     },
     {
-        "x": -185,
-        "y": 0.8414823438,
-        "group": "shorten"
+        "x": 248,
+        "y": 0.3134328358,
+        "group": "Shorten genes"
     },
     {
-        "x": -184,
-        "y": 0.825766395,
-        "group": "shorten"
+        "x": 251,
+        "y": 0.4029850746,
+        "group": "Shorten genes"
     },
     {
-        "x": -183,
-        "y": 0.8341094296,
-        "group": "shorten"
+        "x": 254,
+        "y": 0.4328358209,
+        "group": "Shorten genes"
     },
     {
-        "x": -182,
-        "y": 0.8362436942,
-        "group": "shorten"
+        "x": 257,
+        "y": 0.1194029851,
+        "group": "Shorten genes"
     },
     {
-        "x": -181,
-        "y": 0.8374078386,
-        "group": "shorten"
+        "x": 260,
+        "y": 0.776119403,
+        "group": "Shorten genes"
     },
     {
-        "x": -180,
-        "y": 0.8220799379,
-        "group": "shorten"
+        "x": 263,
+        "y": 0.2537313433,
+        "group": "Shorten genes"
     },
     {
-        "x": -179,
-        "y": 0.8073341094,
-        "group": "shorten"
+        "x": 266,
+        "y": 0.2537313433,
+        "group": "Shorten genes"
     },
     {
-        "x": -178,
-        "y": 0.7965657742,
-        "group": "shorten"
+        "x": 269,
+        "y": 0.4029850746,
+        "group": "Shorten genes"
     },
     {
-        "x": -177,
-        "y": 0.7866705471,
-        "group": "shorten"
+        "x": 272,
+        "y": 0.5373134328,
+        "group": "Shorten genes"
     },
     {
-        "x": -176,
-        "y": 0.7753201397,
-        "group": "shorten"
+        "x": 275,
+        "y": 0.3134328358,
+        "group": "Shorten genes"
     },
     {
-        "x": -175,
-        "y": 0.7702755142,
-        "group": "shorten"
+        "x": 278,
+        "y": 0.3582089552,
+        "group": "Shorten genes"
     },
     {
-        "x": -174,
-        "y": 0.7684322856,
-        "group": "shorten"
+        "x": 281,
+        "y": 0.3134328358,
+        "group": "Shorten genes"
     },
     {
-        "x": -173,
-        "y": 0.7546565774,
-        "group": "shorten"
+        "x": 284,
+        "y": 0.4029850746,
+        "group": "Shorten genes"
     },
     {
-        "x": -172,
-        "y": 0.7524253007,
-        "group": "shorten"
+        "x": 287,
+        "y": 0.552238806,
+        "group": "Shorten genes"
     },
     {
-        "x": -171,
-        "y": 0.7659099728,
-        "group": "shorten"
+        "x": 290,
+        "y": 0.9104477612,
+        "group": "Shorten genes"
     },
     {
-        "x": -170,
-        "y": 0.7514551804,
-        "group": "shorten"
+        "x": 293,
+        "y": 0.4328358209,
+        "group": "Shorten genes"
     },
     {
-        "x": -169,
-        "y": 0.7574699263,
-        "group": "shorten"
+        "x": 296,
+        "y": 0.3880597015,
+        "group": "Shorten genes"
     },
     {
-        "x": -168,
-        "y": 0.7528133489,
-        "group": "shorten"
+        "x": 299,
+        "y": 0.6417910448,
+        "group": "Shorten genes"
     },
     {
-        "x": -167,
-        "y": 0.7391346527,
-        "group": "shorten"
+        "x": 302,
+        "y": 0.5223880597,
+        "group": "Shorten genes"
     },
     {
-        "x": -166,
-        "y": 0.7349631354,
-        "group": "shorten"
+        "x": 305,
+        "y": 0.552238806,
+        "group": "Shorten genes"
     },
     {
-        "x": -165,
-        "y": 0.7348661234,
-        "group": "shorten"
+        "x": 308,
+        "y": 0.447761194,
+        "group": "Shorten genes"
     },
     {
-        "x": -164,
-        "y": 0.7372914241,
-        "group": "shorten"
+        "x": 311,
+        "y": 0.9253731343,
+        "group": "Shorten genes"
     },
     {
-        "x": -163,
-        "y": 0.7300155219,
-        "group": "shorten"
+        "x": 314,
+        "y": 0.6417910448,
+        "group": "Shorten genes"
     },
     {
-        "x": -162,
-        "y": 0.7343810633,
-        "group": "shorten"
+        "x": 317,
+        "y": 0.8208955224,
+        "group": "Shorten genes"
     },
     {
-        "x": -161,
-        "y": 0.7341870392,
-        "group": "shorten"
-    },
-    {
-        "x": -160,
-        "y": 0.7351571595,
-        "group": "shorten"
-    },
-    {
-        "x": -159,
-        "y": 0.73040357,
-        "group": "shorten"
-    },
-    {
-        "x": -158,
-        "y": 0.7286573535,
-        "group": "shorten"
-    },
-    {
-        "x": -157,
-        "y": 0.7276872332,
-        "group": "shorten"
-    },
-    {
-        "x": -156,
-        "y": 0.7461195188,
-        "group": "shorten"
-    },
-    {
-        "x": -155,
-        "y": 0.7310826542,
-        "group": "shorten"
-    },
-    {
-        "x": -154,
-        "y": 0.743500194,
-        "group": "shorten"
-    },
-    {
-        "x": -153,
-        "y": 0.7284633295,
-        "group": "shorten"
-    },
-    {
-        "x": -152,
-        "y": 0.7254559565,
-        "group": "shorten"
-    },
-    {
-        "x": -151,
-        "y": 0.7222545596,
-        "group": "shorten"
-    },
-    {
-        "x": -150,
-        "y": 0.7107101281,
-        "group": "shorten"
-    },
-    {
-        "x": -149,
-        "y": 0.7092549476,
-        "group": "shorten"
-    },
-    {
-        "x": -148,
-        "y": 0.707314707,
-        "group": "shorten"
-    },
-    {
-        "x": -147,
-        "y": 0.7053744664,
-        "group": "shorten"
-    },
-    {
-        "x": -146,
-        "y": 0.7010089251,
-        "group": "shorten"
-    },
-    {
-        "x": -145,
-        "y": 0.6962553357,
-        "group": "shorten"
-    },
-    {
-        "x": -144,
-        "y": 0.6952852154,
-        "group": "shorten"
-    },
-    {
-        "x": -143,
-        "y": 0.6695770276,
-        "group": "shorten"
-    },
-    {
-        "x": -142,
-        "y": 0.6641443539,
-        "group": "shorten"
-    },
-    {
-        "x": -141,
-        "y": 0.6616220411,
-        "group": "shorten"
-    },
-    {
-        "x": -140,
-        "y": 0.6533760186,
-        "group": "shorten"
-    },
-    {
-        "x": -139,
-        "y": 0.6257275902,
-        "group": "shorten"
-    },
-    {
-        "x": -138,
-        "y": 0.6338766007,
-        "group": "shorten"
-    },
-    {
-        "x": -137,
-        "y": 0.6365929375,
-        "group": "shorten"
-    },
-    {
-        "x": -136,
-        "y": 0.6375630578,
-        "group": "shorten"
-    },
-    {
-        "x": -135,
-        "y": 0.6400853706,
-        "group": "shorten"
-    },
-    {
-        "x": -134,
-        "y": 0.6399883586,
-        "group": "shorten"
-    },
-    {
-        "x": -133,
-        "y": 0.6419285991,
-        "group": "shorten"
-    },
-    {
-        "x": -132,
-        "y": 0.6392122623,
-        "group": "shorten"
-    },
-    {
-        "x": -131,
-        "y": 0.6621071013,
-        "group": "shorten"
-    },
-    {
-        "x": -130,
-        "y": 0.664629414,
-        "group": "shorten"
-    },
-    {
-        "x": -129,
-        "y": 0.6862630966,
-        "group": "shorten"
-    },
-    {
-        "x": -128,
-        "y": 0.6920838184,
-        "group": "shorten"
-    },
-    {
-        "x": -127,
-        "y": 0.694218083,
-        "group": "shorten"
-    },
-    {
-        "x": -126,
-        "y": 0.697516492,
-        "group": "shorten"
-    },
-    {
-        "x": -125,
-        "y": 0.6996507567,
-        "group": "shorten"
-    },
-    {
-        "x": -124,
-        "y": 0.726911137,
-        "group": "shorten"
-    },
-    {
-        "x": -123,
-        "y": 0.7260380287,
-        "group": "shorten"
-    },
-    {
-        "x": -122,
-        "y": 0.7235157159,
-        "group": "shorten"
-    },
-    {
-        "x": -121,
-        "y": 0.7175009701,
-        "group": "shorten"
-    },
-    {
-        "x": -120,
-        "y": 0.7010089251,
-        "group": "shorten"
-    },
-    {
-        "x": -119,
-        "y": 0.6964493597,
-        "group": "shorten"
-    },
-    {
-        "x": -118,
-        "y": 0.6856810244,
-        "group": "shorten"
-    },
-    {
-        "x": -117,
-        "y": 0.6862630966,
-        "group": "shorten"
-    },
-    {
-        "x": -116,
-        "y": 0.687524253,
-        "group": "shorten"
-    },
-    {
-        "x": -115,
-        "y": 0.6783081102,
-        "group": "shorten"
-    },
-    {
-        "x": -114,
-        "y": 0.6608459449,
-        "group": "shorten"
-    },
-    {
-        "x": -113,
-        "y": 0.6572564998,
-        "group": "shorten"
-    },
-    {
-        "x": -112,
-        "y": 0.6494955374,
-        "group": "shorten"
-    },
-    {
-        "x": -111,
-        "y": 0.6409584789,
-        "group": "shorten"
-    },
-    {
-        "x": -110,
-        "y": 0.6357198293,
-        "group": "shorten"
-    },
-    {
-        "x": -109,
-        "y": 0.638048118,
-        "group": "shorten"
-    },
-    {
-        "x": -108,
-        "y": 0.6271827707,
-        "group": "shorten"
-    },
-    {
-        "x": -107,
-        "y": 0.6267947225,
-        "group": "shorten"
-    },
-    {
-        "x": -106,
-        "y": 0.6311602639,
-        "group": "shorten"
-    },
-    {
-        "x": -105,
-        "y": 0.6110787738,
-        "group": "shorten"
-    },
-    {
-        "x": -104,
-        "y": 0.605258052,
-        "group": "shorten"
-    },
-    {
-        "x": -103,
-        "y": 0.5916763679,
-        "group": "shorten"
-    },
-    {
-        "x": -102,
-        "y": 0.5935195964,
-        "group": "shorten"
-    },
-    {
-        "x": -101,
-        "y": 0.5959448972,
-        "group": "shorten"
-    },
-    {
-        "x": -100,
-        "y": 0.59225844,
-        "group": "shorten"
-    },
-    {
-        "x": -99,
-        "y": 0.5992433062,
-        "group": "shorten"
-    },
-    {
-        "x": -98,
-        "y": 0.6087504851,
-        "group": "shorten"
-    },
-    {
-        "x": -97,
-        "y": 0.6060341482,
-        "group": "shorten"
-    },
-    {
-        "x": -96,
-        "y": 0.605258052,
-        "group": "shorten"
-    },
-    {
-        "x": -95,
-        "y": 0.6072953046,
-        "group": "shorten"
-    },
-    {
-        "x": -94,
-        "y": 0.6038998836,
-        "group": "shorten"
-    },
-    {
-        "x": -93,
-        "y": 0.5980791618,
-        "group": "shorten"
-    },
-    {
-        "x": -92,
-        "y": 0.5976911137,
-        "group": "shorten"
-    },
-    {
-        "x": -91,
-        "y": 0.6036088475,
-        "group": "shorten"
-    },
-    {
-        "x": -90,
-        "y": 0.605258052,
-        "group": "shorten"
-    },
-    {
-        "x": -89,
-        "y": 0.6075863407,
-        "group": "shorten"
-    },
-    {
-        "x": -88,
-        "y": 0.6037058595,
-        "group": "shorten"
-    },
-    {
-        "x": -87,
-        "y": 0.5913853318,
-        "group": "shorten"
-    },
-    {
-        "x": -86,
-        "y": 0.5862436942,
-        "group": "shorten"
-    },
-    {
-        "x": -85,
-        "y": 0.5809080326,
-        "group": "shorten"
-    },
-    {
-        "x": -84,
-        "y": 0.5779976717,
-        "group": "shorten"
-    },
-    {
-        "x": -83,
-        "y": 0.5759604191,
-        "group": "shorten"
-    },
-    {
-        "x": -82,
-        "y": 0.5715948778,
-        "group": "shorten"
-    },
-    {
-        "x": -81,
-        "y": 0.565677144,
-        "group": "shorten"
-    },
-    {
-        "x": -80,
-        "y": 0.5358944509,
-        "group": "shorten"
-    },
-    {
-        "x": -79,
-        "y": 0.5303647652,
-        "group": "shorten"
-    },
-    {
-        "x": -78,
-        "y": 0.5085370586,
-        "group": "shorten"
-    },
-    {
-        "x": -77,
-        "y": 0.5061117579,
-        "group": "shorten"
-    },
-    {
-        "x": -76,
-        "y": 0.5008731083,
-        "group": "shorten"
-    },
-    {
-        "x": -75,
-        "y": 0.5031043849,
-        "group": "shorten"
-    },
-    {
-        "x": -74,
-        "y": 0.5057237097,
-        "group": "shorten"
-    },
-    {
-        "x": -73,
-        "y": 0.483410943,
-        "group": "shorten"
-    },
-    {
-        "x": -72,
-        "y": 0.480209546,
-        "group": "shorten"
-    },
-    {
-        "x": -71,
-        "y": 0.4765230889,
-        "group": "shorten"
-    },
-    {
-        "x": -70,
-        "y": 0.4781722934,
-        "group": "shorten"
-    },
-    {
-        "x": -69,
-        "y": 0.4760380287,
-        "group": "shorten"
-    },
-    {
-        "x": -68,
-        "y": 0.4752619325,
-        "group": "shorten"
-    },
-    {
-        "x": -67,
-        "y": 0.477008149,
-        "group": "shorten"
-    },
-    {
-        "x": -66,
-        "y": 0.4762320528,
-        "group": "shorten"
-    },
-    {
-        "x": -65,
-        "y": 0.4794334497,
-        "group": "shorten"
-    },
-    {
-        "x": -64,
-        "y": 0.4791424137,
-        "group": "shorten"
-    },
-    {
-        "x": -63,
-        "y": 0.4792394257,
-        "group": "shorten"
-    },
-    {
-        "x": -62,
-        "y": 0.4758440047,
-        "group": "shorten"
-    },
-    {
-        "x": -61,
-        "y": 0.4818587505,
-        "group": "shorten"
-    },
-    {
-        "x": -60,
-        "y": 0.4846720993,
-        "group": "shorten"
-    },
-    {
-        "x": -59,
-        "y": 0.4953434226,
-        "group": "shorten"
-    },
-    {
-        "x": -58,
-        "y": 0.4932091579,
-        "group": "shorten"
-    },
-    {
-        "x": -57,
-        "y": 0.49330617,
-        "group": "shorten"
-    },
-    {
-        "x": -56,
-        "y": 0.4954404346,
-        "group": "shorten"
-    },
-    {
-        "x": -55,
-        "y": 0.4876794723,
-        "group": "shorten"
-    },
-    {
-        "x": -54,
-        "y": 0.4893286768,
-        "group": "shorten"
-    },
-    {
-        "x": -53,
-        "y": 0.4873884362,
-        "group": "shorten"
-    },
-    {
-        "x": -52,
-        "y": 0.4880675204,
-        "group": "shorten"
-    },
-    {
-        "x": -51,
-        "y": 0.4950523865,
-        "group": "shorten"
-    },
-    {
-        "x": -50,
-        "y": 0.5028133489,
-        "group": "shorten"
-    },
-    {
-        "x": -49,
-        "y": 0.5027163368,
-        "group": "shorten"
-    },
-    {
-        "x": -48,
-        "y": 0.4989328677,
-        "group": "shorten"
-    },
-    {
-        "x": -47,
-        "y": 0.4873884362,
-        "group": "shorten"
-    },
-    {
-        "x": -46,
-        "y": 0.4881645324,
-        "group": "shorten"
-    },
-    {
-        "x": -45,
-        "y": 0.4886495925,
-        "group": "shorten"
-    },
-    {
-        "x": -44,
-        "y": 0.4998059759,
-        "group": "shorten"
-    },
-    {
-        "x": -43,
-        "y": 0.5009701203,
-        "group": "shorten"
-    },
-    {
-        "x": -42,
-        "y": 0.5009701203,
-        "group": "shorten"
-    },
-    {
-        "x": -41,
-        "y": 0.4974776872,
-        "group": "shorten"
-    },
-    {
-        "x": -40,
-        "y": 0.4918509895,
-        "group": "shorten"
-    },
-    {
-        "x": -39,
-        "y": 0.5072759022,
-        "group": "shorten"
-    },
-    {
-        "x": -38,
-        "y": 0.5056266977,
-        "group": "shorten"
-    },
-    {
-        "x": -37,
-        "y": 0.506499806,
-        "group": "shorten"
-    },
-    {
-        "x": -36,
-        "y": 0.5073729142,
-        "group": "shorten"
-    },
-    {
-        "x": -35,
-        "y": 0.5054326737,
-        "group": "shorten"
-    },
-    {
-        "x": -34,
-        "y": 0.5085370586,
-        "group": "shorten"
-    },
-    {
-        "x": -33,
-        "y": 0.5041715173,
-        "group": "shorten"
-    },
-    {
-        "x": -32,
-        "y": 0.4962165308,
-        "group": "shorten"
-    },
-    {
-        "x": -31,
-        "y": 0.493403182,
-        "group": "shorten"
-    },
-    {
-        "x": -30,
-        "y": 0.4910748933,
-        "group": "shorten"
-    },
-    {
-        "x": -29,
-        "y": 0.4913659294,
-        "group": "shorten"
-    },
-    {
-        "x": -28,
-        "y": 0.4904928211,
-        "group": "shorten"
-    },
-    {
-        "x": -27,
-        "y": 0.48040357,
-        "group": "shorten"
-    },
-    {
-        "x": -26,
-        "y": 0.4776872332,
-        "group": "shorten"
-    },
-    {
-        "x": -25,
-        "y": 0.4790454016,
-        "group": "shorten"
-    },
-    {
-        "x": -24,
-        "y": 0.4725455957,
-        "group": "shorten"
-    },
-    {
-        "x": -23,
-        "y": 0.4720605355,
-        "group": "shorten"
-    },
-    {
-        "x": -22,
-        "y": 0.4735157159,
-        "group": "shorten"
-    },
-    {
-        "x": -21,
-        "y": 0.477008149,
-        "group": "shorten"
-    },
-    {
-        "x": -20,
-        "y": 0.4814707024,
-        "group": "shorten"
-    },
-    {
-        "x": -19,
-        "y": 0.4854481956,
-        "group": "shorten"
-    },
-    {
-        "x": -18,
-        "y": 0.4885525805,
-        "group": "shorten"
-    },
-    {
-        "x": -17,
-        "y": 0.5024253007,
-        "group": "shorten"
-    },
-    {
-        "x": -16,
-        "y": 0.5040745052,
-        "group": "shorten"
-    },
-    {
-        "x": -15,
-        "y": 0.4998059759,
-        "group": "shorten"
-    },
-    {
-        "x": -14,
-        "y": 0.4919480016,
-        "group": "shorten"
-    },
-    {
-        "x": -13,
-        "y": 0.4896197128,
-        "group": "shorten"
-    },
-    {
-        "x": -12,
-        "y": 0.4906868452,
-        "group": "shorten"
-    },
-    {
-        "x": -11,
-        "y": 0.4985448196,
-        "group": "shorten"
-    },
-    {
-        "x": -10,
-        "y": 0.5018432286,
-        "group": "shorten"
-    },
-    {
-        "x": -9,
-        "y": 0.5049476135,
-        "group": "shorten"
-    },
-    {
-        "x": -8,
-        "y": 0.4958284827,
-        "group": "shorten"
-    },
-    {
-        "x": -7,
-        "y": 0.5009701203,
-        "group": "shorten"
-    },
-    {
-        "x": -6,
-        "y": 0.5101862631,
-        "group": "shorten"
-    },
-    {
-        "x": -5,
-        "y": 0.5194994179,
-        "group": "shorten"
-    },
-    {
-        "x": -4,
-        "y": 0.5308498254,
-        "group": "shorten"
-    },
-    {
-        "x": -3,
-        "y": 0.5341482344,
-        "group": "shorten"
-    },
-    {
-        "x": -2,
-        "y": 0.5464687621,
-        "group": "shorten"
-    },
-    {
-        "x": -1,
-        "y": 0.6408614668,
-        "group": "shorten"
-    },
-    {
-        "x": 0,
-        "y": 0.6791812185,
-        "group": "shorten"
-    },
-    {
-        "x": 1,
-        "y": 0.6100116414,
-        "group": "shorten"
-    },
-    {
-        "x": 2,
-        "y": 0.6207799767,
-        "group": "shorten"
-    },
-    {
-        "x": 3,
-        "y": 0.6157353512,
-        "group": "shorten"
-    },
-    {
-        "x": 4,
-        "y": 0.624951494,
-        "group": "shorten"
-    },
-    {
-        "x": 5,
-        "y": 0.6337795887,
-        "group": "shorten"
-    },
-    {
-        "x": 6,
-        "y": 0.6365929375,
-        "group": "shorten"
-    },
-    {
-        "x": 7,
-        "y": 0.6393092744,
-        "group": "shorten"
-    },
-    {
-        "x": 8,
-        "y": 0.6531819946,
-        "group": "shorten"
-    },
-    {
-        "x": 9,
-        "y": 0.6639503298,
-        "group": "shorten"
-    },
-    {
-        "x": 10,
-        "y": 0.6846138921,
-        "group": "shorten"
-    },
-    {
-        "x": 11,
-        "y": 0.6918897943,
-        "group": "shorten"
-    },
-    {
-        "x": 12,
-        "y": 0.6853899884,
-        "group": "shorten"
-    },
-    {
-        "x": 13,
-        "y": 0.6921808304,
-        "group": "shorten"
-    },
-    {
-        "x": 14,
-        "y": 0.7114862243,
-        "group": "shorten"
-    },
-    {
-        "x": 15,
-        "y": 0.7206053551,
-        "group": "shorten"
-    },
-    {
-        "x": 16,
-        "y": 0.7244858362,
-        "group": "shorten"
-    },
-    {
-        "x": 17,
-        "y": 0.7345750873,
-        "group": "shorten"
-    },
-    {
-        "x": 18,
-        "y": 0.7436942181,
-        "group": "shorten"
-    },
-    {
-        "x": 19,
-        "y": 0.7531043849,
-        "group": "shorten"
-    },
-    {
-        "x": 20,
-        "y": 0.7640667443,
-        "group": "shorten"
-    },
-    {
-        "x": 21,
-        "y": 0.7757081878,
-        "group": "shorten"
-    },
-    {
-        "x": 22,
-        "y": 0.7834691502,
-        "group": "shorten"
-    },
-    {
-        "x": 23,
-        "y": 0.796177726,
-        "group": "shorten"
-    },
-    {
-        "x": 24,
-        "y": 0.8100504463,
-        "group": "shorten"
-    },
-    {
-        "x": 25,
-        "y": 0.8126697711,
-        "group": "shorten"
-    },
-    {
-        "x": 26,
-        "y": 0.8281916958,
-        "group": "shorten"
-    },
-    {
-        "x": 27,
-        "y": 0.8362436942,
-        "group": "shorten"
-    },
-    {
-        "x": 28,
-        "y": 0.8474000776,
-        "group": "shorten"
-    },
-    {
-        "x": 29,
-        "y": 0.8443927047,
-        "group": "shorten"
-    },
-    {
-        "x": 30,
-        "y": 0.8645712068,
-        "group": "shorten"
-    },
-    {
-        "x": 31,
-        "y": 0.8792200233,
-        "group": "shorten"
-    },
-    {
-        "x": 32,
-        "y": 0.8977493209,
-        "group": "shorten"
-    },
-    {
-        "x": 33,
-        "y": 0.9119130772,
-        "group": "shorten"
-    },
-    {
-        "x": 34,
-        "y": 0.9249126892,
-        "group": "shorten"
-    },
-    {
-        "x": 35,
-        "y": 0.9392704695,
-        "group": "shorten"
-    },
-    {
-        "x": 36,
-        "y": 0.9389794334,
-        "group": "shorten"
-    },
-    {
-        "x": 37,
-        "y": 0.9527551416,
-        "group": "shorten"
-    },
-    {
-        "x": 38,
-        "y": 0.953919286,
-        "group": "shorten"
-    },
-    {
-        "x": 39,
-        "y": 0.9613892123,
-        "group": "shorten"
-    },
-    {
-        "x": 40,
-        "y": 0.9848661234,
-        "group": "shorten"
-    },
-    {
-        "x": 41,
-        "y": 0.9805975941,
-        "group": "shorten"
-    },
-    {
-        "x": 42,
-        "y": 0.9862242918,
-        "group": "shorten"
-    },
-    {
-        "x": 43,
-        "y": 0.9929181218,
-        "group": "shorten"
-    },
-    {
-        "x": 44,
-        "y": 0.993403182,
-        "group": "shorten"
-    },
-    {
-        "x": 45,
-        "y": 0.9931121459,
-        "group": "shorten"
-    },
-    {
-        "x": 46,
-        "y": 0.9821497866,
-        "group": "shorten"
-    },
-    {
-        "x": 47,
-        "y": 0.9744858362,
-        "group": "shorten"
-    },
-    {
-        "x": 48,
-        "y": 0.9909778813,
-        "group": "shorten"
-    },
-    {
-        "x": 49,
-        "y": 0.9956344587,
-        "group": "shorten"
-    },
-    {
-        "x": 50,
+        "x": 320,
         "y": 1.0,
-        "group": "shorten"
+        "group": "Shorten genes"
     },
     {
-        "x": 51,
-        "y": 0.9615832363,
-        "group": "shorten"
+        "x": 323,
+        "y": 0.4925373134,
+        "group": "Shorten genes"
     },
     {
-        "x": 52,
-        "y": 0.9621653085,
-        "group": "shorten"
+        "x": 326,
+        "y": 0.4328358209,
+        "group": "Shorten genes"
     },
     {
-        "x": 53,
-        "y": 0.9527551416,
-        "group": "shorten"
+        "x": 329,
+        "y": 0.3731343284,
+        "group": "Shorten genes"
     },
     {
-        "x": 54,
-        "y": 0.9449941793,
-        "group": "shorten"
+        "x": 332,
+        "y": 0.5373134328,
+        "group": "Shorten genes"
     },
     {
-        "x": 55,
-        "y": 0.9452852154,
-        "group": "shorten"
+        "x": 335,
+        "y": 0.9104477612,
+        "group": "Shorten genes"
     },
     {
-        "x": 56,
-        "y": 0.9354870004,
-        "group": "shorten"
+        "x": 338,
+        "y": 0.5820895522,
+        "group": "Shorten genes"
     },
     {
-        "x": 57,
-        "y": 0.9347109042,
-        "group": "shorten"
+        "x": 341,
+        "y": 0.5223880597,
+        "group": "Shorten genes"
     },
     {
-        "x": 58,
-        "y": 0.9284051222,
-        "group": "shorten"
+        "x": 344,
+        "y": 0.4776119403,
+        "group": "Shorten genes"
     },
     {
-        "x": 59,
-        "y": 0.9183158712,
-        "group": "shorten"
+        "x": 347,
+        "y": 0.3582089552,
+        "group": "Shorten genes"
     },
     {
-        "x": 60,
-        "y": 0.9158905704,
-        "group": "shorten"
+        "x": 350,
+        "y": 0.0149253731,
+        "group": "Shorten genes"
     },
     {
-        "x": 61,
-        "y": 0.8949359721,
-        "group": "shorten"
+        "x": 353,
+        "y": 0.1641791045,
+        "group": "Shorten genes"
     },
     {
-        "x": 62,
-        "y": 0.8928017074,
-        "group": "shorten"
+        "x": 356,
+        "y": 0.2537313433,
+        "group": "Shorten genes"
     },
     {
-        "x": 63,
-        "y": 0.8999805976,
-        "group": "shorten"
+        "x": 359,
+        "y": 0.2388059701,
+        "group": "Shorten genes"
     },
     {
-        "x": 64,
-        "y": 0.9026969344,
-        "group": "shorten"
+        "x": 362,
+        "y": 0.3432835821,
+        "group": "Shorten genes"
     },
     {
-        "x": 65,
-        "y": 0.8905704307,
-        "group": "shorten"
+        "x": 365,
+        "y": 0.3134328358,
+        "group": "Shorten genes"
     },
     {
-        "x": 66,
-        "y": 0.8898913465,
-        "group": "shorten"
+        "x": 368,
+        "y": 0.223880597,
+        "group": "Shorten genes"
     },
     {
-        "x": 67,
-        "y": 0.8989134653,
-        "group": "shorten"
+        "x": 371,
+        "y": 0.1492537313,
+        "group": "Shorten genes"
     },
     {
-        "x": 68,
-        "y": 0.9041521149,
-        "group": "shorten"
+        "x": 374,
+        "y": 0.2835820896,
+        "group": "Shorten genes"
     },
     {
-        "x": 69,
-        "y": 0.9035700427,
-        "group": "shorten"
+        "x": 377,
+        "y": 0.3432835821,
+        "group": "Shorten genes"
     },
     {
-        "x": 70,
-        "y": 0.9060923555,
-        "group": "shorten"
+        "x": 380,
+        "y": 0.1940298507,
+        "group": "Shorten genes"
     },
     {
-        "x": 71,
-        "y": 0.9036670547,
-        "group": "shorten"
+        "x": 383,
+        "y": 0.6119402985,
+        "group": "Shorten genes"
     },
     {
-        "x": 72,
-        "y": 0.8897943345,
-        "group": "shorten"
+        "x": 386,
+        "y": 0.552238806,
+        "group": "Shorten genes"
     },
     {
-        "x": 73,
-        "y": 0.8826154443,
-        "group": "shorten"
+        "x": 389,
+        "y": 0.1194029851,
+        "group": "Shorten genes"
     },
     {
-        "x": 74,
-        "y": 0.8852347691,
-        "group": "shorten"
+        "x": 392,
+        "y": 0.3880597015,
+        "group": "Shorten genes"
     },
     {
-        "x": 75,
-        "y": 0.8977493209,
-        "group": "shorten"
+        "x": 395,
+        "y": 0.2985074627,
+        "group": "Shorten genes"
     },
     {
-        "x": 76,
-        "y": 0.9055102833,
-        "group": "shorten"
-    },
-    {
-        "x": 77,
-        "y": 0.8988164532,
-        "group": "shorten"
-    },
-    {
-        "x": 78,
-        "y": 0.8970702367,
-        "group": "shorten"
-    },
-    {
-        "x": 79,
-        "y": 0.8868839736,
-        "group": "shorten"
-    },
-    {
-        "x": 80,
-        "y": 0.8924136593,
-        "group": "shorten"
-    },
-    {
-        "x": 81,
-        "y": 0.884749709,
-        "group": "shorten"
-    },
-    {
-        "x": 82,
-        "y": 0.8863019014,
-        "group": "shorten"
-    },
-    {
-        "x": 83,
-        "y": 0.8812572759,
-        "group": "shorten"
-    },
-    {
-        "x": 84,
-        "y": 0.8759216143,
-        "group": "shorten"
-    },
-    {
-        "x": 85,
-        "y": 0.86185487,
-        "group": "shorten"
-    },
-    {
-        "x": 86,
-        "y": 0.8589445091,
-        "group": "shorten"
-    },
-    {
-        "x": 87,
-        "y": 0.8637951106,
-        "group": "shorten"
-    },
-    {
-        "x": 88,
-        "y": 0.8581684129,
-        "group": "shorten"
-    },
-    {
-        "x": 89,
-        "y": 0.8580714009,
-        "group": "shorten"
-    },
-    {
-        "x": 90,
-        "y": 0.8610787738,
-        "group": "shorten"
-    },
-    {
-        "x": 91,
-        "y": 0.8401241754,
-        "group": "shorten"
-    },
-    {
-        "x": 92,
-        "y": 0.8558401242,
-        "group": "shorten"
-    },
-    {
-        "x": 93,
-        "y": 0.8676755918,
-        "group": "shorten"
-    },
-    {
-        "x": 94,
-        "y": 0.8638921226,
-        "group": "shorten"
-    },
-    {
-        "x": 95,
-        "y": 0.8760186263,
-        "group": "shorten"
-    },
-    {
-        "x": 96,
-        "y": 0.8727202173,
-        "group": "shorten"
-    },
-    {
-        "x": 97,
-        "y": 0.8835855646,
-        "group": "shorten"
-    },
-    {
-        "x": 98,
-        "y": 0.9130772216,
-        "group": "shorten"
-    },
-    {
-        "x": 99,
-        "y": 0.8999805976,
-        "group": "shorten"
-    },
-    {
-        "x": 100,
-        "y": 0.9026969344,
-        "group": "shorten"
-    },
-    {
-        "x": 101,
-        "y": 0.8939658518,
-        "group": "shorten"
-    },
-    {
-        "x": 102,
-        "y": 0.9020178502,
-        "group": "shorten"
-    },
-    {
-        "x": 103,
-        "y": 0.9010477299,
-        "group": "shorten"
-    },
-    {
-        "x": 104,
-        "y": 0.9009507179,
-        "group": "shorten"
-    },
-    {
-        "x": 105,
-        "y": 0.9065774156,
-        "group": "shorten"
-    },
-    {
-        "x": 106,
-        "y": 0.9123981374,
-        "group": "shorten"
-    },
-    {
-        "x": 107,
-        "y": 0.9151144742,
-        "group": "shorten"
-    },
-    {
-        "x": 108,
-        "y": 0.9190919674,
-        "group": "shorten"
-    },
-    {
-        "x": 109,
-        "y": 0.9174427629,
-        "group": "shorten"
-    },
-    {
-        "x": 110,
-        "y": 0.9220023283,
-        "group": "shorten"
-    },
-    {
-        "x": 111,
-        "y": 0.9164726426,
-        "group": "shorten"
-    },
-    {
-        "x": 112,
-        "y": 0.9278230501,
-        "group": "shorten"
-    },
-    {
-        "x": 113,
-        "y": 0.9338377959,
-        "group": "shorten"
-    },
-    {
-        "x": 114,
-        "y": 0.9224873884,
-        "group": "shorten"
-    },
-    {
-        "x": 115,
-        "y": 0.9377182771,
-        "group": "shorten"
-    },
-    {
-        "x": 116,
-        "y": 0.9421808304,
-        "group": "shorten"
-    },
-    {
-        "x": 117,
-        "y": 0.9460613116,
-        "group": "shorten"
-    },
-    {
-        "x": 118,
-        "y": 0.9359720605,
-        "group": "shorten"
-    },
-    {
-        "x": 119,
-        "y": 0.9201590997,
-        "group": "shorten"
-    },
-    {
-        "x": 120,
-        "y": 0.9293752425,
-        "group": "shorten"
-    },
-    {
-        "x": 121,
-        "y": 0.9219053163,
-        "group": "shorten"
-    },
-    {
-        "x": 122,
-        "y": 0.9213232441,
-        "group": "shorten"
-    },
-    {
-        "x": 123,
-        "y": 0.9555684905,
-        "group": "shorten"
-    },
-    {
-        "x": 124,
-        "y": 0.957314707,
-        "group": "shorten"
-    },
-    {
-        "x": 125,
-        "y": 0.9558595266,
-        "group": "shorten"
-    },
-    {
-        "x": 126,
-        "y": 0.9286961583,
-        "group": "shorten"
-    },
-    {
-        "x": 127,
-        "y": 0.9184128832,
-        "group": "shorten"
-    },
-    {
-        "x": 128,
-        "y": 0.9130772216,
-        "group": "shorten"
-    },
-    {
-        "x": 129,
-        "y": 0.9043461389,
-        "group": "shorten"
-    },
-    {
-        "x": 130,
-        "y": 0.9162786185,
-        "group": "shorten"
-    },
-    {
-        "x": 131,
-        "y": 0.9106519208,
-        "group": "shorten"
-    },
-    {
-        "x": 132,
-        "y": 0.9083236321,
-        "group": "shorten"
-    },
-    {
-        "x": 133,
-        "y": 0.8967792006,
-        "group": "shorten"
-    },
-    {
-        "x": 134,
-        "y": 0.8999805976,
-        "group": "shorten"
-    },
-    {
-        "x": 135,
-        "y": 0.8923166473,
-        "group": "shorten"
-    },
-    {
-        "x": 136,
-        "y": 0.8933837796,
-        "group": "shorten"
-    },
-    {
-        "x": 137,
-        "y": 0.8928017074,
-        "group": "shorten"
-    },
-    {
-        "x": 138,
-        "y": 0.9165696546,
-        "group": "shorten"
-    },
-    {
-        "x": 139,
-        "y": 0.9280170741,
-        "group": "shorten"
-    },
-    {
-        "x": 140,
-        "y": 0.9301513388,
-        "group": "shorten"
-    },
-    {
-        "x": 141,
-        "y": 0.9179278231,
-        "group": "shorten"
-    },
-    {
-        "x": 142,
-        "y": 0.9191889794,
-        "group": "shorten"
-    },
-    {
-        "x": 143,
-        "y": 0.9094877765,
-        "group": "shorten"
-    },
-    {
-        "x": 144,
-        "y": 0.8973612728,
-        "group": "shorten"
-    },
-    {
-        "x": 145,
-        "y": 0.8929957315,
-        "group": "shorten"
-    },
-    {
-        "x": 146,
-        "y": 0.8765036865,
-        "group": "shorten"
-    },
-    {
-        "x": 147,
-        "y": 0.8739813737,
-        "group": "shorten"
-    },
-    {
-        "x": 148,
-        "y": 0.8600116414,
-        "group": "shorten"
-    },
-    {
-        "x": 149,
-        "y": 0.8336243694,
-        "group": "shorten"
-    },
-    {
-        "x": 150,
-        "y": 0.8377958867,
-        "group": "shorten"
-    },
-    {
-        "x": 151,
-        "y": 0.8279006597,
-        "group": "shorten"
-    },
-    {
-        "x": 152,
-        "y": 0.8252813349,
-        "group": "shorten"
-    },
-    {
-        "x": 153,
-        "y": 0.8245052386,
-        "group": "shorten"
-    },
-    {
-        "x": 154,
-        "y": 0.819169577,
-        "group": "shorten"
-    },
-    {
-        "x": 155,
-        "y": 0.8170353124,
-        "group": "shorten"
-    },
-    {
-        "x": 156,
-        "y": 0.8168412883,
-        "group": "shorten"
-    },
-    {
-        "x": 157,
-        "y": 0.8215948778,
-        "group": "shorten"
-    },
-    {
-        "x": 158,
-        "y": 0.8214008537,
-        "group": "shorten"
-    },
-    {
-        "x": 159,
-        "y": 0.8247962747,
-        "group": "shorten"
-    },
-    {
-        "x": 160,
-        "y": 0.8310050446,
-        "group": "shorten"
-    },
-    {
-        "x": 161,
-        "y": 0.8260574311,
-        "group": "shorten"
-    },
-    {
-        "x": 162,
-        "y": 0.8428405122,
-        "group": "shorten"
-    },
-    {
-        "x": 163,
-        "y": 0.8374078386,
-        "group": "shorten"
-    },
-    {
-        "x": 164,
-        "y": 0.8247962747,
-        "group": "shorten"
-    },
-    {
-        "x": 165,
-        "y": 0.8176173846,
-        "group": "shorten"
-    },
-    {
-        "x": 166,
-        "y": 0.8001552192,
-        "group": "shorten"
-    },
-    {
-        "x": 167,
-        "y": 0.789483896,
-        "group": "shorten"
-    },
-    {
-        "x": 168,
-        "y": 0.7844392705,
-        "group": "shorten"
-    },
-    {
-        "x": 169,
-        "y": 0.7885137757,
-        "group": "shorten"
-    },
-    {
-        "x": 170,
-        "y": 0.78298409,
-        "group": "shorten"
-    },
-    {
-        "x": 171,
-        "y": 0.7676561894,
-        "group": "shorten"
-    },
-    {
-        "x": 172,
-        "y": 0.7641637563,
-        "group": "shorten"
-    },
-    {
-        "x": 173,
-        "y": 0.7651338766,
-        "group": "shorten"
-    },
-    {
-        "x": 174,
-        "y": 0.740201785,
-        "group": "shorten"
-    },
-    {
-        "x": 175,
-        "y": 0.7384555685,
-        "group": "shorten"
-    },
-    {
-        "x": 176,
-        "y": 0.7290454016,
-        "group": "shorten"
-    },
-    {
-        "x": 177,
-        "y": 0.733410943,
-        "group": "shorten"
-    },
-    {
-        "x": 178,
-        "y": 0.7374854482,
-        "group": "shorten"
-    },
-    {
-        "x": 179,
-        "y": 0.7339930151,
-        "group": "shorten"
-    },
-    {
-        "x": 180,
-        "y": 0.7422390376,
-        "group": "shorten"
-    },
-    {
-        "x": 181,
-        "y": 0.7305975941,
-        "group": "shorten"
-    },
-    {
-        "x": 182,
-        "y": 0.7306946061,
-        "group": "shorten"
-    },
-    {
-        "x": 183,
-        "y": 0.7253589445,
-        "group": "shorten"
-    },
-    {
-        "x": 184,
-        "y": 0.7234187039,
-        "group": "shorten"
-    },
-    {
-        "x": 185,
-        "y": 0.7016880093,
-        "group": "shorten"
-    },
-    {
-        "x": 186,
-        "y": 0.7031431898,
-        "group": "shorten"
-    },
-    {
-        "x": 187,
-        "y": 0.6985836244,
-        "group": "shorten"
-    },
-    {
-        "x": 188,
-        "y": 0.6889794334,
-        "group": "shorten"
-    },
-    {
-        "x": 189,
-        "y": 0.661331005,
-        "group": "shorten"
-    },
-    {
-        "x": 190,
-        "y": 0.6422196352,
-        "group": "shorten"
-    },
-    {
-        "x": 191,
-        "y": 0.6445479239,
-        "group": "shorten"
-    },
-    {
-        "x": 192,
-        "y": 0.6461971284,
-        "group": "shorten"
-    },
-    {
-        "x": 193,
-        "y": 0.6417345751,
-        "group": "shorten"
-    },
-    {
-        "x": 194,
-        "y": 0.6373690338,
-        "group": "shorten"
-    },
-    {
-        "x": 195,
-        "y": 0.6289289872,
-        "group": "shorten"
-    },
-    {
-        "x": 196,
-        "y": 0.6339736127,
-        "group": "shorten"
-    },
-    {
-        "x": 197,
-        "y": 0.6330034924,
-        "group": "shorten"
-    },
-    {
-        "x": 198,
-        "y": 0.6482343811,
-        "group": "shorten"
-    },
-    {
-        "x": 199,
-        "y": 0.6665696546,
-        "group": "shorten"
-    },
-    {
-        "x": 200,
-        "y": 0.671032208,
-        "group": "shorten"
+        "x": 398,
+        "y": 0.1044776119,
+        "group": "Shorten genes"
     }
 ]

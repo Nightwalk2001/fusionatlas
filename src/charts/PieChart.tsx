@@ -1,6 +1,6 @@
 import {arc, pie, PieArcDatum, scaleOrdinal, sum} from "d3"
-import {motion}                                   from "framer-motion"
-import React, {Fragment, useState}                from "react"
+import {motion} from "framer-motion"
+import React, {Fragment, useState} from "react"
 
 type Data = [string, number]
 
@@ -18,6 +18,7 @@ type PieChartProps = {
   hoverScale?: number
   hoverOpacity?: number
   title?: string
+  labelClass?: string
 }
 
 const defaultColors = [
@@ -27,7 +28,12 @@ const defaultColors = [
   "rgb(236,55,97)",
   "rgba(255,211,12,0.88)",
   "rgba(126,10,241,0.5)",
-  "rgba(229,53,255,0.9)"
+  "rgba(229,53,255,0.9)",
+  "#7bed9f",
+  "#E29578",
+  "#fd79a8",
+  "#C62CF2",
+  "#83C5BE"
 ]
 
 export const PieChart = ({
@@ -43,11 +49,12 @@ export const PieChart = ({
                            opacity = 0.65,
                            hoverScale = 1.03,
                            hoverOpacity = 0.95,
-                           title
+                           title,
+                           labelClass
                          }: PieChartProps) => {
   const [sigma, setSigma] = useState<number>(0)
 
-  const dataReady = Object.entries(data),
+  const dataReady = Object.entries(data).sort((a, b) => b[1] - a[1]),
         total     = sum(dataReady, d => d[1])
 
   const pies = pie<Data>().value(d => d[1])(dataReady)
@@ -93,11 +100,11 @@ export const PieChart = ({
         </g>
       </svg>
 
-      <div className={"flex flex-col place-content-center gap-x-10 gap-y-3"}>
+      <div className={`${labelClass} flex flex-col place-content-center gap-x-10 gap-y-3`}>
         {dataReady.map((d, i) =>
           <div key={d[0]} className={"flex items-center space-x-3"}>
             <div className={"w-[27px] h-[27px] rounded-sm"} style={{backgroundColor: color(`${i}`)}}/>
-            <span className={"text-gray-600 max-w-[260px]"}>{d[0]}</span>
+            <span className={"text-gray-600 max-w-[260px]"}>{d[0].trim().split(".")[1]}</span>
           </div>)}
       </div>
     </div>

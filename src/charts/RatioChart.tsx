@@ -1,5 +1,5 @@
 import {scaleLinear, scaleOrdinal} from "d3"
-import {Fragment}                  from "react"
+import {Fragment} from "react"
 
 type Props = {
   width?: number
@@ -7,13 +7,11 @@ type Props = {
   left?: number
   padding?: number
   name: string
-  data: {
-    name: string
-    value: number
-  }[]
+  raw: Record<string, number>
 }
 
-export const RatioChart = ({width = 920, height = 45, left = width * 0.2, padding = 3, name, data}: Props) => {
+export const RatioChart = ({width = 920, height = 45, left = width * 0.2, padding = 3, name, raw}: Props) => {
+  const data = Object.entries(raw).map(([k, v]) => ({name: k, value: v}))
   const total = data.reduce((prev, curren) => prev + curren.value, 0)
 
   const x     = scaleLinear()

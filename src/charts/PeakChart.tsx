@@ -1,8 +1,8 @@
-import {useSvgSize}                                 from "@/hooks"
-import {AxisBottom, AxisLeft}                       from "@visx/axis"
-import {flatGroup, line, scaleLinear, scaleOrdinal} from "d3"
-import React                                        from "react"
-import peak                                         from "./peak.json"
+import {useSvgSize} from "@/hooks"
+import {AxisBottom, AxisLeft} from "@visx/axis"
+import {curveNatural, flatGroup, line, scaleLinear, scaleOrdinal} from "d3"
+import React from "react"
+import peak from "./proximal.json"
 
 type Datum = {
   group: string
@@ -12,9 +12,8 @@ type Datum = {
 
 type Data = Datum[]
 
-const groups  = ["background", "shorten", "lengthen"],
-      groups1 = ["Background genes", "Shorten genes", "Lengthen genes"],
-      colors  = ["#8bedfa", "#f65764", "#9595f8"]
+const groups = ["Background genes", "Shorten genes", "Lengthen genes"],
+      colors = ["#8bedfa", "#f65764", "#9595f8"]
 
 type Props = {
   data?: Data
@@ -26,14 +25,11 @@ export const PeakChart = ({data = peak}: Props) => {
 
   const grouped = flatGroup(data, d => d.group)
 
-  const x      = scaleLinear().domain([-205, 205]).range([0, width]),
+  const x      = scaleLinear().domain([-200, 200]).range([0, width]),
         y      = scaleLinear().domain([0, 1]).range([height, 0]).nice(),
-        lineFn = line<Datum>().x(d => x(d.x)).y(d => y(d.y)),
+        lineFn = line<Datum>().x(d => x(d.x - 199)).y(d => y(d.y)).defined(d => (d.x + 1) % 3 === 0).curve(curveNatural),
         color  = scaleOrdinal<string>()
           .domain(groups)
-          .range(colors),
-        color1 = scaleOrdinal<string>()
-          .domain(groups1)
           .range(colors)
 
   return <div className={"relative ml-10 w-fit"}>
@@ -71,16 +67,16 @@ export const PeakChart = ({data = peak}: Props) => {
             key={d[0]}
             d={lineFn(d[1])!}
             stroke={color(d[0])}
-            strokeWidth={1.5}
+            strokeWidth={1.2}
             fill={"transparent"}
           />)}
       </g>
     </svg>
 
-    <div className={"absolute left-40 top-16 flex flex-col space-y-2 w-48 font-roma"}>
-      {groups1.map(d =>
+    <div className={"absolute right-10 top-16 flex flex-col space-y-2 w-48 font-roma"}>
+      {groups.map(d =>
         <div key={d} className={"flex items-center space-x-2"}>
-          <div className={"w-14 h-[2.5px]"} style={{backgroundColor: color1(d)}}/>
+          <div className={"w-14 h-[2.5px]"} style={{backgroundColor: color(d)}}/>
           <span className={"text-sm text-gray-600"}>{d}</span>
         </div>)}
     </div>

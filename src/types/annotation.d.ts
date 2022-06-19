@@ -33,10 +33,10 @@ declare type EcDna = {
     eccId: string
     start: number
     end: number
-    type: "Cancer cell line"
-          | "Cancer tissue"
-          | "Healthy person"
-          | string
+    cellType: "Cancer cell line"
+        | "Cancer tissue"
+        | "Healthy person"
+        | string
 }
 
 declare type M6a = {

@@ -1,14 +1,15 @@
 import {ExpressionChart, PieChart, RatioChart} from "@/charts"
-import {getter, PAGE_SIZE, serialize}          from "@/libs"
-import {fusionState}                           from "@/store"
-import {Table, Thead}                          from "@/widgets"
-import {Pagination}                            from "@/widgets/Pagination"
-import type {NextPage}                         from "next"
-import Head                                    from "next/head"
-import {useRouter}                             from "next/router"
-import React, {useEffect, useState}            from "react"
-import {useSetRecoilState}                     from "recoil"
-import useSWR                                  from "swr"
+import {PeakChart} from "@/charts/PeakChart"
+import {getter, PAGE_SIZE, serialize} from "@/libs"
+import {fusionState} from "@/store"
+import {Table, Thead} from "@/widgets"
+import {Pagination} from "@/widgets/Pagination"
+import type {NextPage} from "next"
+import Head from "next/head"
+import {useRouter} from "next/router"
+import React, {useEffect, useState} from "react"
+import {useSetRecoilState} from "recoil"
+import useSWR from "swr"
 
 const untieBreakpoint = (info: string) => {
   const arr = info.split(":")
@@ -84,6 +85,7 @@ const browse: NextPage = () => {
     <Head>
       <title>肿瘤基因融合数据库浏览器</title>
     </Head>
+    <PeakChart/>
     <RatioChart
       name={"By cancer"}
       data={[{name: "TCGA", value: 123}, {name: "gTEX", value: 207}, {name: "g", value: 70}]}
